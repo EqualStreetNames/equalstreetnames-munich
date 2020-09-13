@@ -2,6 +2,8 @@ name,gender,wikidata,type
 "Aagje Dekenstraat",F,Q255601,way
 "Betje Wolffstraat",F,Q183007,way
 Bosboom-Toussaintstraat,F,Q446879,way
+Emmabrug,F,Q57664,way
+Emmaplein,F,Q57664,way
 Emmastraat,F,Q57664,way
 "Hélène Swarthlaan",F,Q4981610,way
 "Henriëtte Roland Holststraat",F,Q441439,way
@@ -54,6 +56,7 @@ Gezellelaan,M,Q336977,way
 "Goeman Borgesiuslaan",M,Q2442740,way
 Gorterlaan,M,Q325191,way
 "Groen van Prinstererlaan",M,Q954945,way
+"H.N. Werkmanbrug",M,Q559440,way
 Händellaan,M,Q7302,way
 Haydnlaan,M,Q7349,way
 "Hendrik Johan Melgersstraat",M,Q26977573,way
@@ -88,6 +91,7 @@ Nolenslaan,M,Q944997,way
 Paracelsusstraat,M,Q83428,way
 Pasteurlaan,M,Q529,way
 Potgieterstraat,M,Q2718465,way
+Praediniussingel,M,Q10358845,way
 Queridolaan,M,Q1167894,way
 Rengersstraat,M,Q2608945,way
 Reviusstraat,M,Q358629,way
@@ -105,6 +109,8 @@ Sweelincklaan,M,Q110294,way
 "Ter Braaklaan",M,Q1375341,way
 Thorbeckelaan,M,Q182509,way
 Troelstralaan,M,Q494665,way
+"Ubbo Emmiussingel",M,Q399131,way
+"Ubbo Emmiusstraat",M,Q399131,way
 "Van Deyssellaan",M,Q2080152,way
 "Van Eedenstraat",M,Q211514,way
 "Van Houtenlaan",M,Q2111892,way

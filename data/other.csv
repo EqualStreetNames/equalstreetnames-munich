@@ -13,11 +13,18 @@ Esserweg,,Q2373369,way
 Geuzenkamp,,Q699636,way
 Hagepreekkamp,,Q2781658,way
 "Helper Kerkstraat",,Q15876176,way
+Herebrug,,Q194029,way
+Hereplein,,Q194029,way
+Heresingel,,Q194029,way
+Herestraat,,Q194029,way
 Hilghepad,,Q18768966,way
 Hondsruglaan,,Q1626793,way
 Kamplaan,,Q97635411,way
 Minervalaan,,Q2079039,way
+Museumeiland,,Q1542668,way
 Quintuslaan,,Q14249619,way
+Rademarkt,,Q692003,way
+Radesingel,,Q692003,way
 "Rode Kruislaan",,Q7178,way
 Saaksumborg,,Q97635625,way
 Schutterspad,,Q97638866,way
@@ -422,8 +429,6 @@ Elmersmastraat,,,way
 Elzenlaan,,,way
 Emdenweg,,,way
 Emingaheerd,,,way
-Emmabrug,,,way
-Emmaplein,,,way
 Emmasingel,,,way
 Emmaviaduct,,,way
 Energieweg,,,way
@@ -550,7 +555,6 @@ H,,,way
 "H. Ridderstraat",,,way
 "H.A. Kooykerplein",,,way
 "H.L. Wichersstraat",,,way
-"H.N. Werkmanbrug",,,way
 "H.N. Werkmanstraat",,,way
 "H.S. Trumanstraat",,,way
 "H.W. Mesdagplein",,,way
@@ -604,12 +608,8 @@ Hendrikstraat,,,way
 "Henk Plenterlaan",,,way
 Heratemaheerd,,,way
 Herebinnensingel,,,way
-Herebrug,,,way
 Herehof,,,way
-Hereplein,,,way
 Herepoortenmolendrift,,,way
-Heresingel,,,way
-Herestraat,,,way
 Hereweg,,,way
 "Herman Bessem Pad",,,way
 "Herman Colleniusstraat",,,way
@@ -993,7 +993,6 @@ Munsterheerd,,,way
 Munsterstraatje,,,way
 Muntinghbrug,,,way
 Muntinglaan,,,way
-Museumeiland,,,way
 Museumstraat,,,way
 Mussengang,,,way
 "Mutua Fidesstraat",,,way
@@ -1177,7 +1176,6 @@ Postrijdersgang,,,way
 Poststraat,,,way
 "Pot- en Pannengang",,,way
 Pottebakkersrijge,,,way
-Praediniussingel,,,way
 Prinsenstraat,,,way
 "Prinses Margrietstraat",,,way
 Prinsesseweg,,,way
@@ -1201,8 +1199,6 @@ Ra,,,way
 Raamstraat,,,way
 Rabenhauptstraat,,,way
 Radebinnensingel,,,way
-Rademarkt,,,way
-Radesingel,,,way
 Radijsstraat,,,way
 Radiumstraat,,,way
 Ranonkelstraat,,,way
@@ -1389,7 +1385,6 @@ T,,,way
 Tallinnweg,,,way
 Tarralaan,,,way
 Tarweplein,,,way
-"Taxi Groningen",,,way
 Tellegenstraat,,,way
 "Ten Oeverlaan",,,way
 "Ter Borchlaan",,,way
@@ -1438,8 +1433,6 @@ Turkooisstraat,,,way
 U,,,way
 "U.T. Delfiaweg",,,way
 Ubbegalaan,,,way
-"Ubbo Emmiussingel",,,way
-"Ubbo Emmiusstraat",,,way
 Ulgersmaweg,,,way
 Uppsalaweg,,,way
 Uranusstraat,,,way
