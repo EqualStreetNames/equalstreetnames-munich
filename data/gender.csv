@@ -19,6 +19,7 @@ Vasalislaan,F,Q242016,way
 "Abraham Kuyperlaan",M,Q320014,way
 Achterberglaan,M,Q592299,way
 "Admiraal de Ruyterlaan",M,Q316945,way
+"Adriaan van Ostadestraat",M,Q352438,way
 "Albert Hahnlaan",M,Q2738705,way
 "Antoon Coolenlaan",M,Q608851,way
 Beethovenlaan,M,Q255,way
@@ -27,6 +28,7 @@ Bilderdijklaan,M,Q1375186,way
 Boerhaavelaan,M,Q313093,way
 Bordewijklaan,M,Q1382474,way
 Brederostraat,M,Q560740,way
+Breitnerstraat,M,Q289441,way
 Camphuysenstraat,M,Q1932984,way
 Chopinlaan,M,Q1268,way
 Colijnlaan,M,Q686476,way
@@ -43,6 +45,7 @@ Diekhoestertil,M,Q104886666,way
 "Domela Nieuwenhuislaan",M,Q1374710,way
 Donderslaan,M,Q1347862,way
 "Dorus Rijkersstraat",M,Q593372,way
+"Dr. C. Hofstede de Grootkade",M,Q757837,way
 "Dr. D. Bosstraat",M,Q2584154,way
 "Du Perronlaan",M,Q1284250,way
 Einthovenlaan,M,Q189488,way
@@ -51,33 +54,46 @@ Elsschotlaan,M,Q554105,way
 "F.C. de Hossonstraat",M,Q18397099,way
 "Felix Timmermanslaan",M,Q713284,way
 Flemingstraat,M,Q37064,way
+"Frans van Mierisstraat",M,Q959236,way
 "G.J. Boekhovenstraat",M,Q2007801,way
 Galenuslaan,M,Q8778,way
 "Geert Teispad",M,Q2368212,way
 "Geerten Gossaertlaan",M,Q2083293,way
 "George Martensstraat",M,Q2740377,way
+"Gerard Doustraat",M,Q335927,way
 "Gerard Revelaan",M,Q364153,way
+"Gerard ter Borghstraat",M,Q346808,way
 Gezellelaan,M,Q336977,way
 "Goeman Borgesiuslaan",M,Q2442740,way
 Gorterlaan,M,Q325191,way
 "Groen van Prinstererlaan",M,Q954945,way
 "H.N. Werkmanbrug",M,Q559440,way
+"H.W. Mesdagplein",M,Q474238,way
+"H.W. Mesdagstraat",M,Q474238,way
 Händellaan,M,Q7302,way
 Haydnlaan,M,Q7349,way
 "Hendrik Johan Melgersstraat",M,Q26977573,way
 "Hendrik de Vriesstraat",M,Q1823314,way
 "Henri Dunantlaan",M,Q12091,way
+"Herman Colleniusstraat",M,Q2167817,way
 Hippocrateslaan,M,Q5264,way
 Hoorniklaan,M,Q2488509,way
 "Hora Siccamasingel",M,Q3173248,way
 "J.H. Egenbergerstraat",M,Q942302,way
+"Jacob van Ruysdaelstraat",M,Q213612,way
 "Jacques Perkstraat",M,Q1622474,way
+"Jan Lutmastraat",M,Q2778143,way
+"Jan Steenstraat",M,Q205863,way
 "Jan Wiegersweg",M,Q2675322,way
 "Jan Wolkerslaan",M,Q379679,way
 "Jan van Galenstraat",M,Q71734,way
+"Jan van Goyenstraat",M,Q315996,way
 "Jan van der Zeestraat",M,Q2279047,way
 Jennerstraat,M,Q40852,way
 "Job Hansenstraat",M,Q2709236,way
+"Johannes Vermeerstraat",M,Q41264,way
+"Jozef Israëlsplein",M,Q528460,way
+"Jozef Israëlsstraat",M,Q528460,way
 Klooslaan,M,Q2574395,way
 Kochstraat,M,Q37193,way
 Kortenaerstraat,M,Q2912127,way
@@ -87,33 +103,42 @@ Lucebertpad,M,Q689279,way
 Luykenstraat,M,Q87466,way
 "Marcellus Emantslaan",M,Q2063379,way
 Marsmanlaan,M,Q1358259,way
+"Meindert Hobbemastraat",M,Q336908,way
 Moddermanlaan,M,Q2440498,way
+Mondriaanstraat,M,Q151803,way
 Multatulistraat,M,Q154211,way
 Nesciopad,M,Q2559747,way
 "Nico Rostlaan",M,Q1986010,way
 "Nicolaas Beetsstraat",M,Q537100,way
 Nijhofflaan,M,Q1905756,way
 Nolenslaan,M,Q944997,way
+"Otto Eerelmanstraat",M,Q504222,way
 "P.C. Hooftlaan",M,Q10914484,way
 Paracelsusstraat,M,Q83428,way
 Pasteurlaan,M,Q529,way
+"Paulus Potterstraat",M,Q355406,way
 "Piet Heinstraat",M,Q560774,way
 Potgieterstraat,M,Q2718465,way
 Praediniussingel,M,Q10358845,way
 Queridolaan,M,Q1167894,way
+"Rembrandt van Rijnstraat",M,Q5598,way
 Rengersstraat,M,Q2608945,way
 Reviusstraat,M,Q358629,way
+Rubensstraat,M,Q5599,way
 Schaepmanlaan,M,Q4526118,way
 Schaperstraat,M,Q2560153,way
 Schelfhoutstraat,M,Q500379,way
 Schubertlaan,M,Q7312,way
 Semmelweisstraat,M,Q59736,way
+"Sint Lucasstraat",M,Q128538,way
 Slauerhofflaan,M,Q561650,way
 Spieghelstraat,M,Q262254,way
 Staringstraat,M,Q2359791,way
 Strausslaan,M,Q13894,way
 Streuvelslaan,M,Q175669,way
 Sweelincklaan,M,Q110294,way
+"Taco Mesdagplein",M,Q2452500,way
+"Taco Mesdagstraat",M,Q2452500,way
 "Ter Braaklaan",M,Q1375341,way
 "Theodorus Niemeyerstraat",M,Q2347992,way
 Thorbeckelaan,M,Q182509,way
@@ -123,6 +148,7 @@ Troelstralaan,M,Q494665,way
 "Van Brakelplein",M,Q1921960,way
 "Van Deyssellaan",M,Q2080152,way
 "Van Eedenstraat",M,Q211514,way
+"Van Goghstraat",M,Q5582,way
 "Van Heemskerckstraat",M,Q472245,way
 "Van Houtenlaan",M,Q2111892,way
 "Van Iddekingeweg",M,Q2202286,way
@@ -141,6 +167,7 @@ Troelstralaan,M,Q494665,way
 Verweystraat,M,Q586323,way
 Vestdijklaan,M,Q437782,way
 Vondellaan,M,Q312673,way
+Wassenberghstraat,M,Q2113054,way
 Wenckebachlaan,M,Q548782,way
 "Werumeus Buningstraat",M,Q1963717,way
 "Willem Frederik Hermanslaan",M,Q437771,way
