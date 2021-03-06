@@ -1,5 +1,5 @@
 [out:json][timeout:300];
-( area["admin_level"="10"]["ref:woonplaatscode"="1070"]["wikidata"="Q749"]; )->.a;
+( area["admin_level"="10"]["ref:woonplaatscode"="1070"]["wikidata"="Q1726"]; )->.a;
 (
     relation["type"="multipolygon"]["highway"]["name"](area.a);
 );
