@@ -13,8 +13,12 @@ return [
     ],
 
     'gender' => [
-        'relation' => [],
-        'way' => [],
+        'relation' => [
+        ],
+        'way' => [
+            '4585941'  => 'M', // Joachim Gotthard 
+            '153184477'  => 'M', // Joachim Gotthard 
+        ],
     ],
 
     'instances' => [
