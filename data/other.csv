@@ -1,6 +1,8 @@
 name,gender,wikidata,type
 "Fürstenrieder Straße",,Q567568,way
 Willibaldstraße,,Q27600471,way
+"Wimpfener Straße",,Q491535,way
+Wotanstraße,,Q43610,way
 Agnes-Bernauer-Platz,,,way
 Agnes-Bernauer-Straße,,,way
 Agricolaplatz,,,way
@@ -65,7 +67,6 @@ Geyerspergerstraße,,,way
 "Giesinger Bahnhofplatz",,,relation
 Goetheplatz,,,relation
 Gottfried-Koelwel-Weg,,,way
-Gotthardstraße,,,way
 "Grüner Markt",,,relation
 Guido-Schneble-Straße,,,way
 Gunzenlehstraße,,,way
@@ -222,11 +223,6 @@ Westendstraße,,,way
 Widarkisstraße,,,way
 "Wiener Platz",,,relation
 Wilhelm-Mayr-Straße,,,way
-Wilhelm-Riehl-Straße,,,way
 Willi-Daume-Platz,,,relation
-Willibaldplatz,,,way
-"Wimpfener Straße",,,way
-Wotanstraße,,,way
 Zschokkestraße,,,way
-Zumbuschweg,,,way
-Zündterstraße,,,way
+Zündterstraße,_,,way

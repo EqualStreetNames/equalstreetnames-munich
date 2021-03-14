@@ -17,7 +17,22 @@ return [
         ],
         'way' => [
             '4585941'  => 'M', // Joachim Gotthard 
+            '272455482'  => 'M', // Joachim Gotthard 
+            '220851263'  => 'M', // Joachim Gotthard 
+            '4886833'  => 'M', // Joachim Gotthard 
+            '4497089'  => 'M', // Joachim Gotthard 
+            '30578368'  => 'M', // Joachim Gotthard 
             '153184477'  => 'M', // Joachim Gotthard 
+            '38077003'  => 'M', // Joachim Gotthard 
+            '69688181'  => 'M', // Joachim Gotthard 
+            '594740424'  => 'M', // Joachim Gotthard 
+            '686292119'  => 'M', // Joachim Gotthard 
+            '343008978'  => 'M', // Joachim Gotthard 
+            '220851264'  => 'M', // Joachim Gotthard 
+            '272455485'  => 'M', // Joachim Gotthard 
+            '4497089' => 'M', // Wilhelm Mayr. Er war eine der 42 Geiseln
+            '4497089' => 'M', // Widarkis oder Widarsik, einer der frühen Einwohner von Pasing. 
+            '4218691' => '_', // Zündterstraße
         ],
     ],
 
