@@ -30,9 +30,12 @@ return [
             '343008978'  => 'M', // Joachim Gotthard 
             '220851264'  => 'M', // Joachim Gotthard 
             '272455485'  => 'M', // Joachim Gotthard 
+            '4586071' => 'M', // Weichselbaumer, Schulkommissar Matthias Weichselbaumer
             '4497089' => 'M', // Wilhelm Mayr. Er war eine der 42 Geiseln
             '4497089' => 'M', // Widarkis oder Widarsik, einer der frühen Einwohner von Pasing. 
             '4218691' => '_', // Zündterstraße
+            '4515584' => '_', // Weißenfelderstraße, Münchner Patrizierfamilie
+            '4885794' => '_', // Weißenfelderplatz, Münchner Patrizierfamilie
         ],
     ],
 

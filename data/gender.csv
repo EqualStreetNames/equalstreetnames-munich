@@ -1,4 +1,5 @@
 name,gender,wikidata,type
+Agnes-Bernauer-Platz,F,Q76443,way
 Agnes-Bernauer-Straße,F,Q76443,way
 Droste-Hülshoff-Straße,F,Q57307,way
 Viebigplatz,F,Q71465,way
@@ -11,9 +12,15 @@ Hönigschmidplatz,M,Q78059,way
 Justinus-Kerner-Straße,M,Q77280,way
 Queristraße,M,Q43822,way
 Senftenauerstraße,M,Q1914008,way
+Veit-Stoß-Straße,M,Q163800,way
+Von-der-Pfordten-Straße,M,Q85092,way
+Vosslerstraße,M,Q66135,way
+Walter-Scott-Straße,M,Q79025,way
+Weiß-Ferdl-Straße,M,Q43826,way
 Willibaldplatz,M,Q705878,way
 Willibaldstraße,M,Q705878,way
 Zschokkestraße,M,Q66207,way
 Zumbuschweg,M,Q268977,way
 Gotthardstraße,M,,way
+Weichselbaumerstraße,M,,way
 Wilhelm-Riehl-Straße,M,,way

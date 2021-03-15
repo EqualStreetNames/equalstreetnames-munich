@@ -1,9 +1,9 @@
 name,gender,wikidata,type
 "Fürstenrieder Straße",,Q567568,way
-Willibaldstraße,,Q27600471,way
+"Vohburger Straße",,Q251778,way
+"Weßlinger Straße",,Q536419,way
 "Wimpfener Straße",,Q491535,way
 Wotanstraße,,Q43610,way
-Agnes-Bernauer-Platz,,,way
 Agnes-Bernauer-Straße,,,way
 Agricolaplatz,,,way
 Agricolastraße,,,way
@@ -16,7 +16,6 @@ Altmannstraße,,,way
 "Am Harras",,,relation
 "Am Laimer Anger",,,way
 Ammerseestraße,,,way
-Anton-Hammel-Straße,,,way
 "Barmer Straße",,,way
 Baudererstraße,,,way
 Becherstraße,,,way
@@ -31,7 +30,6 @@ Byecherstraße,,,way
 Camerloherstraße,,,way
 Candidplatz,,,relation
 Coubertinplatz,,,relation
-"Depot Busservice Watzinger",,,way
 Desingweg,,,way
 Dichtlstraße,,,way
 Diesterwegstraße,,,way
@@ -54,7 +52,6 @@ Fraunhoferstraße,,,relation
 "Friedberger Straße",,,way
 "Friedenheimer Brücke",,,way
 "Friedenheimer Straße",,,way
-Friedrich-von-Pauli-Straße,,,way
 Fröbelplatz,,,way
 Gaishoferstraße,,,way
 Gatterburgstraße,,,way
@@ -207,22 +204,16 @@ Thierschplatz,,,relation
 Thurneyssenstraße,,,way
 "Tuttlinger Straße",,,way
 Valpichlerstraße,,,way
-Veit-Stoß-Straße,,,way
-Viebigplatz,,,way
 Viktualienmarkt,,,relation
-"Vohburger Straße",,,way
 Von-der-Pfordten-Straße,,,way
-Vosslerstraße,,,way
-Walter-Scott-Straße,,,way
-Weichselbaumerstraße,,,way
-Weiß-Ferdl-Straße,,,way
 Weißenfelderplatz,,,way
-Weißenfelderstraße,,,way
 Westendstraße,,,way
-"Weßlinger Straße",,,way
 Widarkisstraße,,,way
 "Wiener Platz",,,relation
 Wilhelm-Mayr-Straße,,,way
 Willi-Daume-Platz,,,relation
+Willibaldstraße,,,way
 Zschokkestraße,,,way
+Weißenfelderplatz,_,,way
+Weißenfelderstraße,_,,way
 Zündterstraße,_,,way
