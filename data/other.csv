@@ -6,9 +6,6 @@ name,gender,wikidata,type
 Wotanstraße,,Q43610,way
 Agnes-Bernauer-Straße,,,way
 Agricolaplatz,,,way
-Agricolastraße,,,way
-Aindorferstraße,,,way
-Alblstraße,,,way
 Aldegreverstraße,,,way
 Alpenveilchenstraße,,,way
 Altmannstraße,,,way
@@ -26,15 +23,12 @@ Brantstraße,,,way
 Brosamerstraße,,,way
 Brundageplatz,,,relation
 Burgkmairstraße,,,way
-Byecherstraße,,,way
-Camerloherstraße,,,way
 Candidplatz,,,relation
 Coubertinplatz,,,relation
 Desingweg,,,way
 Dichtlstraße,,,way
 Diesterwegstraße,,,way
 Dreyerstraße,,,way
-Egetterstraße,,,way
 "Eichstätter Straße",,,way
 Elsenheimerstraße,,,way
 Endelhauserstraße,,,way
@@ -59,8 +53,6 @@ Geigerstraße,,,way
 "Geisenfelder Straße",,,way
 Genovevaweg,,,way
 Georg-Lotter-Weg,,,way
-Geßlerstraße,,,way
-Geyerspergerstraße,,,way
 "Giesinger Bahnhofplatz",,,relation
 Goetheplatz,,,relation
 Gottfried-Koelwel-Weg,,,way
@@ -83,13 +75,11 @@ Högerstraße,,,way
 "Hohenwarter Straße",,,way
 Hohenzollernplatz,,,relation
 Hönlestraße,,,way
-Hörkherstraße,,,way
 Horwerkstraße,,,way
 Hufnagelstraße,,,way
 Ida-Schumacher-Weg,,,way
 Ilmmünsterstraße,,,way
 Ilse-Weber-Straße,,,way
-Inderstorferstraße,,,way
 Isbertstraße,,,way
 Joergstraße,,,way
 Johannes-Scharrer-Straße,,,way
@@ -102,7 +92,6 @@ Karlsplatz,,,relation
 Käthe-Bauer-Weg,,,way
 Kaufingerstraße,,,relation
 Kiem-Pauli-Weg,,,way
-Kirchmairstraße,,,way
 Kirchwaldstraße,,,way
 Klaus-Mann-Platz,,,relation
 Knödelplatz,,,relation
@@ -113,7 +102,6 @@ Kurt-Landauer-Platz,,,relation
 "Laim Bahnhof",,,way
 "Laimer Platz",,,way
 "Landsberger Straße",,,way
-Lanzstraße,,,way
 Lautensackstraße,,,way
 Lechfeldstraße,,,way
 Leibnizstraße,,,way
@@ -141,7 +129,6 @@ Nordhaideplatz,,,relation
 Orleansplatz,,,relation
 Ossietzkystraße,,,way
 Ostendorferweg,,,way
-Perhamerstraße,,,way
 Perkhoferstraße,,,way
 "Pfaffenhofener Platz",,,way
 Pfarrer-Endres-Weg,,,way
@@ -151,34 +138,27 @@ Pöhlmannstraße,,,way
 "Pörtschacher Straße",,,way
 Preysingplatz,,,relation
 Prinzregentenplatz,,,relation
-Pronnerplatz,,,way
 Queristraße,,,way
 "Radstädter Straße",,,way
 Rapotostraße,,,way
-Rappstraße,,,way
 Rattenhuberstraße,,,way
 "Raublinger Straße",,,way
-Rechpacherstraße,,,way
 Reindlstraße,,,way
 Reithmannstraße,,,way
 Resi-Huber-Platz,,,relation
-Reutterstraße,,,way
 Richard-Strauss-Straße,,,relation
 Riegerhofstraße,,,way
 Riegerhofweg,,,way
 Rilkestraße,,,way
-Ronpeckhstraße,,,way
 "Rosenheimer Platz",,,relation
 Rotkreuzplatz,,,relation
 Rudi-Hierl-Platz,,,relation
 Rushaimerstraße,,,way
-Saherrstraße,,,way
 Sandrartstraße,,,way
 Sankt-Jakobs-Platz,,,relation
 Sankt-Ulrich-Straße,,,way
 Schäufeleinstraße,,,way
 Schedelstraße,,,way
-Schifferlstraße,,,way
 Schlangenwegerl,,,way
 "Schrobenhausener Straße",,,way
 Schrottstraße,,,way
@@ -188,22 +168,18 @@ Schulmeierweg,,,way
 Seehoferstraße,,,way
 Sendlinger-Tor-Platz,,,relation
 Senftenauerstraße,,,way
-Siglstraße,,,way
 "Stadtlohner Straße",,,way
 "Stegener Weg",,,way
 Steinbeisplatz,,,way
 Stiglmaierplatz,,,relation
-Stöberlstraße,,,way
 Stögerstraße,,,way
 "Straubinger Straße",,,way
-Stroblstraße,,,way
 Sturmstraße,,,way
 Stürzerstraße,,,way
 Sulzbeckstraße,,,way
 Thierschplatz,,,relation
 Thurneyssenstraße,,,way
 "Tuttlinger Straße",,,way
-Valpichlerstraße,,,way
 Viktualienmarkt,,,relation
 Von-der-Pfordten-Straße,,,way
 Weißenfelderplatz,,,way
