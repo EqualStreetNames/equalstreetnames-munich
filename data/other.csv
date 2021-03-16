@@ -1,5 +1,9 @@
 name,gender,wikidata,type
 "Fürstenrieder Straße",,Q567568,way
+Sankt-Ulrich-Straße,,Q63826392,way
+"Schrobenhausener Straße",,Q504746,way
+"Stadtlohner Straße",,Q200567,way
+"Straubinger Straße",,Q7027,way
 "Vohburger Straße",,Q251778,way
 "Weßlinger Straße",,Q536419,way
 "Wimpfener Straße",,Q491535,way
@@ -154,26 +158,14 @@ Rilkestraße,,,way
 Rotkreuzplatz,,,relation
 Rudi-Hierl-Platz,,,relation
 Rushaimerstraße,,,way
-Sandrartstraße,,,way
 Sankt-Jakobs-Platz,,,relation
-Sankt-Ulrich-Straße,,,way
-Schäufeleinstraße,,,way
-Schedelstraße,,,way
-Schlangenwegerl,,,way
-"Schrobenhausener Straße",,,way
-Schrottstraße,,,way
-Schulmeierweg,,,way
 "Schwabinger Tor",,,relation
 "Schweizer Platz",,,relation
 Seehoferstraße,,,way
 Sendlinger-Tor-Platz,,,relation
-Senftenauerstraße,,,way
-"Stadtlohner Straße",,,way
-"Stegener Weg",,,way
 Steinbeisplatz,,,way
 Stiglmaierplatz,,,relation
 Stögerstraße,,,way
-"Straubinger Straße",,,way
 Sturmstraße,,,way
 Stürzerstraße,,,way
 Sulzbeckstraße,,,way
@@ -190,6 +182,8 @@ Wilhelm-Mayr-Straße,,,way
 Willi-Daume-Platz,,,relation
 Willibaldstraße,,,way
 Zschokkestraße,,,way
+Schlangenwegerl,_,,way
+"Stegener Weg",_,,way
 Weißenfelderplatz,_,,way
 Weißenfelderstraße,_,,way
 Zündterstraße,_,,way
