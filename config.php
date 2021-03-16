@@ -103,6 +103,7 @@ return [
             '4586071' => 'M', // Weichselbaumer, Schulkommissar Matthias Weichselbaumer
             '4497089' => 'M', // Wilhelm Mayr, eine der 42 Münchner Geiseln König Gustavs II. Adolf 
             '4497089' => 'M', // Widarkis oder Widarsik, einer der frühen Einwohner von Pasing. 
+            '159179354' => '_', // Stegener Weg, nach einem Ortsteil von der Gemeinde Inning am Ammersee.
             '4218691' => '_', // Zündterstraße
             '4515584' => '_', // Weißenfelderstraße, Münchner Patrizierfamilie
             '4885794' => '_', // Weißenfelderplatz, Münchner Patrizierfamilie
