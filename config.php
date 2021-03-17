@@ -34,8 +34,9 @@ return [
             '4515588' => 'M', // Camerloherstraße: Camerloher, eine der 42 Münchner Geiseln König Gustavs II. Adolf 
             '5081108' => 'M', // Camerloherstraße: Camerloher, eine der 42 Münchner Geiseln König Gustavs II. Adolf 
             '8351859' => 'M', // Camerloherstraße: Camerloher, eine der 42 Münchner Geiseln König Gustavs II. Adolf 
-            '16943300' => 'M', // Geßlerstraße: Geßler, eine der 42 Münchner Geiseln König Gustavs II. Adolf 
+            '30803854' => 'M', // Pfarrer-Endres-Weg: Pfarrer Otto Endres (* 15.01.1897 in München, † 17.09.1971 ebenda). 
             '25777548' => 'M', // Egetterstraße: Egetter, eine der 42 Münchner Geiseln König Gustavs II. Adolf 
+            '16943300' => 'M', // Geßlerstraße: Geßler, eine der 42 Münchner Geiseln König Gustavs II. Adolf 
             '4586008' => 'M', // Hörkherstraße: Hörkher, eine der 42 Münchner Geiseln König Gustavs II. Adolf 
             '4218700' => 'M', // Geyerspergerstraße: Geyersperger, eine der 42 Münchner Geiseln König Gustavs II. Adolf 
             '4585941'  => 'M', // Gotthardstraße: Joachim Gotthard, eine der 42 Münchner Geiseln König Gustavs II. Adolf
@@ -109,6 +110,7 @@ return [
             '4497089' => 'M', // Wilhelm-Mayr-Straße: Wilhelm Mayr, eine der 42 Münchner Geiseln König Gustavs II. Adolf 
             '4497089' => 'M', // Widarkisstraße: Widarkis oder Widarsik, einer der frühen Einwohner von Pasing. 
             '312037058' => 'F', // Schulmeierweg: nach Therese Schulmeier, die eine Stiftung für behinderte Kinder errichtete
+            '172593388' => '_', // Perkhoferstraße: nach der Münchner Patrizierfamilie Perkhofer. 
             '4515585' => '_', // Rattenhuberstraße: nach einer alten Münchner Bürgerfamile. 
             '30673310' => '_', // Schlangenwegerl: nach den hier früher häufig vorkommenden Schlangen. 
             '4885823' => '_', // Stegener Weg: Stegan, ein Ortsteil von der Gemeinde Inning am Ammersee.

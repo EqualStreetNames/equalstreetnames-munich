@@ -143,20 +143,14 @@ Preysingplatz,,,relation
 Prinzregentenplatz,,,relation
 Queristraße,,,way
 "Radstädter Straße",,,way
-Rapotostraße,,,way
-Rattenhuberstraße,,,way
 "Raublinger Straße",,,way
-Reindlstraße,,,way
 Reithmannstraße,,,way
 Resi-Huber-Platz,,,relation
 Richard-Strauss-Straße,,,relation
-Riegerhofstraße,,,way
-Riegerhofweg,,,way
 Rilkestraße,,,way
 "Rosenheimer Platz",,,relation
 Rotkreuzplatz,,,relation
 Rudi-Hierl-Platz,,,relation
-Rushaimerstraße,,,way
 Sankt-Jakobs-Platz,,,relation
 "Schwabinger Tor",,,relation
 "Schweizer Platz",,,relation
@@ -180,6 +174,9 @@ Widarkisstraße,,,way
 Wilhelm-Mayr-Straße,,,way
 Willi-Daume-Platz,,,relation
 Willibaldstraße,,,way
+Rattenhuberstraße,_,,way
+Riegerhofstraße,_,,way
+Riegerhofweg,_,,way
 Schlangenwegerl,_,,way
 "Stegener Weg",_,,way
 Weißenfelderplatz,_,,way
