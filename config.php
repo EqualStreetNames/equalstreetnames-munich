@@ -61,10 +61,14 @@ return [
             '118682365' => 'M', // Perhamerstraße: Perhamer, eine der 42 Münchner Geiseln König Gustavs II. Adolf 
             '426277802' => 'M', // Perhamerstraße: Perhamer, eine der 42 Münchner Geiseln König Gustavs II. Adolf 
             '706391878' => 'M', // Perhamerstraße: Perhamer, eine der 42 Münchner Geiseln König Gustavs II. Adolf 
-            '4271294' => 'M', // Pronnerstraße: Pronner, eine der 42 Münchner Geiseln König Gustavs II. Adolf 
+            '4271294' => 'M', // Pronnerplatz: Pronner, eine der 42 Münchner Geiseln König Gustavs II. Adolf 
+            '159179344' => 'M', // Rapotostraße: nach Rapoto, einem Münchner Adeligen
             '4271286' => 'M', // Rappstraße: Rapp, eine der 42 Münchner Geiseln König Gustavs II. Adolf 
             '16943297' => 'M', // Rechpacherstraße: Rechpacher, eine der 42 Münchner Geiseln König Gustavs II. Adolf 
+            '5079664' => 'M', // Reindlstraße: nach dem ehemaligen Bürgermeister Benno Ferdinand von Reindl
+            '5085887' => 'M', // Reindlstraße: nach dem ehemaligen Bürgermeister Benno Ferdinand von Reindl
             '4271292' => 'M', // Ronpeckhstraße: Ronpeckh, eine der 42 Münchner Geiseln König Gustavs II. Adolf 
+            '16943312' => 'M', // Rushaimerstraße: altes Münchner Patriziergeschlecht 
             '5079677' => 'M', // Saherrstraße: Saherr, eine der 42 Münchner Geiseln König Gustavs II. Adolf 
             '5079852' => 'M', // Saherrstraße: Saherr, eine der 42 Münchner Geiseln König Gustavs II. Adolf 
             '5085885' => 'M', // Saherrstraße: Saherr, eine der 42 Münchner Geiseln König Gustavs II. Adolf 
@@ -105,12 +109,17 @@ return [
             '4497089' => 'M', // Wilhelm-Mayr-Straße: Wilhelm Mayr, eine der 42 Münchner Geiseln König Gustavs II. Adolf 
             '4497089' => 'M', // Widarkisstraße: Widarkis oder Widarsik, einer der frühen Einwohner von Pasing. 
             '312037058' => 'F', // Schulmeierweg: nach Therese Schulmeier, die eine Stiftung für behinderte Kinder errichtete
+            '4515585' => '_', // Rattenhuberstraße: nach einer alten Münchner Bürgerfamile. 
             '30673310' => '_', // Schlangenwegerl: nach den hier früher häufig vorkommenden Schlangen. 
             '4885823' => '_', // Stegener Weg: Stegan, ein Ortsteil von der Gemeinde Inning am Ammersee.
             '159179354' => '_', // Seehoferstraße: nach der Münchner Bürgerfamilie Seehofer. 
             '178966547' => '_', // Stegener Weg, nach einem Ortsteil von der Gemeinde Inning am Ammersee.
             '293561755' => '_', // Stegener Weg, nach einem Ortsteil von der Gemeinde Inning am Ammersee.
             '4218691' => '_', // Zündterstraße: nach dem Beginn der Straße am Grenzstein (Zintstei) von Pasing. 
+            '35134707' => '_', // Riegerhofstraße nach einem alten Laimer Hofnamen
+            '422789263' => '_', // Riegerhofstraßeeg: nach einem alten Laimer Hofnamen
+            '422789264' => '_', // Riegerhofstraßeeg: nach einem alten Laimer Hofnamen
+            '4218710' => '_', // Riegerhofweg: nach einem alten Laimer Hofnamen
             '4515584' => '_', // Weißenfelderstraße: Münchner Patrizierfamilie
             '4885794' => '_', // Weißenfelderplatz: Münchner Patrizierfamilie
         ],
