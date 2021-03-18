@@ -132,9 +132,7 @@ Nordhaideplatz,,,relation
 Orleansplatz,,,relation
 Ossietzkystraße,,,way
 Ostendorferweg,,,way
-Perkhoferstraße,,,way
 "Pfaffenhofener Platz",,,way
-Pfarrer-Endres-Weg,,,way
 "Platz der Menschenrechte",,,relation
 "Platz vor der Feldherrnhalle",,,relation
 Pöhlmannstraße,,,way
@@ -174,6 +172,7 @@ Widarkisstraße,,,way
 Wilhelm-Mayr-Straße,,,way
 Willi-Daume-Platz,,,relation
 Willibaldstraße,,,way
+Perkhoferstraße,_,,way
 Rattenhuberstraße,_,,way
 Riegerhofstraße,_,,way
 Riegerhofweg,_,,way
