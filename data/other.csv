@@ -1,5 +1,16 @@
 name,gender,wikidata,type
 "Fürstenrieder Straße",,Q567568,way
+Lechfeldstraße,,Q897240,way
+Maria-Birnbaum-Straße,,Q19963757,way
+"Mergentheimer Straße",,Q61942,way
+Murtalstraße,,Q1684573,way
+"Neubeuerner Straße",,Q536363,way
+"Nördlinger Straße",,Q489902,way
+"Ofener Straße",,Q193478,way
+"Pfaffenhofener Platz",,Q490319,way
+"Pörtschacher Straße",,Q875805,way
+"Radstädter Straße",,Q260950,way
+"Raublinger Straße",,Q538080,way
 Sankt-Ulrich-Straße,,Q63826392,way
 "Schrobenhausener Straße",,Q504746,way
 "Stadtlohner Straße",,Q200567,way
@@ -105,47 +116,19 @@ Konrad-Zuse-Platz,,,relation
 Kurt-Landauer-Platz,,,relation
 "Laimer Platz",,,way
 "Landsberger Straße",,,way
-Lautensackstraße,,,way
-Lechfeldstraße,,,way
-Leibnizstraße,,,way
-Lina-Meittinger-Straße,,,way
-Ludlstraße,,,way
-Ludwig-Richter-Straße,,,way
-Lutzstraße,,,way
 Mangfallplatz,,,relation
-Maria-Birnbaum-Straße,,,way
 Marienhof,,,relation
 Marienplatz,,,relation
-Mathunistraße,,,way
-Maxstadtstraße,,,way
-Meister-Mathis-Weg,,,way
-"Mergentheimer Straße",,,way
-Mitterhoferstraße,,,way
-Murtalstraße,,,way
 Museumshof,,,relation
-"Neubeuerner Straße",,,way
-Neuburgerstraße,,,way
 "Neuhauser Straße",,,relation
 Nordhaideplatz,,,relation
-"Nördlinger Straße",,,way
-"Ofener Straße",,,way
 Orleansplatz,,,relation
-Ossietzkystraße,,,way
-Ostendorferweg,,,way
-"Pfaffenhofener Platz",,,way
 "Platz der Menschenrechte",,,relation
 "Platz vor der Feldherrnhalle",,,relation
-Pöhlmannstraße,,,way
-"Pörtschacher Straße",,,way
 Preysingplatz,,,relation
 Prinzregentenplatz,,,relation
-Queristraße,,,way
-"Radstädter Straße",,,way
-"Raublinger Straße",,,way
-Reithmannstraße,,,way
 Resi-Huber-Platz,,,relation
 Richard-Strauss-Straße,,,relation
-Rilkestraße,,,way
 "Rosenheimer Platz",,,relation
 Rotkreuzplatz,,,relation
 Rudi-Hierl-Platz,,,relation
@@ -172,6 +155,7 @@ Widarkisstraße,,,way
 Wilhelm-Mayr-Straße,,,way
 Willi-Daume-Platz,,,relation
 Willibaldstraße,,,way
+Neuburgerstraße,_,,way
 Perkhoferstraße,_,,way
 Rattenhuberstraße,_,,way
 Riegerhofstraße,_,,way
