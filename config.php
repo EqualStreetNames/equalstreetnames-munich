@@ -13,7 +13,8 @@ return [
     ],
 
     'gender' => [
-        'relation' => [
+        'relation' => [      
+            '4271290' => 'M' // Agricola, eine der 42 Münchner Geiseln König Gustavs II. Adolf 
         ],
         'way' => [
             '4218701' => 'M', // Agricola, eine der 42 Münchner Geiseln König Gustavs II. Adolf 
