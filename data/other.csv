@@ -1,5 +1,20 @@
 name,gender,wikidata,type
 "Fürstenrieder Straße",,Q567568,way
+Lechfeldstraße,,Q897240,way
+Maria-Birnbaum-Straße,,Q19963757,way
+"Mergentheimer Straße",,Q61942,way
+Murtalstraße,,Q1684573,way
+"Neubeuerner Straße",,Q536363,way
+"Nördlinger Straße",,Q489902,way
+"Ofener Straße",,Q193478,way
+"Pfaffenhofener Platz",,Q490319,way
+"Pörtschacher Straße",,Q875805,way
+"Radstädter Straße",,Q260950,way
+"Raublinger Straße",,Q538080,way
+Sankt-Ulrich-Straße,,Q63826392,way
+"Schrobenhausener Straße",,Q504746,way
+"Stadtlohner Straße",,Q200567,way
+"Straubinger Straße",,Q7027,way
 "Vohburger Straße",,Q251778,way
 "Weßlinger Straße",,Q536419,way
 "Wimpfener Straße",,Q491535,way
@@ -99,81 +114,32 @@ Kolumbusplatz,,,relation
 Königsplatz,,,relation
 Konrad-Zuse-Platz,,,relation
 Kurt-Landauer-Platz,,,relation
-"Laim Bahnhof",,,way
 "Laimer Platz",,,way
 "Landsberger Straße",,,way
-Lautensackstraße,,,way
-Lechfeldstraße,,,way
-Leibnizstraße,,,way
-Lina-Meittinger-Straße,,,way
-Ludlstraße,,,way
-Ludwig-Richter-Straße,,,way
-Lutzstraße,,,way
 Mangfallplatz,,,relation
-Maria-Birnbaum-Straße,,,way
 Marienhof,,,relation
 Marienplatz,,,relation
-Mathunistraße,,,way
-Maxstadtstraße,,,way
-Meister-Mathis-Weg,,,way
-"Mergentheimer Straße",,,way
-Mitterhoferstraße,,,way
-Murtalstraße,,,way
 Museumshof,,,relation
-"Neubeuerner Straße",,,way
-Neuburgerstraße,,,way
 "Neuhauser Straße",,,relation
 Nordhaideplatz,,,relation
-"Nördlinger Straße",,,way
-"Ofener Straße",,,way
 Orleansplatz,,,relation
-Ossietzkystraße,,,way
-Ostendorferweg,,,way
-Perkhoferstraße,,,way
-"Pfaffenhofener Platz",,,way
-Pfarrer-Endres-Weg,,,way
 "Platz der Menschenrechte",,,relation
 "Platz vor der Feldherrnhalle",,,relation
-Pöhlmannstraße,,,way
-"Pörtschacher Straße",,,way
 Preysingplatz,,,relation
 Prinzregentenplatz,,,relation
-Queristraße,,,way
-"Radstädter Straße",,,way
-Rapotostraße,,,way
-Rattenhuberstraße,,,way
-"Raublinger Straße",,,way
-Reindlstraße,,,way
-Reithmannstraße,,,way
 Resi-Huber-Platz,,,relation
 Richard-Strauss-Straße,,,relation
-Riegerhofstraße,,,way
-Riegerhofweg,,,way
-Rilkestraße,,,way
 "Rosenheimer Platz",,,relation
 Rotkreuzplatz,,,relation
 Rudi-Hierl-Platz,,,relation
-Rushaimerstraße,,,way
-Sandrartstraße,,,way
 Sankt-Jakobs-Platz,,,relation
-Sankt-Ulrich-Straße,,,way
-Schäufeleinstraße,,,way
-Schedelstraße,,,way
-Schlangenwegerl,,,way
-"Schrobenhausener Straße",,,way
-Schrottstraße,,,way
-Schulmeierweg,,,way
 "Schwabinger Tor",,,relation
 "Schweizer Platz",,,relation
 Seehoferstraße,,,way
 Sendlinger-Tor-Platz,,,relation
-Senftenauerstraße,,,way
-"Stadtlohner Straße",,,way
-"Stegener Weg",,,way
 Steinbeisplatz,,,way
 Stiglmaierplatz,,,relation
 Stögerstraße,,,way
-"Straubinger Straße",,,way
 Sturmstraße,,,way
 Stürzerstraße,,,way
 Sulzbeckstraße,,,way
@@ -189,7 +155,13 @@ Widarkisstraße,,,way
 Wilhelm-Mayr-Straße,,,way
 Willi-Daume-Platz,,,relation
 Willibaldstraße,,,way
-Zschokkestraße,,,way
+Neuburgerstraße,_,,way
+Perkhoferstraße,_,,way
+Rattenhuberstraße,_,,way
+Riegerhofstraße,_,,way
+Riegerhofweg,_,,way
+Schlangenwegerl,_,,way
+"Stegener Weg",_,,way
 Weißenfelderplatz,_,,way
 Weißenfelderstraße,_,,way
 Zündterstraße,_,,way

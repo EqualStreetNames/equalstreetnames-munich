@@ -29,7 +29,7 @@ COMMENT=$3
 NAME=${STREET%%straße*}
 
 for id in $(cat $JSONFILE | jq --arg street $STREET '.features[] | select(.properties.name==$street) | .id'); do
-  echo "            '$id' => '$GENDER', // $NAME, $COMMENT "
+  echo "            '$id' => '$GENDER', // $STREET: $NAME, $COMMENT "
 done
 
 
