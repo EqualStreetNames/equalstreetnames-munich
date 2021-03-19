@@ -53,6 +53,9 @@ return [
             '272455485'  => 'M', // Gotthardstraße: Joachim Gotthard, eine der 42 Münchner Geiseln König Gustavs II. Adolf
             '4586008' => 'M', // Hörkherstraße: Hörkher, eine der 42 Münchner Geiseln König Gustavs II. Adolf 
             '5079661' => 'M', // Inderstorferstraße: Inderstorfer, eine der 42 Münchner Geiseln König Gustavs II. Adolf 
+            '16943267' => 'M', // Isbertstraße: nach dem Edlen Isbert, der vermutlich das erste Pasinger Schloss erbaute
+            '178651083' => 'F', // Käthe-Bauer-Weg: Käthe Bauer, Ehrenmitglied der Arbeiterwohlfahrt
+            '851117646' => 'F', // Käthe-Bauer-Weg: Käthe Bauer, Ehrenmitglied der Arbeiterwohlfahrt
             '4586063' => 'M', // Kirchmairstraße: Kirchmair, eine der 42 Münchner Geiseln König Gustavs II. Adolf 
             '237418954' => 'M', // Kirchmairstraße: Kirchmair, eine der 42 Münchner Geiseln König Gustavs II. Adolf 
             '17247873' => 'M', // Lanzstraße: Lanz, eine der 42 Münchner Geiseln König Gustavs II. Adolf 
@@ -112,6 +115,8 @@ return [
             '4497089' => 'M', // Wilhelm-Mayr-Straße: Wilhelm Mayr, eine der 42 Münchner Geiseln König Gustavs II. Adolf 
             '4497089' => 'M', // Widarkisstraße: Widarkis oder Widarsik, einer der frühen Einwohner von Pasing. 
             '312037058' => 'F', // Schulmeierweg: nach Therese Schulmeier, die eine Stiftung für behinderte Kinder errichtete
+            '5080996' => '_', // Käpflstraße: nach der Münchner Kaufmannsfamilie Käpfl.
+            '420012960' => '_', // Käpflstraße: nach der Münchner Kaufmannsfamilie Käpfl.
             '16798351' => '_', // Neuburgerstraße: nach der Pasinger Familie Neuburger
             '172593388' => '_', // Perkhoferstraße: nach der Münchner Patrizierfamilie Perkhofer. 
             '4515585' => '_', // Rattenhuberstraße: nach einer alten Münchner Bürgerfamile. 
