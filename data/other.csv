@@ -1,5 +1,7 @@
 name,gender,wikidata,type
 "Fürstenrieder Straße",,Q567568,way
+"Kärntner Platz",,Q37985,way
+Kirchwaldstraße,,Q1649279,way
 Lechfeldstraße,,Q897240,way
 Maria-Birnbaum-Straße,,Q19963757,way
 "Mergentheimer Straße",,Q61942,way
@@ -95,19 +97,9 @@ Hufnagelstraße,,,way
 Ida-Schumacher-Weg,,,way
 Ilmmünsterstraße,,,way
 Ilse-Weber-Straße,,,way
-Isbertstraße,,,way
-Joergstraße,,,way
-Johannes-Scharrer-Straße,,,way
-Josef-Schick-Straße,,,way
-Junkerstraße,,,way
-Käpflstraße,,,way
 Karl-Marx-Zentrum,,,relation
 Karlsplatz,,,relation
-"Kärntner Platz",,,way
-Käthe-Bauer-Weg,,,way
 Kaufingerstraße,,,relation
-Kiem-Pauli-Weg,,,way
-Kirchwaldstraße,,,way
 Klaus-Mann-Platz,,,relation
 Knödelplatz,,,relation
 Kolumbusplatz,,,relation
@@ -155,6 +147,7 @@ Widarkisstraße,,,way
 Wilhelm-Mayr-Straße,,,way
 Willi-Daume-Platz,,,relation
 Willibaldstraße,,,way
+Käpflstraße,_,,way
 Neuburgerstraße,_,,way
 Perkhoferstraße,_,,way
 Rattenhuberstraße,_,,way
