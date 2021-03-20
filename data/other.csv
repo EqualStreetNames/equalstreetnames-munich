@@ -1,5 +1,7 @@
 name,gender,wikidata,type
 "Fürstenrieder Straße",,Q567568,way
+"Hohenwarter Straße",,Q489217,way
+Ilmmünsterstraße,,Q489250,way
 "Kärntner Platz",,Q37985,way
 Kirchwaldstraße,,Q1649279,way
 Lechfeldstraße,,Q897240,way
@@ -23,15 +25,9 @@ Sankt-Ulrich-Straße,,Q63826392,way
 Wotanstraße,,Q43610,way
 Agnes-Bernauer-Straße,,,way
 Agricolaplatz,,,way
-Aldegreverstraße,,,way
-Alpenveilchenstraße,,,way
-Altmannstraße,,,way
 "Am Bavariapark",,,relation
 "Am Harras",,,relation
-"Am Laimer Anger",,,way
 Ammerseestraße,,,way
-"Barmer Straße",,,way
-Baudererstraße,,,way
 Becherstraße,,,way
 Behamstraße,,,way
 Berchemstraße,,,way
@@ -85,18 +81,10 @@ Haunerstraße,,,way
 "Hechenwanger Weg",,,way
 Heigenmooserstraße,,,way
 Heinrich-Goebel-Straße,,,way
-Helmpertstraße,,,way
 Hogenbergplatz,,,way
 Hogenbergstraße,,,way
-Högerstraße,,,way
-"Hohenwarter Straße",,,way
 Hohenzollernplatz,,,relation
-Hönlestraße,,,way
-Horwerkstraße,,,way
 Hufnagelstraße,,,way
-Ida-Schumacher-Weg,,,way
-Ilmmünsterstraße,,,way
-Ilse-Weber-Straße,,,way
 Karl-Marx-Zentrum,,,relation
 Karlsplatz,,,relation
 Kaufingerstraße,,,relation
@@ -147,6 +135,9 @@ Widarkisstraße,,,way
 Wilhelm-Mayr-Straße,,,way
 Willi-Daume-Platz,,,relation
 Willibaldstraße,,,way
+Altmannstraße,_,,way
+"Am Laimer Anger",_,,way
+"Barmer Straße",_,,way
 Käpflstraße,_,,way
 Neuburgerstraße,_,,way
 Perkhoferstraße,_,,way
