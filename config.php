@@ -60,6 +60,9 @@ return [
             '343008978'  => 'M', // Gotthardstraße: Joachim Gotthard, eine der 42 Münchner Geiseln König Gustavs II. Adolf
             '220851264'  => 'M', // Gotthardstraße: Joachim Gotthard, eine der 42 Münchner Geiseln König Gustavs II. Adolf
             '272455485'  => 'M', // Gotthardstraße: Joachim Gotthard, eine der 42 Münchner Geiseln König Gustavs II. Adolf
+            '16799626' => 'M', // Helmpertstraße: nach dem Edlen Helmpert, der in einer Urkunde erwähnt wird, in der auch Laim zum ersten Mal nachweislich genannt ist. 
+            '16799764' => 'M', // Helmpertstraße: nach dem Edlen Helmpert, der in einer Urkunde erwähnt wird, in der auch Laim zum ersten Mal nachweislich genannt ist. 
+            '386701461' => 'M', // Helmpertstraße: nach dem Edlen Helmpert, der in einer Urkunde erwähnt wird, in der auch Laim zum ersten Mal nachweislich genannt ist. 
             '4586040' => 'M', // Horwerkstraße: Maler der Spätgotik Niclas Horwerk
             '4586008' => 'M', // Hörkherstraße: Hörkher, eine der 42 Münchner Geiseln König Gustavs II. Adolf 
             '5079661' => 'M', // Inderstorferstraße: Inderstorfer, eine der 42 Münchner Geiseln König Gustavs II. Adolf 
