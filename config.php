@@ -14,7 +14,7 @@ return [
 
     'gender' => [
         'relation' => [      
-            '4271290' => 'M' // Agricola, eine der 42 Münchner Geiseln König Gustavs II. Adolf 
+            '4271290' => 'M' // Agricolaplatz: eine der 42 Münchner Geiseln König Gustavs II. Adolf 
         ],
         'way' => [
             '4218701' => 'M', // Agricolastraße: Agricola, eine der 42 Münchner Geiseln König Gustavs II. Adolf 
@@ -53,6 +53,7 @@ return [
             '343008978'  => 'M', // Gotthardstraße: Joachim Gotthard, eine der 42 Münchner Geiseln König Gustavs II. Adolf
             '220851264'  => 'M', // Gotthardstraße: Joachim Gotthard, eine der 42 Münchner Geiseln König Gustavs II. Adolf
             '272455485'  => 'M', // Gotthardstraße: Joachim Gotthard, eine der 42 Münchner Geiseln König Gustavs II. Adolf
+            '4586040' => 'M', // Horwerkstraße: Maler der Spätgotik Niclas Horwerk
             '4586008' => 'M', // Hörkherstraße: Hörkher, eine der 42 Münchner Geiseln König Gustavs II. Adolf 
             '5079661' => 'M', // Inderstorferstraße: Inderstorfer, eine der 42 Münchner Geiseln König Gustavs II. Adolf 
             '16943267' => 'M', // Isbertstraße: nach dem Edlen Isbert, der vermutlich das erste Pasinger Schloss erbaute
@@ -113,10 +114,11 @@ return [
             '237418956' => 'M', // Valpichlerstraße: Valpichler, eine der 42 Münchner Geiseln König Gustavs II. Adolf 
             '237421404' => 'M', // Valpichlerstraße: Valpichler, eine der 42 Münchner Geiseln König Gustavs II. Adolf 
             '262201842' => 'M', // Valpichlerstraße: Valpichler, eine der 42 Münchner Geiseln König Gustavs II. Adolf 
-            '4586071' => 'M', // Weichselbaumer, Schulkommissar Matthias Weichselbaumer
+            '4586071' => 'M', // Weichselbaumerstraße: Schulkommissar Matthias Weichselbaumer
             '4497089' => 'M', // Wilhelm-Mayr-Straße: Wilhelm Mayr, eine der 42 Münchner Geiseln König Gustavs II. Adolf 
             '4497089' => 'M', // Widarkisstraße: Widarkis oder Widarsik, einer der frühen Einwohner von Pasing. 
             '312037058' => 'F', // Schulmeierweg: nach Therese Schulmeier, die eine Stiftung für behinderte Kinder errichtete
+            '5079666' => '_', // Högerstraße: Münchner Bürgerfamilie Höger
             '5080996' => '_', // Käpflstraße: nach der Münchner Kaufmannsfamilie Käpfl.
             '420012960' => '_', // Käpflstraße: nach der Münchner Kaufmannsfamilie Käpfl.
             '16798351' => '_', // Neuburgerstraße: nach der Pasinger Familie Neuburger
@@ -125,12 +127,12 @@ return [
             '30673310' => '_', // Schlangenwegerl: nach den hier früher häufig vorkommenden Schlangen. 
             '4885823' => '_', // Stegener Weg: Stegan, ein Ortsteil von der Gemeinde Inning am Ammersee.
             '159179354' => '_', // Seehoferstraße: nach der Münchner Bürgerfamilie Seehofer. 
-            '178966547' => '_', // Stegener Weg, nach einem Ortsteil von der Gemeinde Inning am Ammersee.
-            '293561755' => '_', // Stegener Weg, nach einem Ortsteil von der Gemeinde Inning am Ammersee.
+            '178966547' => '_', // Stegener Weg: nach einem Ortsteil von der Gemeinde Inning am Ammersee.
+            '293561755' => '_', // Stegener Weg: nach einem Ortsteil von der Gemeinde Inning am Ammersee.
             '4218691' => '_', // Zündterstraße: nach dem Beginn der Straße am Grenzstein (Zintstei) von Pasing. 
-            '35134707' => '_', // Riegerhofstraße nach einem alten Laimer Hofnamen
-            '422789263' => '_', // Riegerhofstraßeeg: nach einem alten Laimer Hofnamen
-            '422789264' => '_', // Riegerhofstraßeeg: nach einem alten Laimer Hofnamen
+            '35134707' => '_', // Riegerhofstraße: nach einem alten Laimer Hofnamen
+            '422789263' => '_', // Riegerhofstraße: nach einem alten Laimer Hofnamen
+            '422789264' => '_', // Riegerhofstraße: nach einem alten Laimer Hofnamen
             '4218710' => '_', // Riegerhofweg: nach einem alten Laimer Hofnamen
             '4515584' => '_', // Weißenfelderstraße: Münchner Patrizierfamilie
             '4885794' => '_', // Weißenfelderplatz: Münchner Patrizierfamilie
