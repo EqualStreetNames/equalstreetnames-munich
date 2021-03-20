@@ -31,6 +31,7 @@ return [
             '63094057' => 'M', // Aindorferstraße: Aindorfer, eine der 42 Münchner Geiseln König Gustavs II. Adolf 
             '159179304' => 'M', // Aindorferstraße: Aindorfer, eine der 42 Münchner Geiseln König Gustavs II. Adolf 
             '4218695' => 'M', // Alblstraße: Albl, eine der 42 Münchner Geiseln König Gustavs II. Adolf 
+            '35095323' => "_", // Alpenveilchenstraße: Blumenart Alpenveilchen
             '16943298' => 'M', // Byecherstraße: Byecher, eine der 42 Münchner Geiseln König Gustavs II. Adolf
             '4515588' => 'M', // Camerloherstraße: Camerloher, eine der 42 Münchner Geiseln König Gustavs II. Adolf 
             '5081108' => 'M', // Camerloherstraße: Camerloher, eine der 42 Münchner Geiseln König Gustavs II. Adolf 
