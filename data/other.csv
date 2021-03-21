@@ -25,6 +25,7 @@ Sankt-Ulrich-Straße,,Q63826392,way
 "Schrobenhausener Straße",,Q504746,way
 "Stadtlohner Straße",,Q200567,way
 "Straubinger Straße",,Q7027,way
+"Tuttlinger Straße",,Q15987,way
 "Vohburger Straße",,Q251778,way
 "Weßlinger Straße",,Q536419,way
 "Wimpfener Straße",,Q491535,way
@@ -64,7 +65,6 @@ Fraunhoferstraße,,,relation
 "Freiburger Platz",,,way
 "Friedberger Straße",,,way
 "Friedenheimer Brücke",,,way
-Fröbelplatz,,,way
 "Giesinger Bahnhofplatz",,,relation
 Goetheplatz,,,relation
 "Grüner Markt",,,relation
@@ -109,7 +109,6 @@ Stürzerstraße,,,way
 Sulzbeckstraße,,,way
 Thierschplatz,,,relation
 Thurneyssenstraße,,,way
-"Tuttlinger Straße",,,way
 Viktualienmarkt,,,relation
 Von-der-Pfordten-Straße,,,way
 Weißenfelderplatz,,,way
@@ -122,7 +121,6 @@ Altmannstraße,_,,way
 "Friedenheimer Straße",_,,way
 Gaishoferstraße,_,,way
 Genovevaweg,_,,way
-Guido-Schneble-Straße,_,,way
 Gunzenlehstraße,_,,way
 Käpflstraße,_,,way
 Neuburgerstraße,_,,way
