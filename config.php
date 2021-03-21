@@ -63,11 +63,11 @@ return [
             '343008978'  => 'M', // Gotthardstraße: Joachim Gotthard, eine der 42 Münchner Geiseln König Gustavs II. Adolf
             '220851264'  => 'M', // Gotthardstraße: Joachim Gotthard, eine der 42 Münchner Geiseln König Gustavs II. Adolf
             '272455485'  => 'M', // Gotthardstraße: Joachim Gotthard, eine der 42 Münchner Geiseln König Gustavs II. Adolf
-            '5079653' => '_', // Guido-Schnebele-Straße: Guido Schneble (1887 — 1959), Mitglied und Vorsitzender des Bezirksausschusses Laim
-            '5081050' => '_', // Guido-Schnebele-Straße: Guido Schneble (1887 — 1959), Mitglied und Vorsitzender des Bezirksausschusses Laim
-            '63954836' => '_', // Guido-Schnebele-Straße: Guido Schneble (1887 — 1959), Mitglied und Vorsitzender des Bezirksausschusses Laim
-            '435817314' => '_', // Guido-Schnebele-Straße: Guido Schneble (1887 — 1959), Mitglied und Vorsitzender des Bezirksausschusses Laim
-            '416322074' => '_', // Gunzenlehstraße: nach Gunzenleh, einer ehemaligen Burg der Welfen bei Mering
+            '5079653' => 'M', // Guido-Schnebele-Straße: Guido Schneble (1887 — 1959), Mitglied und Vorsitzender des Bezirksausschusses Laim
+            '5081050' => 'M', // Guido-Schnebele-Straße: Guido Schneble (1887 — 1959), Mitglied und Vorsitzender des Bezirksausschusses Laim
+            '63954836' => 'M', // Guido-Schnebele-Straße: Guido Schneble (1887 — 1959), Mitglied und Vorsitzender des Bezirksausschusses Laim
+            '435817314' => 'M', // Guido-Schnebele-Straße: Guido Schneble (1887 — 1959), Mitglied und Vorsitzender des Bezirksausschusses Laim
+            '416322074' => 'M', // Gunzenlehstraße: nach Gunzenleh, einer ehemaligen Burg der Welfen bei Mering
             '16943249' => 'M', // Hartelstraße: nach dem Schlossherrn Hartel von Pasing
             '16799626' => 'M', // Helmpertstraße: nach dem Edlen Helmpert, der in einer Urkunde erwähnt wird, in der auch Laim zum ersten Mal nachweislich genannt ist. 
             '16799764' => 'M', // Helmpertstraße: nach dem Edlen Helmpert, der in einer Urkunde erwähnt wird, in der auch Laim zum ersten Mal nachweislich genannt ist. 
