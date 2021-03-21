@@ -44,7 +44,10 @@ return [
             '5081108' => 'M', // Camerloherstraße: Camerloher, eine der 42 Münchner Geiseln König Gustavs II. Adolf 
             '8351859' => 'M', // Camerloherstraße: Camerloher, eine der 42 Münchner Geiseln König Gustavs II. Adolf 
             '25777548' => 'M', // Egetterstraße: Egetter, eine der 42 Münchner Geiseln König Gustavs II. Adolf 
+            '5079870' => '_', // Gaishoferstraße: nach dem Münchner Ratsherrengeschlecht Gaishofer
+            '4218694' => '_', // Genovevaweg: zwei unterschiedliche Möglichkeiten, Genoveva Winkler oder Volksstück Genovevaspiel
             '16943300' => 'M', // Geßlerstraße: Geßler, eine der 42 Münchner Geiseln König Gustavs II. Adolf 
+            '16943302' => 'M', // Geigerstraße: Tobias Geiger, wurde 1601 Münchner Stadtarzt, Oberfeldarzt der bayerischen Armee
             '4218700' => 'M', // Geyerspergerstraße: Geyersperger, eine der 42 Münchner Geiseln König Gustavs II. Adolf 
             '4585941'  => 'M', // Gotthardstraße: Joachim Gotthard, eine der 42 Münchner Geiseln König Gustavs II. Adolf
             '272455482'  => 'M', // Gotthardstraße: Joachim Gotthard, eine der 42 Münchner Geiseln König Gustavs II. Adolf
@@ -131,8 +134,8 @@ return [
             '237421404' => 'M', // Valpichlerstraße: Valpichler, eine der 42 Münchner Geiseln König Gustavs II. Adolf 
             '262201842' => 'M', // Valpichlerstraße: Valpichler, eine der 42 Münchner Geiseln König Gustavs II. Adolf 
             '4586071' => 'M', // Weichselbaumerstraße: Schulkommissar Matthias Weichselbaumer
-            '4497089' => 'M', // Wilhelm-Mayr-Straße: Wilhelm Mayr, eine der 42 Münchner Geiseln König Gustavs II. Adolf 
-            '4497089' => 'M', // Widarkisstraße: Widarkis oder Widarsik, einer der frühen Einwohner von Pasing. 
+            '4218688' => 'M', // Wilhelm-Mayr-Straße: Wilhelm Mayr, eine der 42 Münchner Geiseln König Gustavs II. Adolf 
+            '17249132' => 'M', // Widarkisstraße: Widarkis oder Widarsik, einer der frühen Einwohner von Pasing. 
             '312037058' => 'F', // Schulmeierweg: nach Therese Schulmeier, die eine Stiftung für behinderte Kinder errichtete
             '5085824' => '_', // Gunzenlehstraße: nach Gunzenleh, einer ehemaligen Burg der Welfen bei Mering
             '5085831' => '_', // Gunzenlehstraße: nach Gunzenleh, einer ehemaligen Burg der Welfen bei Mering
@@ -157,6 +160,15 @@ return [
             '4218710' => '_', // Riegerhofweg: nach einem alten Laimer Hofnamen
             '4515584' => '_', // Weißenfelderstraße: Münchner Patrizierfamilie
             '4885794' => '_', // Weißenfelderplatz: Münchner Patrizierfamilie
+            '4079075' => '_', // Friedenheimer Straße: nach dem ehemaligen Gutshof Friedenheim, der sich dort befand. 
+            '56542039' => '_', // Friedenheimer Straße: nach dem ehemaligen Gutshof Friedenheim, der sich dort befand. 
+            '56197311' => '_', // Friedenheimer Straße: nach dem ehemaligen Gutshof Friedenheim, der sich dort befand. 
+            '152276372' => '_', // Friedenheimer Straße: nach dem ehemaligen Gutshof Friedenheim, der sich dort befand. 
+            '152276374' => '_', // Friedenheimer Straße: nach dem ehemaligen Gutshof Friedenheim, der sich dort befand. 
+            '152277273' => '_', // Friedenheimer Straße: nach dem ehemaligen Gutshof Friedenheim, der sich dort befand. 
+            '241720920' => '_', // Friedenheimer Straße: nach dem ehemaligen Gutshof Friedenheim, der sich dort befand. 
+            '366209677' => '_', // Friedenheimer Straße: nach dem ehemaligen Gutshof Friedenheim, der sich dort befand. 
+            '497390606' => '_', // Friedenheimer Straße: nach dem ehemaligen Gutshof Friedenheim, der sich dort befand. 
         ],
     ],
 

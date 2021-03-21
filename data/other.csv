@@ -1,11 +1,15 @@
 name,gender,wikidata,type
 "Fürstenrieder Straße",,Q567568,way
+Gatterburgstraße,,Q1527640,way
+"Geisenfelder Straße",,Q259795,way
+Haslangstraße,,Q15814439,way
 "Hauzenberger Straße",,Q255888,way
 "Hechenwanger Weg",,Q1592893,way
 "Hohenwarter Straße",,Q489217,way
 Ilmmünsterstraße,,Q489250,way
 "Kärntner Platz",,Q37985,way
 Kirchwaldstraße,,Q1649279,way
+"Landsberger Straße",,Q494299,way
 Lechfeldstraße,,Q897240,way
 Maria-Birnbaum-Straße,,Q19963757,way
 "Mergentheimer Straße",,Q61942,way
@@ -60,21 +64,10 @@ Fraunhoferstraße,,,relation
 "Freiburger Platz",,,way
 "Friedberger Straße",,,way
 "Friedenheimer Brücke",,,way
-"Friedenheimer Straße",,,way
 Fröbelplatz,,,way
-Gaishoferstraße,,,way
-Gatterburgstraße,,,way
-Geigerstraße,,,way
-"Geisenfelder Straße",,,way
-Genovevaweg,,,way
-Georg-Lotter-Weg,,,way
 "Giesinger Bahnhofplatz",,,relation
 Goetheplatz,,,relation
-Gottfried-Koelwel-Weg,,,way
 "Grüner Markt",,,relation
-Gutzkowstraße,,,way
-Hans-Thonauer-Straße,,,way
-Haslangstraße,,,way
 Hohenzollernplatz,,,relation
 Hufnagelstraße,,,way
 Karl-Marx-Zentrum,,,relation
@@ -87,7 +80,6 @@ Königsplatz,,,relation
 Konrad-Zuse-Platz,,,relation
 Kurt-Landauer-Platz,,,relation
 "Laimer Platz",,,way
-"Landsberger Straße",,,way
 Mangfallplatz,,,relation
 Marienhof,,,relation
 Marienplatz,,,relation
@@ -122,14 +114,14 @@ Viktualienmarkt,,,relation
 Von-der-Pfordten-Straße,,,way
 Weißenfelderplatz,,,way
 Westendstraße,,,way
-Widarkisstraße,,,way
 "Wiener Platz",,,relation
-Wilhelm-Mayr-Straße,,,way
 Willi-Daume-Platz,,,relation
-Willibaldstraße,,,way
 Altmannstraße,_,,way
 "Am Laimer Anger",_,,way
 "Barmer Straße",_,,way
+"Friedenheimer Straße",_,,way
+Gaishoferstraße,_,,way
+Genovevaweg,_,,way
 Guido-Schneble-Straße,_,,way
 Gunzenlehstraße,_,,way
 Käpflstraße,_,,way
