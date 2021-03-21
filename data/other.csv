@@ -1,5 +1,7 @@
 name,gender,wikidata,type
 "Fürstenrieder Straße",,Q567568,way
+"Hauzenberger Straße",,Q255888,way
+"Hechenwanger Weg",,Q1592893,way
 "Hohenwarter Straße",,Q489217,way
 Ilmmünsterstraße,,Q489250,way
 "Kärntner Platz",,Q37985,way
@@ -70,19 +72,9 @@ Georg-Lotter-Weg,,,way
 Goetheplatz,,,relation
 Gottfried-Koelwel-Weg,,,way
 "Grüner Markt",,,relation
-Guido-Schneble-Straße,,,way
-Gunzenlehstraße,,,way
 Gutzkowstraße,,,way
 Hans-Thonauer-Straße,,,way
-Hartelstraße,,,way
 Haslangstraße,,,way
-Haunerstraße,,,way
-"Hauzenberger Straße",,,way
-"Hechenwanger Weg",,,way
-Heigenmooserstraße,,,way
-Heinrich-Goebel-Straße,,,way
-Hogenbergplatz,,,way
-Hogenbergstraße,,,way
 Hohenzollernplatz,,,relation
 Hufnagelstraße,,,way
 Karl-Marx-Zentrum,,,relation
@@ -138,6 +130,8 @@ Willibaldstraße,,,way
 Altmannstraße,_,,way
 "Am Laimer Anger",_,,way
 "Barmer Straße",_,,way
+Guido-Schneble-Straße,_,,way
+Gunzenlehstraße,_,,way
 Käpflstraße,_,,way
 Neuburgerstraße,_,,way
 Perkhoferstraße,_,,way
