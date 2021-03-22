@@ -44,6 +44,8 @@ return [
             '5081108' => 'M', // Camerloherstraße: Camerloher, eine der 42 Münchner Geiseln König Gustavs II. Adolf 
             '8351859' => 'M', // Camerloherstraße: Camerloher, eine der 42 Münchner Geiseln König Gustavs II. Adolf 
             '25777548' => 'M', // Egetterstraße: Egetter, eine der 42 Münchner Geiseln König Gustavs II. Adolf 
+            '5079689' => '_', // Flantinstraße: nach dem Münchner Ratsherrengeschlecht der Flantins,  
+            '5085894' => '_', // Fleckhammerstraße: nach der Münchner Ratsherrenfamilie Fleckhammer,  
             '5079870' => '_', // Gaishoferstraße: nach dem Münchner Ratsherrengeschlecht Gaishofer
             '4218694' => '_', // Genovevaweg: zwei unterschiedliche Möglichkeiten, Genoveva Winkler oder Volksstück Genovevaspiel
             '16943300' => 'M', // Geßlerstraße: Geßler, eine der 42 Münchner Geiseln König Gustavs II. Adolf 
@@ -124,6 +126,7 @@ return [
             '16943253' => 'M', // Reutterstraße: Reutter, eine der 42 Münchner Geiseln König Gustavs II. Adolf 
             '159179345' => 'M', // Reutterstraße: Reutter, eine der 42 Münchner Geiseln König Gustavs II. Adolf 
             '159179346' => 'M', // Reutterstraße: Reutter, eine der 42 Münchner Geiseln König Gustavs II. Adolf 
+            '4271288' => 'M', // Stögerstraße: nach dem Buchhändler und Hofbibliothekar Josef Stöger
             '4218705' => 'M', // Valpichlerstraße: Valpichler, eine der 42 Münchner Geiseln König Gustavs II. Adolf 
             '4218715' => 'M', // Valpichlerstraße: Valpichler, eine der 42 Münchner Geiseln König Gustavs II. Adolf 
             '4218716' => 'M', // Valpichlerstraße: Valpichler, eine der 42 Münchner Geiseln König Gustavs II. Adolf 
@@ -160,6 +163,19 @@ return [
             '4218710' => '_', // Riegerhofweg: nach einem alten Laimer Hofnamen
             '4515584' => '_', // Weißenfelderstraße: Münchner Patrizierfamilie
             '4885794' => '_', // Weißenfelderplatz: Münchner Patrizierfamilie
+            '4515579' => '_', // Fachnerstraße: nach den Fachners, einem Münchner Ratsherrengeschlecht,  
+            '4515583' => '_', // Fachnerstraße: nach den Fachners, einem Münchner Ratsherrengeschlecht,  
+            '4885791' => '_', // Fachnerstraße: nach den Fachners, einem Münchner Ratsherrengeschlecht,  
+            '4885792' => '_', // Fachnerstraße: nach den Fachners, einem Münchner Ratsherrengeschlecht,  
+            '154945137' => '_', // Fachnerstraße: nach den Fachners, einem Münchner Ratsherrengeschlecht,  
+            '4043486' => '_', // Friedenheimer Brücke: nach dem ehemaligen Gutshof Friedenheim, der sich dort befand,  
+            '51734647' => '_', // Friedenheimer Brücke: nach dem ehemaligen Gutshof Friedenheim, der sich dort befand,  
+            '55795330' => '_', // Friedenheimer Brücke: nach dem ehemaligen Gutshof Friedenheim, der sich dort befand,  
+            '61738278' => '_', // Friedenheimer Brücke: nach dem ehemaligen Gutshof Friedenheim, der sich dort befand,  
+            '152062771' => '_', // Friedenheimer Brücke: nach dem ehemaligen Gutshof Friedenheim, der sich dort befand,  
+            '316110464' => '_', // Friedenheimer Brücke: nach dem ehemaligen Gutshof Friedenheim, der sich dort befand,  
+            '426957011' => '_', // Friedenheimer Brücke: nach dem ehemaligen Gutshof Friedenheim, der sich dort befand,  
+            '438950423' => '_', // Friedenheimer Brücke: nach dem ehemaligen Gutshof Friedenheim, der sich dort befand,  
             '4079075' => '_', // Friedenheimer Straße: nach dem ehemaligen Gutshof Friedenheim, der sich dort befand. 
             '56542039' => '_', // Friedenheimer Straße: nach dem ehemaligen Gutshof Friedenheim, der sich dort befand. 
             '56197311' => '_', // Friedenheimer Straße: nach dem ehemaligen Gutshof Friedenheim, der sich dort befand. 
