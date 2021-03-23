@@ -18,7 +18,7 @@ function usage {
    echo "Usage: $(basename $0) STREET GENDER NAME COMMENT , e.g. Valpichlerstraße M Valpichler \"eine der 42 Münchner Geiseln König Gustavs II. Adolf\" "
 }
 
-if [ "$#" -ne 3 ] || ! [ -f $JSONEFILE ]; then
+if [ "$#" -ne 4 ] || ! [ -f $JSONEFILE ]; then
   usage;
   exit 1
 fi

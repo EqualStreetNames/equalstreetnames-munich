@@ -1,4 +1,5 @@
 name,gender,wikidata,type
+"Barmer Straße",,Q153974,way
 "Fürstenrieder Straße",,Q567568,way
 Gatterburgstraße,,Q1527640,way
 "Geisenfelder Straße",,Q259795,way
@@ -54,17 +55,13 @@ Elsenheimerstraße,,,way
 Endelhauserstraße,,,way
 Eringerstraße,,,way
 Ettenhueberstraße,,,way
-Fachnerstraße,,,way
 Fischartstraße,,,way
-Flantinstraße,,,way
-Fleckhammerstraße,,,way
 "Flintsbacher Straße",,,way
 Flotowstraße,,,way
 Frauenplatz,,,relation
 Fraunhoferstraße,,,relation
 "Freiburger Platz",,,way
 "Friedberger Straße",,,way
-"Friedenheimer Brücke",,,way
 "Giesinger Bahnhofplatz",,,relation
 Goetheplatz,,,relation
 "Grüner Markt",,,relation
@@ -103,7 +100,6 @@ Seehoferstraße,,,way
 Sendlinger-Tor-Platz,,,relation
 Steinbeisplatz,,,way
 Stiglmaierplatz,,,relation
-Stögerstraße,,,way
 Sturmstraße,,,way
 Stürzerstraße,,,way
 Sulzbeckstraße,,,way
@@ -117,7 +113,10 @@ Westendstraße,,,way
 Willi-Daume-Platz,,,relation
 Altmannstraße,_,,way
 "Am Laimer Anger",_,,way
-"Barmer Straße",_,,way
+Fachnerstraße,_,,way
+Flantinstraße,_,,way
+Fleckhammerstraße,_,,way
+"Friedenheimer Brücke",_,,way
 "Friedenheimer Straße",_,,way
 Gaishoferstraße,_,,way
 Genovevaweg,_,,way
