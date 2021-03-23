@@ -129,6 +129,7 @@ return [
             '243126331' => 'M', // Stroblstraße: Strobl, eine der 42 Münchner Geiseln König Gustavs II. Adolf 
             '424714808' => 'M', // Stroblstraße: Strobl, eine der 42 Münchner Geiseln König Gustavs II. Adolf 
             '424714809' => 'M', // Stroblstraße: Strobl, eine der 42 Münchner Geiseln König Gustavs II. Adolf 
+            '5080877' => 'M', // Sturmstraße: Albin Sturm, Lehrer 
             '4218698' => 'M', // Reutterstraße: Reutter, eine der 42 Münchner Geiseln König Gustavs II. Adolf 
             '4271284' => 'M', // Reutterstraße: Reutter, eine der 42 Münchner Geiseln König Gustavs II. Adolf 
             '16943253' => 'M', // Reutterstraße: Reutter, eine der 42 Münchner Geiseln König Gustavs II. Adolf 
