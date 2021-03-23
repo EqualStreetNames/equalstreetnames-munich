@@ -1,5 +1,10 @@
 name,gender,wikidata,type
 "Barmer Straße",,Q153974,way
+"Böcksteiner Straße",,Q973185,way
+"Eichstätter Straße",,Q252772,way
+"Flintsbacher Straße",,Q532824,way
+"Freiburger Platz",,Q2833,way
+"Friedberger Straße",,Q507194,way
 "Fürstenrieder Straße",,Q567568,way
 Gatterburgstraße,,Q1527640,way
 "Geisenfelder Straße",,Q259795,way
@@ -38,30 +43,14 @@ Agricolaplatz,,,way
 Ammerseestraße,,,way
 Becherstraße,,,way
 Behamstraße,,,way
-Berchemstraße,,,way
-"Böcksteiner Straße",,,way
 Brantstraße,,,way
 Brosamerstraße,,,way
 Brundageplatz,,,relation
 Burgkmairstraße,,,way
 Candidplatz,,,relation
 Coubertinplatz,,,relation
-Desingweg,,,way
-Dichtlstraße,,,way
-Diesterwegstraße,,,way
-Dreyerstraße,,,way
-"Eichstätter Straße",,,way
-Elsenheimerstraße,,,way
-Endelhauserstraße,,,way
-Eringerstraße,,,way
-Ettenhueberstraße,,,way
-Fischartstraße,,,way
-"Flintsbacher Straße",,,way
-Flotowstraße,,,way
 Frauenplatz,,,relation
 Fraunhoferstraße,,,relation
-"Freiburger Platz",,,way
-"Friedberger Straße",,,way
 "Giesinger Bahnhofplatz",,,relation
 Goetheplatz,,,relation
 "Grüner Markt",,,relation
@@ -113,6 +102,9 @@ Westendstraße,,,way
 Willi-Daume-Platz,,,relation
 Altmannstraße,_,,way
 "Am Laimer Anger",_,,way
+Berchemstraße,_,,way
+Dichtlstraße,_,,way
+Elsenheimerstraße,_,,way
 Fachnerstraße,_,,way
 Flantinstraße,_,,way
 Fleckhammerstraße,_,,way
