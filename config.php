@@ -17,6 +17,7 @@ return [
             '4271290' => 'M' // Agricolaplatz: eine der 42 Münchner Geiseln König Gustavs II. Adolf 
         ],
         'way' => [
+            '4271290' => 'M', // Agricolaplatz: Agricola, eine der 42 Münchner Geiseln König Gustavs II. Adolf 
             '4218701' => 'M', // Agricolastraße: Agricola, eine der 42 Münchner Geiseln König Gustavs II. Adolf 
             '4271289' => 'M', // Agricolastraße: Agricola, eine der 42 Münchner Geiseln König Gustavs II. Adolf 
             '69688189' => 'M', // Agricolastraße: Agricola, eine der 42 Münchner Geiseln König Gustavs II. Adolf 
@@ -38,8 +39,8 @@ return [
             '4218708' => '_', // Am Laimer Anger
             '4497104' => '_', // Barmer Straße: Wuppertaler Stadtbezirk
             '16943294' => 'M', // Baudererstraße: Heinrich Bauderer, Volkssänger
-            '4585935' => '_', // Berchemstraße: Anton Freiherr von Berchem, kurfürstlicher Rat unter Max Emanuel 
-            '4885797' => '_', // Berchemstraße: Anton Freiherr von Berchem, kurfürstlicher Rat unter Max Emanuel 
+            '4585935' => 'M', // Berchemstraße: Anton Freiherr von Berchem, kurfürstlicher Rat unter Max Emanuel 
+            '4885797' => 'M', // Berchemstraße: Anton Freiherr von Berchem, kurfürstlicher Rat unter Max Emanuel 
             '16943298' => 'M', // Byecherstraße: Byecher, eine der 42 Münchner Geiseln König Gustavs II. Adolf
             '4515588' => 'M', // Camerloherstraße: Camerloher, eine der 42 Münchner Geiseln König Gustavs II. Adolf 
             '5081108' => 'M', // Camerloherstraße: Camerloher, eine der 42 Münchner Geiseln König Gustavs II. Adolf 
@@ -134,6 +135,8 @@ return [
             '159179345' => 'M', // Reutterstraße: Reutter, eine der 42 Münchner Geiseln König Gustavs II. Adolf 
             '159179346' => 'M', // Reutterstraße: Reutter, eine der 42 Münchner Geiseln König Gustavs II. Adolf 
             '4271288' => 'M', // Stögerstraße: nach dem Buchhändler und Hofbibliothekar Josef Stöger
+            '5080869' => 'M', // Thurneyssenstraße: Johann Jakob Thurneyssen, Kupferstecher 
+            '209587270' => 'M', // Thurneyssenstraße: Johann Jakob Thurneyssen, Kupferstecher 
             '4218705' => 'M', // Valpichlerstraße: Valpichler, eine der 42 Münchner Geiseln König Gustavs II. Adolf 
             '4218715' => 'M', // Valpichlerstraße: Valpichler, eine der 42 Münchner Geiseln König Gustavs II. Adolf 
             '4218716' => 'M', // Valpichlerstraße: Valpichler, eine der 42 Münchner Geiseln König Gustavs II. Adolf 
@@ -163,6 +166,7 @@ return [
             '159179354' => '_', // Seehoferstraße: nach der Münchner Bürgerfamilie Seehofer. 
             '178966547' => '_', // Stegener Weg: nach einem Ortsteil von der Gemeinde Inning am Ammersee.
             '293561755' => '_', // Stegener Weg: nach einem Ortsteil von der Gemeinde Inning am Ammersee.
+            '16943296' => 'M', // Sulzbeckstraße: Josef Sulzbeck, Volkssänger und Münchner Original 
             '4218691' => '_', // Zündterstraße: nach dem Beginn der Straße am Grenzstein (Zintstei) von Pasing. 
             '35134707' => '_', // Riegerhofstraße: nach einem alten Laimer Hofnamen
             '422789263' => '_', // Riegerhofstraße: nach einem alten Laimer Hofnamen
