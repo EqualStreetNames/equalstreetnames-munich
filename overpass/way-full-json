@@ -1,5 +1,5 @@
 [out:json][timeout:300];
-( area["wikidata"="Q259879"]; )->.a;
+( area["wikidata"="Q1726"]; )->.a;
 (
 	way["highway"]["name"]["highway"!="bus_stop"]["highway"!="proposed"]["highway"!="service"]["highway"!="platform"](area.a);
 	way["place"="square"]["name"](area.a);
