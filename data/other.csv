@@ -1,232 +1,117 @@
 name,gender,wikidata,type
+"Barmer Straße",,Q153974,way
+"Böcksteiner Straße",,Q973185,way
+"Eichstätter Straße",,Q252772,way
+"Flintsbacher Straße",,Q532824,way
+"Freiburger Platz",,Q2833,way
+"Friedberger Straße",,Q507194,way
 "Fürstenrieder Straße",,Q567568,way
-Willibaldstraße,,Q27600471,way
-Agnes-Bernauer-Platz,,,way
+Gatterburgstraße,,Q1527640,way
+"Geisenfelder Straße",,Q259795,way
+Haslangstraße,,Q15814439,way
+"Hauzenberger Straße",,Q255888,way
+"Hechenwanger Weg",,Q1592893,way
+"Hohenwarter Straße",,Q489217,way
+Ilmmünsterstraße,,Q489250,way
+"Kärntner Platz",,Q37985,way
+Kirchwaldstraße,,Q1649279,way
+"Landsberger Straße",,Q494299,way
+Lechfeldstraße,,Q897240,way
+Maria-Birnbaum-Straße,,Q19963757,way
+"Mergentheimer Straße",,Q61942,way
+Murtalstraße,,Q1684573,way
+"Neubeuerner Straße",,Q536363,way
+"Nördlinger Straße",,Q489902,way
+"Ofener Straße",,Q193478,way
+"Pfaffenhofener Platz",,Q490319,way
+"Pörtschacher Straße",,Q875805,way
+"Radstädter Straße",,Q260950,way
+"Raublinger Straße",,Q538080,way
+Sankt-Ulrich-Straße,,Q63826392,way
+"Schrobenhausener Straße",,Q504746,way
+"Stadtlohner Straße",,Q200567,way
+"Straubinger Straße",,Q7027,way
+"Tuttlinger Straße",,Q15987,way
+"Vohburger Straße",,Q251778,way
+"Weßlinger Straße",,Q536419,way
+"Wimpfener Straße",,Q491535,way
+Wotanstraße,,Q43610,way
 Agnes-Bernauer-Straße,,,way
-Agricolaplatz,,,way
-Agricolastraße,,,way
-Aindorferstraße,,,way
-Alblstraße,,,way
-Aldegreverstraße,,,way
-Alpenveilchenstraße,,,way
-Altmannstraße,,,way
 "Am Bavariapark",,,relation
 "Am Harras",,,relation
-"Am Laimer Anger",,,way
 Ammerseestraße,,,way
-Anton-Hammel-Straße,,,way
-"Barmer Straße",,,way
-Baudererstraße,,,way
-Becherstraße,,,way
-Behamstraße,,,way
-Berchemstraße,,,way
-"Böcksteiner Straße",,,way
-Brantstraße,,,way
-Brosamerstraße,,,way
 Brundageplatz,,,relation
 Burgkmairstraße,,,way
-Byecherstraße,,,way
 Camerloherstraße,,,way
 Candidplatz,,,relation
 Coubertinplatz,,,relation
-"Depot Busservice Watzinger",,,way
-Desingweg,,,way
-Dichtlstraße,,,way
-Diesterwegstraße,,,way
-Dreyerstraße,,,way
-Egetterstraße,,,way
-"Eichstätter Straße",,,way
-Elsenheimerstraße,,,way
-Endelhauserstraße,,,way
-Eringerstraße,,,way
-Ettenhueberstraße,,,way
-Fachnerstraße,,,way
-Fischartstraße,,,way
-Flantinstraße,,,way
-Fleckhammerstraße,,,way
-"Flintsbacher Straße",,,way
-Flotowstraße,,,way
 Frauenplatz,,,relation
 Fraunhoferstraße,,,relation
-"Freiburger Platz",,,way
-"Friedberger Straße",,,way
-"Friedenheimer Brücke",,,way
-"Friedenheimer Straße",,,way
-Friedrich-von-Pauli-Straße,,,way
-Fröbelplatz,,,way
-Gaishoferstraße,,,way
-Gatterburgstraße,,,way
-Geigerstraße,,,way
-"Geisenfelder Straße",,,way
-Genovevaweg,,,way
-Georg-Lotter-Weg,,,way
-Geßlerstraße,,,way
-Geyerspergerstraße,,,way
 "Giesinger Bahnhofplatz",,,relation
 Goetheplatz,,,relation
-Gottfried-Koelwel-Weg,,,way
-Gotthardstraße,,,way
 "Grüner Markt",,,relation
-Guido-Schneble-Straße,,,way
-Gunzenlehstraße,,,way
-Gutzkowstraße,,,way
-Hans-Thonauer-Straße,,,way
-Hartelstraße,,,way
-Haslangstraße,,,way
-Haunerstraße,,,way
-"Hauzenberger Straße",,,way
-"Hechenwanger Weg",,,way
-Heigenmooserstraße,,,way
-Heinrich-Goebel-Straße,,,way
-Helmpertstraße,,,way
-Hogenbergplatz,,,way
-Hogenbergstraße,,,way
-Högerstraße,,,way
-"Hohenwarter Straße",,,way
 Hohenzollernplatz,,,relation
-Hönlestraße,,,way
-Hörkherstraße,,,way
-Horwerkstraße,,,way
 Hufnagelstraße,,,way
-Ida-Schumacher-Weg,,,way
-Ilmmünsterstraße,,,way
-Ilse-Weber-Straße,,,way
-Inderstorferstraße,,,way
-Isbertstraße,,,way
-Joergstraße,,,way
-Johannes-Scharrer-Straße,,,way
-Josef-Schick-Straße,,,way
-Junkerstraße,,,way
-Käpflstraße,,,way
 Karl-Marx-Zentrum,,,relation
 Karlsplatz,,,relation
-"Kärntner Platz",,,way
-Käthe-Bauer-Weg,,,way
 Kaufingerstraße,,,relation
-Kiem-Pauli-Weg,,,way
-Kirchmairstraße,,,way
-Kirchwaldstraße,,,way
 Klaus-Mann-Platz,,,relation
 Knödelplatz,,,relation
 Kolumbusplatz,,,relation
 Königsplatz,,,relation
 Konrad-Zuse-Platz,,,relation
 Kurt-Landauer-Platz,,,relation
-"Laim Bahnhof",,,way
 "Laimer Platz",,,way
-"Landsberger Straße",,,way
-Lanzstraße,,,way
-Lautensackstraße,,,way
-Lechfeldstraße,,,way
-Leibnizstraße,,,way
-Lina-Meittinger-Straße,,,way
-Ludlstraße,,,way
-Ludwig-Richter-Straße,,,way
-Lutzstraße,,,way
 Mangfallplatz,,,relation
-Maria-Birnbaum-Straße,,,way
 Marienhof,,,relation
 Marienplatz,,,relation
-Mathunistraße,,,way
-Maxstadtstraße,,,way
-Meister-Mathis-Weg,,,way
-"Mergentheimer Straße",,,way
-Mitterhoferstraße,,,way
-Murtalstraße,,,way
 Museumshof,,,relation
-"Neubeuerner Straße",,,way
-Neuburgerstraße,,,way
 "Neuhauser Straße",,,relation
 Nordhaideplatz,,,relation
-"Nördlinger Straße",,,way
-"Ofener Straße",,,way
 Orleansplatz,,,relation
-Ossietzkystraße,,,way
-Ostendorferweg,,,way
-Perhamerstraße,,,way
-Perkhoferstraße,,,way
-"Pfaffenhofener Platz",,,way
-Pfarrer-Endres-Weg,,,way
 "Platz der Menschenrechte",,,relation
 "Platz vor der Feldherrnhalle",,,relation
-Pöhlmannstraße,,,way
-"Pörtschacher Straße",,,way
 Preysingplatz,,,relation
 Prinzregentenplatz,,,relation
-Pronnerplatz,,,way
-Queristraße,,,way
-"Radstädter Straße",,,way
-Rapotostraße,,,way
-Rappstraße,,,way
-Rattenhuberstraße,,,way
-"Raublinger Straße",,,way
-Rechpacherstraße,,,way
-Reindlstraße,,,way
-Reithmannstraße,,,way
 Resi-Huber-Platz,,,relation
-Reutterstraße,,,way
 Richard-Strauss-Straße,,,relation
-Riegerhofstraße,,,way
-Riegerhofweg,,,way
-Rilkestraße,,,way
-Ronpeckhstraße,,,way
 "Rosenheimer Platz",,,relation
 Rotkreuzplatz,,,relation
 Rudi-Hierl-Platz,,,relation
-Rushaimerstraße,,,way
-Saherrstraße,,,way
-Sandrartstraße,,,way
 Sankt-Jakobs-Platz,,,relation
-Sankt-Ulrich-Straße,,,way
-Schäufeleinstraße,,,way
-Schedelstraße,,,way
-Schifferlstraße,,,way
-Schlangenwegerl,,,way
-"Schrobenhausener Straße",,,way
-Schrottstraße,,,way
-Schulmeierweg,,,way
 "Schwabinger Tor",,,relation
 "Schweizer Platz",,,relation
 Seehoferstraße,,,way
 Sendlinger-Tor-Platz,,,relation
-Senftenauerstraße,,,way
-Siglstraße,,,way
-"Stadtlohner Straße",,,way
-"Stegener Weg",,,way
-Steinbeisplatz,,,way
 Stiglmaierplatz,,,relation
-Stöberlstraße,,,way
-Stögerstraße,,,way
-"Straubinger Straße",,,way
-Stroblstraße,,,way
-Sturmstraße,,,way
 Stürzerstraße,,,way
-Sulzbeckstraße,,,way
 Thierschplatz,,,relation
-Thurneyssenstraße,,,way
-"Tuttlinger Straße",,,way
-Valpichlerstraße,,,way
-Veit-Stoß-Straße,,,way
-Viebigplatz,,,way
 Viktualienmarkt,,,relation
-"Vohburger Straße",,,way
 Von-der-Pfordten-Straße,,,way
-Vosslerstraße,,,way
-Walter-Scott-Straße,,,way
-Weichselbaumerstraße,,,way
-Weiß-Ferdl-Straße,,,way
 Weißenfelderplatz,,,way
-Weißenfelderstraße,,,way
 Westendstraße,,,way
-"Weßlinger Straße",,,way
-Widarkisstraße,,,way
 "Wiener Platz",,,relation
-Wilhelm-Mayr-Straße,,,way
-Wilhelm-Riehl-Straße,,,way
 Willi-Daume-Platz,,,relation
-Willibaldplatz,,,way
-"Wimpfener Straße",,,way
-Wotanstraße,,,way
-Zschokkestraße,,,way
-Zumbuschweg,,,way
-Zündterstraße,,,way
+Altmannstraße,_,,way
+"Am Laimer Anger",_,,way
+Dichtlstraße,_,,way
+Elsenheimerstraße,_,,way
+Fachnerstraße,_,,way
+Flantinstraße,_,,way
+Fleckhammerstraße,_,,way
+"Friedenheimer Brücke",_,,way
+"Friedenheimer Straße",_,,way
+Gaishoferstraße,_,,way
+Genovevaweg,_,,way
+Gunzenlehstraße,_,,way
+Käpflstraße,_,,way
+Neuburgerstraße,_,,way
+Perkhoferstraße,_,,way
+Rattenhuberstraße,_,,way
+Riegerhofstraße,_,,way
+Riegerhofweg,_,,way
+Schlangenwegerl,_,,way
+"Stegener Weg",_,,way
+Weißenfelderplatz,_,,way
+Weißenfelderstraße,_,,way
+Zündterstraße,_,,way
