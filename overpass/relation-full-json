@@ -1,5 +1,5 @@
 [out:json][timeout:300];
-( area["admin_level"="6"]["wikidata"="Q1726"]; )->.a;
+( area["admin_level"="6"]["wikidata"="Q259879"]; )->.a;
 (
     relation["type"="multipolygon"]["highway"]["name"](area.a);
 );
