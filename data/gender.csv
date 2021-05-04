@@ -106,6 +106,29 @@ Willibaldplatz,wikidata,M,Q705878,way
 Willibaldstraße,wikidata,M,Q705878,way
 Zschokkestraße,wikidata,M,Q66207,way
 Zumbuschweg,wikidata,M,Q268977,way
+Altmannstraße,config,-,,way
+"Am Laimer Anger",config,-,,way
+Dichtlstraße,config,-,,way
+Elsenheimerstraße,config,-,,way
+Fachnerstraße,config,-,,way
+Flantinstraße,config,-,,way
+Fleckhammerstraße,config,-,,way
+"Friedenheimer Brücke",config,-,,way
+"Friedenheimer Straße",config,-,,way
+Gaishoferstraße,config,-,,way
+Genovevaweg,config,-,,way
+Käpflstraße,config,-,,way
+Neuburgerstraße,config,-,,way
+Perkhoferstraße,config,-,,way
+Rattenhuberstraße,config,-,,way
+Riegerhofstraße,config,-,,way
+Riegerhofweg,config,-,,way
+Schlangenwegerl,config,-,,way
+"Stegener Weg",config,-,,way
+Weißenfelderplatz,config,-,,way
+Weißenfelderstraße,config,-,,way
+Zündterstraße,config,-,,way
+Gunzenlehstraße,config,?,,way
 Käthe-Bauer-Weg,config,F,,way
 Schulmeierweg,config,F,,way
 Agricolaplatz,config,M,,way
@@ -124,7 +147,6 @@ Geßlerstraße,config,M,,way
 Geyerspergerstraße,config,M,,way
 Gotthardstraße,config,M,,way
 Guido-Schneble-Straße,config,M,,way
-Gunzenlehstraße,config,M,,way
 Hartelstraße,config,M,,way
 Helmpertstraße,config,M,,way
 Hörkherstraße,config,M,,way
