@@ -2,13 +2,15 @@ name,source,gender,wikidata,type
 Agnes-Bernauer-Platz,wikidata,F,Q76443,way
 Agnes-Bernauer-Straße,wikidata,F,Q76443,way
 Amalie-Nacken-Straße,wikidata,F,Q453072,way
+Anneliese-Fleyenschmidt-Straße,wikidata,F,Q566143,way
 Annemarie-Renger-Straße,wikidata,F,Q66138,way
+Annette-von-Aretin-Straße,wikidata,F,Q91602,way
 Anni-Albers-Straße,wikidata,F,Q86078,way
 Carlamaria-Heim-Straße,wikidata,F,Q1041582,way
 Droste-Hülshoff-Straße,wikidata,F,Q57307,way
 Elisabeth-Castonier-Platz,wikidata,F,Q96343,way
 Ellis-Kaut-Straße,wikidata,F,Q106391,way
-Emilie-Maurer-Straße,wikidata,F,Q1337340,way
+Emilie-Mauerer-Straße,wikidata,F,Q1337340,way
 Franziska-Bilek-Weg,wikidata,F,Q1450088,way
 Gunta-Stölzl-Straße,wikidata,F,Q73085,way
 Ida-Schumacher-Weg,wikidata,F,Q125887,way
@@ -16,10 +18,12 @@ Ilse-Weber-Straße,wikidata,F,Q435131,way
 Katharina-von-Bora-Straße,wikidata,F,Q77239,way
 Lilly-Reich-Straße,wikidata,F,Q64648,way
 Lina-Meittinger-Straße,wikidata,F,Q1737292,way
+Margarethe-Selenka-Straße,wikidata,F,Q85253,way
 Marianne-Brandt-Straße,wikidata,F,Q456521,way
 Menaristraße,wikidata,F,Q94777351,way
 Oda-Schaefer-Weg,wikidata,F,Q96336,way
 Petra-Moll-Weg,wikidata,F,Q63485594,way
+Therese-von-Bayern-Straße,wikidata,F,Q68918,way
 Theresienhöhe,wikidata,F,Q233198,way
 Viebigplatz,wikidata,F,Q71465,way
 Aldegreverstraße,wikidata,M,Q62514,way
@@ -121,6 +125,7 @@ Reithmannstraße,wikidata,M,Q113086,way
 Rilkestraße,wikidata,M,Q76483,way
 Roman-Herzog-Straße,wikidata,M,Q2563,way
 Rupert-Mayer-Straße,wikidata,M,Q45283,way
+Sammy-Drechsel-Straße,wikidata,M,Q100247,way
 Sandrartstraße,wikidata,M,Q551624,way
 Sandtnerstraße,wikidata,M,Q1526486,way
 Schäufeleinstraße,wikidata,M,Q675272,way
