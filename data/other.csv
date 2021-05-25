@@ -1,5 +1,5 @@
 name,source,gender,wikidata,type
-"Am Bavariapark",wikidata,,Q707669,relation
+"Am Bavariapark",wikidata,,Q707669,relation+way
 "Barmer Straße",wikidata,,Q153974,way
 Bavariaring,wikidata,,Q707669,way
 Bavariastraße,wikidata,,Q707669,way
@@ -239,7 +239,7 @@ Alzstraße,,,,way
 "Am Haag",,,,way
 "Am Hackelanger",,,,way
 "Am Hain",,,,way
-"Am Harras",,,,relation
+"Am Harras",,,,relation+way
 "Am Harras - Radiola-Eck",,,,way
 "Am Hartmannshofer Bächl",,,,way
 "Am Haselnußstrauch",,,,way
@@ -864,7 +864,7 @@ Brudermühltunnel,,,,way
 Bruderstraße,,,,way
 Bruggspergerstraße,,,,way
 Brukenthalstraße,,,,way
-Brundageplatz,,,,relation
+Brundageplatz,,,,relation+way
 "Brunecker Straße",,,,way
 Brunellenweg,,,,way
 Brunhamstraße,,,,way
@@ -999,7 +999,7 @@ Corneliusbrücke,,,,way
 Corneliusstraße,,,,way
 Cosimastraße,,,,way
 Cottaweg,,,,way
-Coubertinplatz,,,,relation
+Coubertinplatz,,,,relation+way
 Crailsheimstraße,,,,way
 Cranachstraße,,,,way
 Croissant-Rust-Straße,,,,way
@@ -1610,14 +1610,14 @@ Frauendorferstraße,,,,way
 Frauendreißigerstraße,,,,way
 Frauenlobstraße,,,,way
 Frauenmantelanger,,,,way
-Frauenplatz,,,,relation
+Frauenplatz,,,,relation+way
 Frauenschuhstraße,,,,way
 Frauenstädtstraße,,,,way
 Frauenstraße,,,,way
 "Frauenwörther Straße",,,,way
 Fraunbergplatz,,,,way
 Fraunbergstraße,,,,way
-Fraunhoferstraße,,,,relation
+Fraunhoferstraße,,,,relation+way
 Freda-Wuesthoff-Weg,,,,way
 Frei-Otto-Straße,,,,way
 Freibadstraße,,,,way
@@ -1901,7 +1901,7 @@ Gnadenwaldplatz,,,,way
 Gneisenaustraße,,,,way
 "Gnesener Straße",,,,way
 Goerdelerstraße,,,,way
-Goetheplatz,,,,relation
+Goetheplatz,,,,relation+way
 Goethestraße,,,,way
 "Gögginger Straße",,,,way
 Gögglstraße,,,,way
@@ -2496,7 +2496,7 @@ Hohenstaufenstraße,,,,way
 Hohensteinstraße,,,,way
 Hohentwielstraße,,,,way
 Hohenwaldeckstraße,,,,way
-Hohenzollernplatz,,,,relation
+Hohenzollernplatz,,,,relation+way
 Hohenzollernstraße,,,,way
 Holbeinstraße,,,,way
 Hölderlinstraße,,,,way
@@ -2864,7 +2864,7 @@ Karlsbergstraße,,,,way
 "Karlsburger Straße",,,,way
 "Karlsfelder Straße",,,,way
 Karlshöfe,,,,way
-Karlsplatz,,,,relation
+Karlsplatz,,,,relation+way
 Karlsteinstraße,,,,way
 Karlstraße,,,,way
 Karmeliterstraße,,,,way
@@ -2896,7 +2896,7 @@ Kathreinweg,,,,way
 Katzbachstraße,,,,way
 Katzensteinweg,,,,way
 "Kaufbeurer Straße",,,,way
-Kaufingerstraße,,,,relation
+Kaufingerstraße,,,,relation+way
 Kaufingertor-Passage,,,,way
 Kaulbachstraße,,,,way
 Kederbacherstraße,,,,way
@@ -3023,7 +3023,7 @@ Kolehmainenweg,,,,way
 Kollwitzstraße,,,,way
 "Kölner Platz",,,,way
 Kolosseumstraße,,,,way
-Kolumbusplatz,,,,relation
+Kolumbusplatz,,,,relation+way
 Kolumbusstraße,,,,way
 König-Heinrich-Straße,,,,way
 "König-Ludwig II-Weg",,,,way
@@ -3034,7 +3034,7 @@ Königinstraße,,,,way
 Königsbauhof,,,,way
 "Königsberger Straße",,,,way
 "Königsdorfer Straße",,,,way
-Königsplatz,,,,relation
+Königsplatz,,,,relation+way
 Königsseestraße,,,,way
 Königsteinstraße,,,,way
 Königswarterstraße,,,,way
@@ -3165,7 +3165,7 @@ Kurparkstraße,,,,way
 Kurt-Eisner-Straße,,,,way
 Kurt-Floericke-Straße,,,,way
 Kurt-Haertel-Passage,,,,way
-Kurt-Landauer-Platz,,,,relation
+Kurt-Landauer-Platz,,,,relation+way
 Kurt-Stieler-Weg,,,,way
 Kurt-Weill-Weg,,,,way
 Kurwenalstraße,,,,way
@@ -3524,7 +3524,7 @@ Malsenstraße,,,,way
 Malvenweg,,,,way
 Mälzereistraße,,,,way
 Mandlstraße,,,,way
-Mangfallplatz,,,,relation
+Mangfallplatz,,,,relation+way
 Mangfallstraße,,,,way
 Mangstraße,,,,way
 Mankeiweg,,,,way
@@ -3589,7 +3589,7 @@ Marieluise-Fleißer-Bogen,,,,way
 Marienhof,,,,relation
 Marienklausenbrücke,,,,way
 Marienklausensteg,,,,way
-Marienplatz,,,,relation
+Marienplatz,,,,relation+way
 Marienstraße,,,,way
 Marienwerderstraße,,,,way
 Mark-Twain-Straße,,,,way
@@ -3844,7 +3844,7 @@ Münzstraße,,,,way
 "Murnauer Straße",,,,way
 Musäusstraße,,,,way
 Musenbergstraße,,,,way
-Museumshof,,,,relation
+Museumshof,,,,relation+way
 Muspelheimstraße,,,,way
 Muspillistraße,,,,way
 Muthmannstraße,,,,way
@@ -3894,7 +3894,7 @@ Neufeldstraße,,,,way
 "Neufriedenheimer Platz",,,,way
 "Neufriedenheimer Straße",,,,way
 Neugeräumt,,,,way
-"Neuhauser Straße",,,,relation
+"Neuhauser Straße",,,,relation+way
 "Neuhauser Weg",,,,way
 Neuherbergstraße,,,,way
 "Neuhofener Platz",,,,way
@@ -4037,7 +4037,7 @@ Orchisweg,,,,way
 Orffstraße,,,,way
 Orlando-Passage,,,,way
 Orlandostraße,,,,way
-Orleansplatz,,,,relation
+Orleansplatz,,,,relation+way
 Orleansstraße,,,,way
 Orpheusstraße,,,,way
 Orsinistraße,,,,way
@@ -4367,7 +4367,7 @@ Presselweg,,,,way
 "Preßburger Straße",,,,way
 "Pretzfelder Straße",,,,way
 Preußenstraße,,,,way
-Preysingplatz,,,,relation
+Preysingplatz,,,,relation+way
 Preysingstraße,,,,way
 Preziosastraße,,,,way
 Prielmayerstraße,,,,way
@@ -4379,7 +4379,7 @@ Prinz-Eugen-Straße,,,,way
 Prinz-Konstantin-Straße,,,,way
 Prinz-Ludwig-Straße,,,,way
 Prinzenstraße,,,,way
-Prinzregentenplatz,,,,relation
+Prinzregentenplatz,,,,relation+way
 Prinzregentenstraße,,,,way
 Probst-Heinrich-Straße,,,,way
 Prochintalstraße,,,,way
@@ -4548,7 +4548,7 @@ Ricarda-Huch-Straße,,,,way
 Richard-Pietzsch-Weg,,,,way
 Richard-Riemerschmid-Allee,,,,way
 Richard-Seewald-Bogen,,,,way
-Richard-Strauss-Straße,,,,relation
+Richard-Strauss-Straße,,,,relation+way
 Richard-Strauss-Tunnel,,,,way
 Richard-Tauber-Straße,,,,way
 Richard-Wagner-Straße,,,,way
@@ -4642,7 +4642,7 @@ Rose-Pichler-Weg,,,,way
 Roseggerstraße,,,,way
 Rosemarie-Fendel-Bogen,,,,way
 Rosenbuschstraße,,,,way
-"Rosenheimer Platz",,,,relation
+"Rosenheimer Platz",,,,relation+way
 "Rosenheimer Straße",,,,way
 Rosenkavalierplatz,,,,way
 Rosenstraße,,,,way
@@ -4675,7 +4675,7 @@ Rothwiesenstraße,,,,way
 Rotkäppchenplatz,,,,way
 Rotkäppchenstraße,,,,way
 Rotkehlchenweg,,,,way
-Rotkreuzplatz,,,,relation
+Rotkreuzplatz,,,,relation+way
 "Rottacher Straße",,,,way
 Rottalstraße,,,,way
 Rottannenweg,,,,way
@@ -4792,7 +4792,7 @@ Sankt-Cajetan-Straße,,,,way
 Sankt-Emmeram-Brücke,,,,way
 Sankt-Galler-Straße,,,,way
 Sankt-Ingbert-Straße,,,,way
-Sankt-Jakobs-Platz,,,,relation
+Sankt-Jakobs-Platz,,,,relation+way
 Sankt-Johann-Straße,,,,way
 Sankt-Koloman-Straße,,,,way
 Sankt-Magnus-Straße,,,,way
@@ -5115,7 +5115,7 @@ Semperstraße,,,,way
 "Sendlinger Kirchplatz",,,,way
 "Sendlinger Straße",,,,way
 "Sendlinger Tor",,,,way
-Sendlinger-Tor-Platz,,,,relation
+Sendlinger-Tor-Platz,,,,relation+way
 Senefelderstraße,,,,way
 Senftenauerweg,,,,way
 Senftlstraße,,,,way
@@ -5347,7 +5347,7 @@ Stielerstraße,,,,way
 "Stierberger Straße",,,,way
 Stievestraße,,,,way
 Stiftsbogen,,,,way
-Stiglmaierplatz,,,,relation
+Stiglmaierplatz,,,,relation+way
 Stilfser-Joch-Straße,,,,way
 "Stockacher Straße",,,,way
 "Stockdorfer Straße",,,,way
@@ -5503,7 +5503,7 @@ Theresienweg,,,,way
 Thiemestraße,,,,way
 Thiereckstraße,,,,way
 "Thierlsteiner Straße",,,,way
-Thierschplatz,,,,relation
+Thierschplatz,,,,relation+way
 Thierschstraße,,,,way
 Thierseestraße,,,,way
 Thomas-Daffner-Weg,,,,way
@@ -5700,7 +5700,7 @@ Vierheiligstraße,,,,way
 Viktor-Scheffel-Straße,,,,way
 Viktoriaplatz,,,,way
 Viktoriastraße,,,,way
-Viktualienmarkt,,,,relation
+Viktualienmarkt,,,,relation+way
 Viktualienmarktpassage,,,,way
 "Villacher Straße",,,,way
 Vilniusstraße,,,,way
@@ -6004,7 +6004,7 @@ Wilhelmine-Reichard-Straße,,,,way
 "Wilhelmshavener Straße",,,,way
 Wilhelmstraße,,,,way
 Will-Dohm-Weg,,,,way
-Willi-Daume-Platz,,,,relation
+Willi-Daume-Platz,,,,relation+way
 Willi-Gebhardt-Ufer,,,,way
 Willi-Graf-Straße,,,,way
 Willi-Wien-Straße,,,,way
