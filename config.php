@@ -267,7 +267,6 @@ return [
             '6235990' => 'M', // Bernaysstraße
             '6236121' => 'M', // Lemckestraße
             '6236743' => 'M', // Mettenleiterplatz
-            '6237082' => 'M', // Kämpferstraße
             '6237084' => 'M', // Dientzenhoferstraße
             '6237122' => 'M', // Hauttmannweg
             '6237123' => 'M', // Wiegandweg
@@ -283,7 +282,6 @@ return [
             '10676641' => 'M', // Rathenaustraße
             '12382300' => 'M', // Silcherstraße
             '15804140' => 'M', // Martin-Luther-King-Weg
-            '17904563' => 'M', // Brundageplatz
             '17904613' => 'F', // Lillian-Board-Weg
             '17912663' => 'F', // Lillian-Board-Weg
             '17912692' => 'F', // Lillian-Board-Weg
@@ -292,7 +290,6 @@ return [
             '17919189' => 'M', // Spiridon-Louis-Ring
             '17937993' => 'F', // Helene-Mayer-Ring
             '17939531' => 'M', // Nadistraße
-            '17940592' => 'M', // El-Thouni-Weg
             '17951850' => 'M', // Kusocinskidamm
             '17982346' => 'M', // Walther-Bathe-Weg
             '17982380' => 'M', // Walther-Bathe-Weg
@@ -339,7 +336,6 @@ return [
             '23375218' => 'M', // Parlerstraße
             '23375232' => 'M', // Karl-Postl-Straße
             '23375234' => 'M', // Röblingweg
-            '23605195' => 'M', // Erwin-von-Steinbach-Weg
             '23605196' => 'M', // Rockefellerstraße
             '23605197' => 'M', // Zickweg
             '23605478' => 'M', // Bernaysstraße
@@ -426,8 +422,6 @@ return [
             '101693146' => 'F', // Lillian-Board-Weg
             '102582832' => 'M', // Hufelandstraße
             '102660432' => 'M', // Rothpletzstraße
-            '106084311' => 'M', // Brundageplatz
-            '106084324' => 'M', // Brundageplatz
             '106923842' => 'M', // Hanns-Braun-Brücke
             '117500263' => 'M', // Spiridon-Louis-Ring
             '119033796' => 'M', // Buhlstraße
@@ -500,13 +494,11 @@ return [
             '186221131' => 'M', // Spiridon-Louis-Ring
             '188465397' => 'M', // Kleinschmidtstraße
             '190400704' => 'M', // Ernst-Schneider-Weg
-            '207380070' => 'M', // Kämpferstraße
             '209452713' => 'M', // Spiridon-Louis-Ring
             '242664817' => 'F', // Helene-Mayer-Ring
             '255848355' => 'M', // Max-Diamand-Straße
             '256578890' => 'M', // Hugo-Wolf-Straße
             '256741587' => 'M', // Korbinianplatz
-            '256987072' => 'M', // Brundageplatz
             '257024011' => 'M', // Guddenstraße
             '263210089' => 'M', // Domagkstraße
             '265616622' => 'M', // Leopoldstraße
@@ -616,7 +608,6 @@ return [
             '435007474' => 'M', // Georg-von-Mayr-Straße
             '435007475' => 'M', // Schafhäutlstraße
             '435067027' => 'M', // Hufelandstraße
-            '440988377' => 'M', // Brundageplatz
             '440988383' => 'F', // Lillian-Board-Weg
             '440988384' => 'M', // Spiridon-Louis-Ring
             '440988385' => 'M', // Spiridon-Louis-Ring
@@ -632,13 +623,6 @@ return [
             '462636221' => 'M', // Hilgerstraße
             '462636222' => 'M', // Doeberlstraße
             '462638845' => 'M', // Dewetstraße
-            '468994565' => 'M', // Brundageplatz
-            '468994566' => 'M', // Brundageplatz
-            '468999136' => 'M', // Brundageplatz
-            '468999137' => 'M', // Brundageplatz
-            '468999138' => 'M', // Brundageplatz
-            '468999139' => 'M', // Brundageplatz
-            '468999140' => 'M', // Brundageplatz
             '473663369' => 'F', // Christl-Marie-Schultes-Weg
             '480532126' => 'M', // Hufelandstraße
             '495203929' => 'F', // Christl-Marie-Schultes-Weg
@@ -646,18 +630,15 @@ return [
             '617583151' => 'M', // Wilhelm-Dörpfeld-Weg
             '758893804' => 'M', // Humperdinckstraße
             '760042045' => 'M', // Dientzenhoferstraße
-            '760861628' => 'M', // Kämpferstraße
-            '760861629' => 'M', // Kämpferstraße
-            '842474339' => 'M', // Erwin-von-Steinbach-Weg
-            '847782942' => 'M', // Dominikusplatz
-            '929558732' => 'M', // El-Thouni-Weg
-            '376839301' => 'M', // Schollerweg. Otto Scholler, ehemaliger Leiter der Verkehrsbetriebe München
-            '376839304' => 'M', // Schollerweg. Otto Scholler, ehemaliger Leiter der Verkehrsbetriebe München
-            '996920455' => 'M', // Schollerweg. Otto Scholler, ehemaliger Leiter der Verkehrsbetriebe München
-            '23374526' => 'M', // Schollerweg. Otto Scholler, ehemaliger Leiter der Verkehrsbetriebe München
-            '116786306' => 'M', // Schollerweg. Otto Scholler, ehemaliger Leiter der Verkehrsbetriebe München
-            '361229793' => 'M', // Schollerweg. Otto Scholler, ehemaliger Leiter der Verkehrsbetriebe München
-            '23605481' => 'M', // Schollerweg. Otto Scholler, ehemaliger Leiter der Verkehrsbetriebe München
+            '17940592' => 'M', // El-Thouni-Weg: Khadr El Thouni, ägyptischer Gewichtheber. 
+            '929558732' => 'M', // El-Thouni-Weg: Khadr El Thouni, ägyptischer Gewichtheber. 
+            '376839301' => 'M', // Schollerweg: Otto Scholler, ehemaliger Leiter der Verkehrsbetriebe München
+            '376839304' => 'M', // Schollerweg: Otto Scholler, ehemaliger Leiter der Verkehrsbetriebe München
+            '996920455' => 'M', // Schollerweg: Otto Scholler, ehemaliger Leiter der Verkehrsbetriebe München
+            '23374526' => 'M', // Schollerweg: Otto Scholler, ehemaliger Leiter der Verkehrsbetriebe München
+            '116786306' => 'M', // Schollerweg: Otto Scholler, ehemaliger Leiter der Verkehrsbetriebe München
+            '361229793' => 'M', // Schollerweg: Otto Scholler, ehemaliger Leiter der Verkehrsbetriebe München
+            '23605481' => 'M', // Schollerweg: Otto Scholler, ehemaliger Leiter der Verkehrsbetriebe München
         ],
     ],
 
