@@ -296,7 +296,6 @@ return [
             '17951850' => 'M', // Kusocinskidamm
             '17982346' => 'M', // Walther-Bathe-Weg
             '17982380' => 'M', // Walther-Bathe-Weg
-            '17987044' => 'M', // Toni-Merkens-Weg
             '17988054' => 'M', // Ernst-Curtius-Weg
             '17991058' => 'M', // Wilhelm-Dörpfeld-Weg
             '17991539' => 'M', // Wilhelm-Dörpfeld-Weg
@@ -307,7 +306,6 @@ return [
             '18893224' => 'M', // Rudolf-Harbig-Weg
             '18893226' => 'M', // Spiridon-Louis-Ring
             '18893998' => 'M', // Roopsingh-Bais-Weg
-            '19431389' => 'M', // Toni-Merkens-Weg
             '19722224' => 'F', // Helene-Mayer-Ring
             '19722634' => 'M', // Straßbergerstraße
             '19724457' => 'M', // Connollystraße
@@ -335,7 +333,6 @@ return [
             '23281710' => 'M', // Zanderstraße
             '23281718' => 'M', // Hanselmannstraße
             '23374154' => 'M', // Spengelplatz
-            '23374526' => 'M', // Schollerweg
             '23374798' => 'M', // Georg-von-Mayr-Straße
             '23374803' => 'M', // Georg-von-Mayr-Straße
             '23375200' => 'M', // Hugo-Wolf-Straße
@@ -346,7 +343,6 @@ return [
             '23605196' => 'M', // Rockefellerstraße
             '23605197' => 'M', // Zickweg
             '23605478' => 'M', // Bernaysstraße
-            '23605481' => 'M', // Schollerweg
             '23619373' => 'M', // Bruno-Hofer-Platz
             '23619374' => 'M', // Erich-Kaiser-Weg
             '23619375' => 'M', // Doeberlstraße
@@ -395,13 +391,11 @@ return [
             '36555064' => 'M', // Eulerstraße
             '36580422' => 'M', // Leopoldstraße
             '37103796' => 'M', // Martin-Luther-King-Weg
-            '37210941' => 'M', // Toni-Merkens-Weg
             '38571827' => 'F', // Helene-Mayer-Ring
             '38571828' => 'F', // Helene-Mayer-Ring
             '39322684' => 'M', // Ackermannstraße
             '42257813' => 'M', // Kusocinskidamm
             '42257820' => 'M', // Kusocinskidamm
-            '42325665' => 'M', // Toni-Merkens-Weg
             '44501437' => 'M', // Werner-Seelenbinder-Weg
             '47047784' => 'M', // Connollystraße
             '50459734' => 'F', // Helene-Mayer-Ring
@@ -435,7 +429,6 @@ return [
             '106084311' => 'M', // Brundageplatz
             '106084324' => 'M', // Brundageplatz
             '106923842' => 'M', // Hanns-Braun-Brücke
-            '116786306' => 'M', // Schollerweg
             '117500263' => 'M', // Spiridon-Louis-Ring
             '119033796' => 'M', // Buhlstraße
             '119419190' => 'M', // Silcherstraße
@@ -449,7 +442,6 @@ return [
             '120259013' => 'M', // Rockefellerstraße
             '120259014' => 'M', // Rockefellerstraße
             '122055397' => 'M', // Ernst-Curtius-Weg
-            '122055400' => 'M', // Toni-Merkens-Weg
             '122553737' => 'M', // Nietzschestraße
             '123625461' => 'M', // Kantstraße
             '124787721' => 'M', // Griegstraße
@@ -472,7 +464,6 @@ return [
             '150926679' => 'M', // Franz-Metzner-Straße
             '150926682' => 'M', // Gregor-Mendel-Straße
             '150926685' => 'M', // Hilgerstraße
-            '150926694' => 'M', // Lintnerweg
             '150926698' => 'M', // Naagerstraße
             '150926701' => 'M', // Permanederstraße
             '150926708' => 'M', // Rockefellerstraße
@@ -562,7 +553,6 @@ return [
             '311807528' => 'F', // Hildegard-von-Bingen-Anger
             '312914964' => 'M', // Hugo-Wolf-Straße
             '316639203' => 'M', // Heidemannstraße
-            '319553602' => 'M', // Toni-Merkens-Weg
             '324310865' => 'M', // Rockefellerstraße
             '324310866' => 'M', // Rockefellerstraße
             '324310907' => 'M', // Weyprechtstraße
@@ -596,15 +586,12 @@ return [
             '339700543' => 'M', // Kantstraße
             '339700547' => 'M', // Kantstraße
             '340149852' => 'M', // Rathenaustraße
-            '361229793' => 'M', // Schollerweg
             '365006223' => 'F', // Helene-Mayer-Ring
             '371711315' => 'M', // Werner-Seelenbinder-Weg
             '374936101' => 'M', // Spiridon-Louis-Ring
             '375743527' => 'M', // Dientzenhoferstraße
             '376399922' => 'M', // Torquato-Tasso-Straße
             '376399923' => 'M', // Torquato-Tasso-Straße
-            '376839301' => 'M', // Schollerweg
-            '376839304' => 'M', // Schollerweg
             '377673767' => 'M', // Leopoldstraße
             '377673771' => 'M', // Leopoldstraße
             '377673774' => 'M', // Leopoldstraße
@@ -642,8 +629,6 @@ return [
             '457987938' => 'M', // Anton-Will-Straße
             '459027216' => 'M', // Ackermannstraße
             '459027221' => 'M', // Ackermannstraße
-            '459027234' => 'M', // Toni-Merkens-Weg
-            '459027237' => 'M', // Toni-Merkens-Weg
             '462636221' => 'M', // Hilgerstraße
             '462636222' => 'M', // Doeberlstraße
             '462638845' => 'M', // Dewetstraße
@@ -665,14 +650,14 @@ return [
             '760861629' => 'M', // Kämpferstraße
             '842474339' => 'M', // Erwin-von-Steinbach-Weg
             '847782942' => 'M', // Dominikusplatz
-            '856512355' => 'M', // Toni-Merkens-Weg
-            '856512359' => 'M', // Toni-Merkens-Weg
-            '856512362' => 'M', // Toni-Merkens-Weg
-            '907692356' => 'M', // Lintnerweg
-            '912115102' => 'M', // Toni-Merkens-Weg
             '929558732' => 'M', // El-Thouni-Weg
-            '981958821' => 'M', // Toni-Merkens-Weg
-            '996920455' => 'M', // Schollerweg
+            '376839301' => 'M', // Schollerweg. Otto Scholler, ehemaliger Leiter der Verkehrsbetriebe München
+            '376839304' => 'M', // Schollerweg. Otto Scholler, ehemaliger Leiter der Verkehrsbetriebe München
+            '996920455' => 'M', // Schollerweg. Otto Scholler, ehemaliger Leiter der Verkehrsbetriebe München
+            '23374526' => 'M', // Schollerweg. Otto Scholler, ehemaliger Leiter der Verkehrsbetriebe München
+            '116786306' => 'M', // Schollerweg. Otto Scholler, ehemaliger Leiter der Verkehrsbetriebe München
+            '361229793' => 'M', // Schollerweg. Otto Scholler, ehemaliger Leiter der Verkehrsbetriebe München
+            '23605481' => 'M', // Schollerweg. Otto Scholler, ehemaliger Leiter der Verkehrsbetriebe München
         ],
     ],
 

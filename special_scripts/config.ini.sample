@@ -1,0 +1,7 @@
+[SECRETS]
+osm_user = bla@blubb.net
+osm_password = blablablubb
+[IDS]
+osm_ids = ["150926694","907692356"] 
+wikidata_id = Q1732170
+
