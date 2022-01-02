@@ -208,7 +208,6 @@ return [
             '3221457' => 'M', // Roopsingh-Bais-Weg
             '3707399' => 'M', // Georg-Brauchle-Ring
             '4003050' => 'M', // Luz-Long-Ufer
-            '4003051' => 'M', // Ernst-Curtius-Weg
             '4003056' => 'M', // Ackermannstraße
             '4055321' => 'M', // Winzererstraße
             '4056146' => 'M', // Winzererstraße
@@ -238,7 +237,6 @@ return [
             '4537089' => 'F', // Schwarzhauptstraße
             '4673912' => 'M', // Hufelandstraße
             '4887114' => 'M', // Humannweg
-            '4887121' => 'M', // Dientzenhoferstraße
             '4956424' => 'M', // Caracciolastraße
             '5033110' => 'M', // Brentanostraße
             '5033118' => 'M', // Wilhelm-Raabe-Straße
@@ -246,7 +244,6 @@ return [
             '5033126' => 'M', // Christoph-Schmid-Straße
             '5033135' => 'M', // Freiligrathstraße
             '5033219' => 'M', // Ostermayrstraße
-            '5033227' => 'M', // Humperdinckstraße
             '5048261' => 'M', // Zietenstraße
             '5048272' => 'M', // Graf-Konrad-Straße
             '5196738' => 'M', // Schopenhauerstraße
@@ -267,7 +264,6 @@ return [
             '6235990' => 'M', // Bernaysstraße
             '6236121' => 'M', // Lemckestraße
             '6236743' => 'M', // Mettenleiterplatz
-            '6237084' => 'M', // Dientzenhoferstraße
             '6237122' => 'M', // Hauttmannweg
             '6237123' => 'M', // Wiegandweg
             '6237139' => 'M', // Reicherstorfferweg
@@ -293,10 +289,6 @@ return [
             '17951850' => 'M', // Kusocinskidamm
             '17982346' => 'M', // Walther-Bathe-Weg
             '17982380' => 'M', // Walther-Bathe-Weg
-            '17988054' => 'M', // Ernst-Curtius-Weg
-            '17991058' => 'M', // Wilhelm-Dörpfeld-Weg
-            '17991539' => 'M', // Wilhelm-Dörpfeld-Weg
-            '17992588' => 'M', // Ernst-Curtius-Weg
             '18007098' => 'M', // Kusocinskidamm
             '18007320' => 'M', // Kusocinskidamm
             '18893223' => 'M', // Rudolf-Harbig-Weg
@@ -435,7 +427,6 @@ return [
             '120259012' => 'M', // Rockefellerstraße
             '120259013' => 'M', // Rockefellerstraße
             '120259014' => 'M', // Rockefellerstraße
-            '122055397' => 'M', // Ernst-Curtius-Weg
             '122553737' => 'M', // Nietzschestraße
             '123625461' => 'M', // Kantstraße
             '124787721' => 'M', // Griegstraße
@@ -529,17 +520,13 @@ return [
             '288899471' => 'F', // Helene-Mayer-Ring
             '291794246' => 'F', // Helene-Mayer-Ring
             '291794247' => 'F', // Helene-Mayer-Ring
-            '298290273' => 'F', // Christl-Marie-Schultes-Weg
             '305316829' => 'M', // Spiridon-Louis-Ring
             '305316830' => 'M', // Walther-Bathe-Weg
             '305316831' => 'M', // Walther-Bathe-Weg
             '307180618' => 'M', // Ackermannstraße
             '307306446' => 'M', // Griegstraße
-            '309364117' => 'M', // Dientzenhoferstraße
             '309501309' => 'F', // Hildegard-von-Bingen-Anger
             '309501310' => 'F', // Hildegard-von-Bingen-Anger
-            '310383821' => 'M', // Ernst-Curtius-Weg
-            '310383822' => 'M', // Wilhelm-Dörpfeld-Weg
             '311413663' => 'M', // Willi-Gebhardt-Ufer
             '311805751' => 'F', // Hildegard-von-Bingen-Anger
             '311807528' => 'F', // Hildegard-von-Bingen-Anger
@@ -581,7 +568,6 @@ return [
             '365006223' => 'F', // Helene-Mayer-Ring
             '371711315' => 'M', // Werner-Seelenbinder-Weg
             '374936101' => 'M', // Spiridon-Louis-Ring
-            '375743527' => 'M', // Dientzenhoferstraße
             '376399922' => 'M', // Torquato-Tasso-Straße
             '376399923' => 'M', // Torquato-Tasso-Straße
             '377673767' => 'M', // Leopoldstraße
@@ -623,13 +609,7 @@ return [
             '462636221' => 'M', // Hilgerstraße
             '462636222' => 'M', // Doeberlstraße
             '462638845' => 'M', // Dewetstraße
-            '473663369' => 'F', // Christl-Marie-Schultes-Weg
             '480532126' => 'M', // Hufelandstraße
-            '495203929' => 'F', // Christl-Marie-Schultes-Weg
-            '617573430' => 'M', // Ernst-Curtius-Weg
-            '617583151' => 'M', // Wilhelm-Dörpfeld-Weg
-            '758893804' => 'M', // Humperdinckstraße
-            '760042045' => 'M', // Dientzenhoferstraße
             '17940592' => 'M', // El-Thouni-Weg: Khadr El Thouni, ägyptischer Gewichtheber. 
             '929558732' => 'M', // El-Thouni-Weg: Khadr El Thouni, ägyptischer Gewichtheber. 
             '376839301' => 'M', // Schollerweg: Otto Scholler, ehemaliger Leiter der Verkehrsbetriebe München
