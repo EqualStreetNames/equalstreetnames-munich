@@ -57,6 +57,7 @@ Brosamerstraße,wikidata,M,Q532091,way
 Brundageplatz,wikidata,M,Q155928,relation+way
 Burgkmairstraße,wikidata,M,Q313163,way
 Candidstraße,wikidata,M,Q315803,way
+Connollystraße,wikidata,M,Q294321,way
 Coubertinplatz,wikidata,M,Q82984,way
 Curt-Mezger-Platz,wikidata,M,Q1145244,way
 Desingweg,wikidata,M,Q569518,way
@@ -84,11 +85,13 @@ Fröbelplatz,wikidata,M,Q76679,way
 Ganghoferstraße,wikidata,M,Q123464,way
 Gärtnerplatz,wikidata,M,Q66149,way
 Gebsattelbrücke,wikidata,M,Q324662,way
+Georg-Brauchle-Ring,wikidata,M,Q108550,way
 Georg-Lotter-Weg,wikidata,M,Q1505221,way
 Georg-Muche-Straße,wikidata,M,Q646159,way
 Georg-von-Mayr-Straße,wikidata,M,Q90501,way
 Golo-Mann-Weg,wikidata,M,Q77109,way
 Gottfried-Koelwel-Weg,wikidata,M,Q1539302,way
+Griegstraße,wikidata,M,Q80621,way
 Güllstraße,wikidata,M,Q92008,way
 Gustav-Landauer-Bogen,wikidata,M,Q61723,way
 Gutzkowstraße,wikidata,M,Q76755,way
@@ -159,6 +162,7 @@ Max-Hirschberg-Weg,wikidata,M,Q74757,way
 Max-Joseph-Platz,wikidata,M,Q44319,way
 Maxstadtstraße,wikidata,M,Q20753120,way
 Meister-Mathis-Weg,wikidata,M,Q154338,way
+Mettenleiterplatz,wikidata,M,Q1695571,way
 Mies-van-der-Rohe-Straße,wikidata,M,Q41508,way
 Mitterhoferstraße,wikidata,M,Q2077094,way
 Mozartstraße,wikidata,M,Q254,way
@@ -200,6 +204,7 @@ Von-der-Pfordten-Straße,wikidata,M,Q85092,way
 Vosslerstraße,wikidata,M,Q66135,way
 Walter-Gropius-Straße,wikidata,M,Q61071,way
 Walter-Scott-Straße,wikidata,M,Q79025,way
+Walther-Bathe-Weg,wikidata,M,Q569917,way
 Weiß-Ferdl-Straße,wikidata,M,Q43826,way
 Werner-Seelenbinder-Weg,wikidata,M,Q452309,way
 Weyprechtstraße,wikidata,M,Q55074122,way
@@ -265,7 +270,6 @@ Camerloherstraße,config,M,,way
 Caracciolastraße,config,M,,way
 Christoph-Schmid-Straße,config,M,,way
 Christoph-von-Gluck-Platz,config,M,,way
-Connollystraße,config,M,,way
 Dolleschelstraße,config,M,,way
 Domagkstraße,config,M,,way
 Dostlerstraße,config,M,,way
@@ -286,7 +290,6 @@ Freiligrathstraße,config,M,,way
 Frohschammerstraße,config,M,,way
 Gareisstraße,config,M,,way
 Geigerstraße,config,M,,way
-Georg-Brauchle-Ring,config,M,,way
 Geßlerstraße,config,M,,way
 Geyerspergerstraße,config,M,,way
 Gluthstraße,config,M,,way
@@ -294,7 +297,6 @@ Goldmarkstraße,config,M,,way
 Gotthardstraße,config,M,,way
 Graf-Konrad-Straße,config,M,,way
 Gregor-Mendel-Straße,config,M,,way
-Griegstraße,config,M,,way
 Guddenstraße,config,M,,way
 Guido-Schneble-Straße,config,M,,way
 Haggenmillerstraße,config,M,,way
@@ -326,7 +328,6 @@ Mathunistraße,config,M,,way
 Max-Diamand-Straße,config,M,,way
 Max-Liebermann-Straße,config,M,,way
 Max-von-Laue-Straße,config,M,,way
-Mettenleiterplatz,config,M,,way
 Morsering,config,M,,way
 Mortonstraße,config,M,,way
 Naagerstraße,config,M,,way
@@ -376,7 +377,6 @@ Trenkleweg,config,M,,way
 Valpichlerstraße,config,M,,way
 Wallensteinplatz,config,M,,way
 Wallensteinstraße,config,M,,way
-Walther-Bathe-Weg,config,M,,way
 Wegenerstraße,config,M,,way
 Weichselbaumerstraße,config,M,,way
 Wenzelstraße,config,M,,way
