@@ -24,6 +24,7 @@ Dolomitenstraße,wikidata,,Q1283,way
 "Flintsbacher Straße",wikidata,,Q532824,way
 Forst-Kasten-Allee,wikidata,,Q32012250,way
 "Forstenrieder Allee",wikidata,,Q51922314,way
+"Frankfurter Ring",wikidata,,Q1794,way
 "Freiburger Platz",wikidata,,Q2833,way
 "Friedberger Straße",wikidata,,Q507194,way
 "Fürstenrieder Straße",wikidata,,Q567568,way
@@ -131,7 +132,6 @@ Abbestraße,,,,way
 Abensbergstraße,,,,way
 Abenthumstraße,,,,way
 Aberlestraße,,,,way
-Abtstraße,,,,way
 "Abzweig Nordost-Feldkirchen",,,,way
 Achatstraße,,,,way
 Achenseeplatz,,,,way
@@ -139,7 +139,6 @@ Achentalstraße,,,,way
 Achleitnerstraße,,,,way
 Achwaldstraße,,,,way
 Ackerlweg,,,,way
-Ackermannstraße,,,,way
 Ackerstraße,,,,way
 Adalbert-Stifter-Straße,,,,way
 Adalbertstraße,,,,way
@@ -453,14 +452,12 @@ Ansprengerstraße,,,,way
 Anton-Barth-Weg,,,,way
 Anton-Böck-Straße,,,,way
 Anton-Braith-Straße,,,,way
-Anton-Ditt-Bogen,,,,way
 Anton-Fehr-Straße,,,,way
 Anton-Geisenhofer-Straße,,,,way
 Anton-Meindl-Straße,,,,way
 Anton-Pichler-Straße,,,,way
 Anton-Webern-Weg,,,,way
 Anton-Weiß-Weg,,,,way
-Anton-Will-Straße,,,,way
 Antonienstraße,,,,way
 "Antwerpener Straße",,,,way
 Anzengruberstraße,,,,way
@@ -560,7 +557,6 @@ Auguste-Halbmeier-Straße,,,,way
 Auguste-Kent-Platz,,,,way
 "Augustenfelder Straße",,,,way
 Augustenstraße,,,,way
-Augustin-Rösch-Straße,,,,way
 Augustinerstraße,,,,way
 Aumeisterbrücke,,,,way
 Aurbacherstraße,,,,way
@@ -653,7 +649,6 @@ Barthstraße,,,,way
 Barystraße,,,,way
 Bassermannstraße,,,,way
 Bastian-Schmid-Platz,,,,way
-Bastianweg,,,,way
 Batschkastraße,,,,way
 Batzenhoferstraße,,,,way
 Batzerstraße,,,,way
@@ -746,7 +741,6 @@ Bernabeistraße,,,,way
 Bernadottestraße,,,,way
 Bernatzikstraße,,,,way
 "Bernauer Straße",,,,way
-Bernaysstraße,,,,way
 Bernhard-Borst-Straße,,,,way
 Bernhard-Koehler-Weg,,,,way
 Bernhard-Lichtenberg-Weg,,,,way
@@ -765,7 +759,6 @@ Bertha-Kipfmüller-Straße,,,,way
 Bertha-von-Suttner-Weg,,,,way
 Berthold-Hirsch-Straße,,,,way
 Berthold-Litzmann-Straße,,,,way
-Bertholdstraße,,,,way
 Bertschstraße,,,,way
 Berzeliusstraße,,,,way
 Besselstraße,,,,way
@@ -803,9 +796,7 @@ Birkkarspitzstraße,,,,way
 "Birnauer Straße",,,,way
 "Birthälmer Straße",,,,way
 "Birtlinger Zeile",,,,way
-Bischof-Adalbert-Straße,,,,way
 Bischof-Ketteler-Straße,,,,way
-Bischoffstraße,,,,way
 Bischweiler-Straße,,,,way
 Bismarckstraße,,,,way
 "Bistritzer Weg",,,,way
@@ -901,7 +892,6 @@ Breitschwertstraße,,,,way
 "Bremer Straße",,,,way
 Brennereistraße,,,,way
 Brennerpaßstraße,,,,way
-Brentanostraße,,,,way
 "Breslauer Straße",,,,way
 "Brettener Straße",,,,way
 "Brieger Straße",,,,way
@@ -924,7 +914,6 @@ Brudermühltunnel,,,,way
 Bruderstraße,,,,way
 Bruggspergerstraße,,,,way
 Brukenthalstraße,,,,way
-Brundageplatz,,,,relation+way
 "Brunecker Straße",,,,way
 Brunellenweg,,,,way
 Brunhamstraße,,,,way
@@ -937,7 +926,6 @@ Brunnstraße,,,,way
 "Brunnthaler Weg",,,,way
 Brunnwiesenweg,,,,way
 Bruno-Frank-Weg,,,,way
-Bruno-Hofer-Platz,,,,way
 Bruno-Paul-Straße,,,,way
 Bruno-Walter-Ring,,,,way
 "Brüsseler Straße",,,,way
@@ -954,7 +942,6 @@ Buchnerstraße,,,,way
 Buchsteinstraße,,,,way
 "Budapester Straße",,,,way
 "Bühler Weg",,,,way
-Buhlstraße,,,,way
 Bülowstraße,,,,way
 Bummstraße,,,,way
 Bunsenstraße,,,,way
@@ -990,7 +977,6 @@ Candidtunnel,,,,way
 Canisiusplatz,,,,way
 Canisiusstraße,,,,way
 Cannabichstraße,,,,way
-Caracciolastraße,,,,way
 Carl-Amery-Platz,,,,way
 Carl-August-Sckell-Weg,,,,way
 Carl-Baierl-Bogen,,,,way
@@ -1023,11 +1009,8 @@ Chopinstraße,,,,way
 Chorherrstraße,,,,way
 Christel-Küpper-Platz,,,,way
 Christel-Sembach-Krone-Straße,,,,way
-Christl-Marie-Schultes-Weg,,,,way
 Christoph-Probst-Straße,,,,way
 Christoph-Rapparini-Bogen,,,,way
-Christoph-Schmid-Straße,,,,way
-Christoph-von-Gluck-Platz,,,,way
 Christophstraße,,,,way
 Christrosenweg,,,,way
 Chrysanthemenstraße,,,,way
@@ -1049,7 +1032,6 @@ Cochemstraße,,,,way
 Colmdorfstraße,,,,way
 Comeniusstraße,,,,way
 "Commerzbank Passage",,,,way
-Connollystraße,,,,way
 Constanze-Hallgarten-Straße,,,,way
 Conwentzstraße,,,,way
 Corinthstraße,,,,way
@@ -1057,7 +1039,6 @@ Corneliusbrücke,,,,way
 Corneliusstraße,,,,way
 Cosimastraße,,,,way
 Cottaweg,,,,way
-Coubertinplatz,,,,way
 Crailsheimstraße,,,,way
 Cranachstraße,,,,way
 Croissant-Rust-Straße,,,,way
@@ -1121,7 +1102,6 @@ Destouchesstraße,,,,way
 Detmoldstraße,,,,way
 Deutingerstraße,,,,way
 Deutstraße,,,,way
-Dewetstraße,,,,way
 Diamantstraße,,,,way
 Dianabadbrücke,,,,way
 Dianabadweg,,,,way
@@ -1130,7 +1110,6 @@ Dickensstraße,,,,way
 Diefenbachstraße,,,,way
 "Diemendorfer Straße",,,,way
 Dienerstraße,,,,way
-Dientzenhoferstraße,,,,way
 Diepoldstraße,,,,way
 Diermayerweg,,,,way
 Dieselstraße,,,,way
@@ -1165,18 +1144,14 @@ Dobmannstraße,,,,way
 Döbrastraße,,,,way
 Docenstraße,,,,way
 Döderleinstraße,,,,way
-Doeberlstraße,,,,way
 Dohlenweg,,,,way
-Dolleschelstraße,,,,way
 Döllingerstraße,,,,way
 Dollmannstraße,,,,way
 Dollwiesenweg,,,,way
 Dom-Pedro-Platz,,,,way
 Dom-Pedro-Straße,,,,way
-Domagkstraße,,,,way
 Dominik-Brunner-Weg,,,,way
 Dominikstraße,,,,way
-Dominikusplatz,,,,way
 Dompfaffweg,,,,way
 Donarweg,,,,way
 "Donaustaufer Straße",,,,way
@@ -1194,13 +1169,11 @@ Dornröschenstraße,,,,way
 Dorotheenstraße,,,,way
 "Dorpater Straße",,,,way
 Doschweg,,,,way
-Dostlerstraße,,,,way
 Dr.-Blaich-Straße,,,,way
 Dr.-Böttcher-Straße,,,,way
 Dr.-Carl-von-Linde-Straße,,,,way
 Dr.-Mach-Straße,,,,way
 Dr.-Ruder-Weg,,,,way
-Dr.-Schweninger-Straße,,,,way
 Dr.-Walther-von-Miller-Straße,,,,way
 Drachenfelsstraße,,,,way
 Drachenseestraße,,,,way
@@ -1224,7 +1197,6 @@ Dublinstraße,,,,way
 Dudenstraße,,,,way
 Dudweilerweg,,,,way
 Dukatenweg,,,,way
-Dülferstraße,,,,way
 Dultstraße,,,,way
 Dumasstraße,,,,way
 Dunantstraße,,,,way
@@ -1267,7 +1239,6 @@ Edlingerstraße,,,,way
 Edmund-Husserl-Straße,,,,way
 Edmund-Rumpler-Straße,,,,way
 Eduard-Fentsch-Weg,,,,way
-Eduard-Schenk-Straße,,,,way
 Eduard-Schleich-Weg,,,,way
 Eduard-Schmid-Straße,,,,way
 Eduard-Schwartz-Straße,,,,way
@@ -1312,6 +1283,7 @@ Eifelstraße,,,,way
 Eigenhausstraße,,,,way
 Eigerstraße,,,,way
 "Eilles Passage",,,,way
+"Eingang Aussichtsturm",,,,way
 "Eingang Pädiatrie",,,,way
 Einhornallee,,,,way
 "Eininger Straße",,,,way
@@ -1329,7 +1301,6 @@ Eishüttenweg,,,,way
 Eisnergutbogen,,,,way
 "Eisolzrieder Straße",,,,way
 Eisvogelweg,,,,way
-El-Thouni-Weg,,,,way
 "Elbacher Straße",,,,way
 Elbestraße,,,,way
 "Elbinger Straße",,,,way
@@ -1406,7 +1377,6 @@ Erhard-Auer-Straße,,,,way
 Erhardtstraße,,,,way
 Eric-Voegelin-Weg,,,,way
 Erich-Giese-Straße,,,,way
-Erich-Kaiser-Weg,,,,way
 Erich-Kästner-Straße,,,,way
 Erich-Mühsam-Platz,,,,way
 Erika-Cremer-Straße,,,,way
@@ -1426,7 +1396,6 @@ Erni-Singerl-Straße,,,,way
 Ernsbergerstraße,,,,way
 Ernst-Bloch-Straße,,,,way
 Ernst-Buchner-Weg,,,,way
-Ernst-Curtius-Weg,,,,way
 Ernst-Haeckel-Straße,,,,way
 Ernst-Henle-Straße,,,,way
 Ernst-Hochholzer-Straße,,,,way
@@ -1434,7 +1403,6 @@ Ernst-Kuhn-Straße,,,,way
 Ernst-Penzoldt-Steg,,,,way
 Ernst-Platz-Straße,,,,way
 Ernst-Reuter-Straße,,,,way
-Ernst-Schneider-Weg,,,,way
 Ernst-Toller-Platz,,,,way
 Ernst-von-Beling-Straße,,,,way
 Ernst-von-Romberg-Straße,,,,way
@@ -1443,7 +1411,6 @@ Ertelstraße,,,,way
 Erwin-Hielscher-Straße,,,,way
 Erwin-Planck-Weg,,,,way
 Erwin-von-Kreibig-Straße,,,,way
-Erwin-von-Steinbach-Weg,,,,way
 Erzgießereistraße,,,,way
 Eschenbachstraße,,,,way
 "Eschenloher Straße",,,,way
@@ -1467,7 +1434,6 @@ Eugen-Kalkschmidt-Weg,,,,way
 Eugen-Loher-Straße,,,,way
 Eugen-Papst-Straße,,,,way
 Eulenspiegelstraße,,,,way
-Eulerstraße,,,,way
 Europaplatz,,,,way
 Eva-Vaitl-Weg,,,,way
 Evastraße,,,,way
@@ -1496,6 +1462,7 @@ Färbergraben,,,,way
 "Farchanter Straße",,,,way
 Farinellistraße,,,,way
 Farnweg,,,,way
+Fasanarkaden,,,,way
 Fasanensteg,,,,way
 Fasanenstraße,,,,way
 Fasanenweg,,,,way
@@ -1544,7 +1511,6 @@ Ferdinand-Maria-Straße,,,,way
 Ferdinand-Miller-Platz,,,,way
 Fernpaßstraße,,,,way
 Fertigstraße,,,,way
-Feserstraße,,,,way
 Festingstraße,,,,way
 Feuchtwangerstraße,,,,way
 Feuerbachstraße,,,,way
@@ -1612,7 +1578,6 @@ Franckensteinstraße,,,,way
 Frankaustraße,,,,way
 "Frankenthaler Straße",,,,way
 Frankenwaldstraße,,,,way
-"Frankfurter Ring",,,,way
 Frankplatz,,,,way
 Frans-Hals-Straße,,,,way
 Franz-Albert-Straße,,,,way
@@ -1634,7 +1599,6 @@ Franz-Kötterl-Straße,,,,way
 Franz-Langinger-Straße,,,,way
 Franz-Mader-Straße,,,,way
 Franz-Marc-Straße,,,,way
-Franz-Metzner-Straße,,,,way
 Franz-Nißl-Straße,,,,way
 Franz-Prüller-Straße,,,,way
 Franz-Reber-Weg,,,,way
@@ -1664,7 +1628,6 @@ Frauenlobstraße,,,,way
 Frauenmantelanger,,,,way
 Frauenplatz,,,,relation+way
 Frauenschuhstraße,,,,way
-Frauenstädtstraße,,,,way
 Frauenstraße,,,,way
 "Frauenwörther Straße",,,,way
 Fraunbergplatz,,,,way
@@ -1683,7 +1646,6 @@ Freienfelsstraße,,,,way
 Freiherr-von-Pechmann-Weg,,,,way
 Freilandstraße,,,,way
 "Freilassinger Straße",,,,way
-Freiligrathstraße,,,,way
 "Freimanner Bahnhofstraße",,,,way
 Freischützstraße,,,,way
 "Freisinger Landstraße",,,,way
@@ -1741,12 +1703,10 @@ Fritz-Reuter-Straße,,,,way
 Fritz-Schäffer-Straße,,,,way
 Fritz-Schuster-Straße,,,,way
 Fritz-Winter-Straße,,,,way
-Fritz-Wunderlich-Platz,,,,way
 Frobeniusweg,,,,way
 Frobenstraße,,,,way
 Fröhlichstraße,,,,way
 "Frohnloher Straße",,,,way
-Frohschammerstraße,,,,way
 Fromundstraße,,,,way
 Froschkönigweg,,,,way
 "Fröttmaninger Straße",,,,way
@@ -1798,7 +1758,6 @@ Gänselieselstraße,,,,way
 Ganzenmüllerstraße,,,,way
 "Garatshausener Straße",,,,way
 "Garchinger Straße",,,,way
-Gareisstraße,,,,way
 "Garmischer Straße",,,,way
 Gartenstadtstraße,,,,way
 Gartenstraße,,,,way
@@ -1835,7 +1794,6 @@ Gentzstraße,,,,way
 Georg-Angermair-Straße,,,,way
 Georg-Birk-Straße,,,,way
 Georg-Böhmer-Straße,,,,way
-Georg-Brauchle-Ring,,,,way
 Georg-Deschler-Platz,,,,way
 Georg-Elser-Platz,,,,way
 Georg-Freundorfer-Platz,,,,way
@@ -1865,7 +1823,6 @@ Georg-Thiele-Straße,,,,way
 Georg-Winkler-Straße,,,,way
 Georg-Wopfner-Straße,,,,way
 Georg-Zech-Allee,,,,way
-Georg-von-Mayr-Straße,,,,way
 Georgenschwaigstraße,,,,way
 Georgensteinstraße,,,,way
 Georgenstraße,,,,way
@@ -1938,7 +1895,6 @@ Glockengießerweg,,,,way
 "Glogauer Straße",,,,way
 Glötzleweg,,,,way
 "Glücksburger Straße",,,,way
-Gluthstraße,,,,way
 Glyzinenstraße,,,,way
 "Gmunder Straße",,,,way
 "Gnadenthaler Straße",,,,way
@@ -1956,7 +1912,6 @@ Goldbergstraße,,,,way
 Golddistelanger,,,,way
 Goldhoferstraße,,,,way
 Goldlackplatz,,,,way
-Goldmarkstraße,,,,way
 Goldnesselweg,,,,way
 Goldrautenweg,,,,way
 Goldregenstraße,,,,way
@@ -1994,7 +1949,6 @@ Grabbeweg,,,,way
 Grabenfleckstraße,,,,way
 Grabenstraße,,,,way
 Grabmannstraße,,,,way
-Graf-Konrad-Straße,,,,way
 Graf-Lehndorff-Straße,,,,way
 Graf-Ottenburg-Straße,,,,way
 Graf-Spee-Platz,,,,way
@@ -2025,7 +1979,6 @@ Gratlspitzstraße,,,,way
 "Graudenzer Straße",,,,way
 Grauertstraße,,,,way
 Gravelottestraße,,,,way
-Gregor-Mendel-Straße,,,,way
 Greifensteinstraße,,,,way
 Greineckerstraße,,,,way
 Greinerberg,,,,way
@@ -2038,7 +1991,6 @@ Grete-Mosheim-Straße,,,,way
 Grete-Weil-Straße,,,,way
 Griechenplatz,,,,way
 Griechenstraße,,,,way
-Griegstraße,,,,way
 Grieserstraße,,,,way
 Griesfeldstraße,,,,way
 Grillparzerstraße,,,,way
@@ -2079,7 +2031,6 @@ Grusonstraße,,,,way
 Grütznerstraße,,,,way
 Guardinistraße,,,,way
 Gubestraße,,,,way
-Guddenstraße,,,,way
 Gudrunstraße,,,,way
 Guerickestraße,,,,way
 Guffertstraße,,,,way
@@ -2145,7 +2096,6 @@ Hagedornstraße,,,,way
 Hagelstangestraße,,,,way
 Hagenauerstraße,,,,way
 "Hagenbacher Straße",,,,way
-Haggenmillerstraße,,,,way
 Häherweg,,,,way
 "Hahndorfer Straße",,,,way
 Hahnemannstraße,,,,way
@@ -2189,7 +2139,6 @@ Hanna-Kirchner-Weg,,,,way
 Hannah-Arendt-Weg,,,,way
 Hanne-Hiob-Straße,,,,way
 Hannoverstraße,,,,way
-Hanns-Braun-Brücke,,,,way
 Hanns-Schwindt-Straße,,,,way
 Hanns-Seidel-Platz,,,,way
 Hans-A.-Engelhard-Straße,,,,way
@@ -2199,7 +2148,6 @@ Hans-Bieringer-Weg,,,,way
 Hans-Böckler-Straße,,,,way
 Hans-Bunte-Straße,,,,way
 Hans-Clarin-Weg,,,,way
-Hans-Denzinger-Straße,,,,way
 Hans-Dietrich-Genscher-Straße,,,,way
 Hans-Döllgast-Straße,,,,way
 Hans-Ehard-Straße,,,,way
@@ -2209,7 +2157,7 @@ Hans-Goltz-Weg,,,,way
 Hans-Grässel-Weg,,,,way
 Hans-Heiling-Straße,,,,way
 Hans-Jensen-Weg,,,,way
-Hans-Jochen-Vogel-Platz,,,,relation+way
+Hans-Jochen-Vogel-Platz,,,,way
 Hans-Koch-Weg,,,,way
 Hans-Lohr-Weg,,,,way
 Hans-Mielich-Platz,,,,way
@@ -2222,7 +2170,6 @@ Hans-Schweikart-Straße,,,,way
 Hans-Steinkohl-Straße,,,,way
 Hans-Stützle-Straße,,,,way
 Hansastraße,,,,way
-Hanselmannstraße,,,,way
 Hansjakobstraße,,,,way
 Hanslbauerstraße,,,,way
 Harald-Dohrn-Straße,,,,way
@@ -2271,7 +2218,6 @@ Hauseggerstraße,,,,way
 Haushoferstraße,,,,way
 Hausmannstraße,,,,way
 Häusserstraße,,,,way
-Hauttmannweg,,,,way
 Havelstraße,,,,way
 Hawartstraße,,,,way
 Haydnstraße,,,,way
@@ -2298,7 +2244,6 @@ Hehnstraße,,,,way
 Heideckstraße,,,,way
 "Heidelberger Straße",,,,way
 Heidelerchenstraße,,,,way
-Heidemannstraße,,,,way
 Heidenreichstraße,,,,way
 Heideröschenweg,,,,way
 Heidestraße,,,,way
@@ -2338,13 +2283,11 @@ Heinrothstraße,,,,way
 Heinz-Goerke-Straße,,,,way
 Heinz-Hilpert-Straße,,,,way
 Heinzelmännchenstraße,,,,way
-Heisenbergstraße,,,,way
 Heißstraße,,,,way
 "Heiterwanger Straße",,,,way
 Heldackerweg,,,,way
 Heldstraße,,,,way
 Helene-Lange-Weg,,,,way
-Helene-Mayer-Ring,,,,way
 Helene-Weber-Allee,,,,way
 Helene-Wessel-Bogen,,,,way
 Helenenstraße,,,,way
@@ -2437,9 +2380,7 @@ Hildachstraße,,,,way
 Hildeboldstraße,,,,way
 Hildebrandstraße,,,,way
 Hildegard-Hamm-Brücher-Straße,,,,way
-Hildegard-von-Bingen-Anger,,,,way
 Hildegardstraße,,,,way
-Hilgerstraße,,,,way
 Hillernstraße,,,,way
 "Hilsbacher Straße",,,,way
 Hiltenspergerstraße,,,,way
@@ -2590,7 +2531,6 @@ Hubert-Beckers-Straße,,,,way
 Hubertusstraße,,,,way
 Hübnerstraße,,,,way
 Huchenstraße,,,,way
-Hufelandstraße,,,,way
 Hufnagelstraße,,,,way
 Hufschmiedstraße,,,,way
 "Huglfinger Straße",,,,way
@@ -2601,15 +2541,12 @@ Hugo-Lang-Bogen,,,,way
 Hugo-Preuß-Weg,,,,way
 Hugo-Troendle-Straße,,,,way
 Hugo-Weiss-Straße,,,,way
-Hugo-Wolf-Straße,,,,way
 Hugo-von-Hofmannsthal-Straße,,,,way
 Huislerstraße,,,,way
 "Hultschiner Straße",,,,way
-Humannweg,,,,way
 Humboldtstraße,,,,way
 Hummelblumenstraße,,,,way
 Humpelstraße,,,,way
-Humperdinckstraße,,,,way
 Hundertpfundweg,,,,way
 Hundhammerweg,,,,way
 Hundingstraße,,,,way
@@ -2778,7 +2715,6 @@ Josef-Obenhin-Straße,,,,way
 Josef-Osterhuber-Platz,,,,way
 Josef-Rank-Weg,,,,way
 Josef-Raps-Straße,,,,way
-Josef-Ressel-Straße,,,,way
 Josef-Retzer-Straße,,,,way
 Josef-Ritz-Weg,,,,way
 Josef-Ruederer-Straße,,,,way
@@ -2814,7 +2750,6 @@ Julius-Kreis-Straße,,,,way
 Jungfernturmstraße,,,,way
 Jungwirthstraße,,,,way
 Jurastraße,,,,way
-Jürgen-von-Hollander-Platz,,,,way
 Jutastraße,,,,way
 K,,,,way
 "Kaadener Straße",,,,way
@@ -2841,11 +2776,9 @@ Kaltnerweg,,,,way
 Kaltschmiedstraße,,,,way
 "Kameruner Straße",,,,way
 Kampenwandstraße,,,,way
-Kämpferstraße,,,,way
 Kanalstraße,,,,way
 Kandinskystraße,,,,way
 Kantinenweg,,,,way
-Kantstraße,,,,way
 Kapellenäckerstraße,,,,way
 Kapellenfeldstraße,,,,way
 Kapellengartenstraße,,,,way
@@ -2880,7 +2813,6 @@ Karl-Marx-Zentrum,,,,relation
 Karl-May-Straße,,,,way
 Karl-Müller-Weg,,,,way
 Karl-Noetzel-Weg,,,,way
-Karl-Postl-Straße,,,,way
 Karl-Preis-Platz,,,,way
 Karl-Rahner-Straße,,,,way
 Karl-Raupp-Straße,,,,way
@@ -2965,7 +2897,6 @@ Kiefernstraße,,,,way
 Kienbergstraße,,,,way
 Kienestraße,,,,way
 Kientalweg,,,,way
-Kienzlweg,,,,way
 Kiesmüllerstraße,,,,way
 Kiesstraße,,,,way
 Kiesweg,,,,way
@@ -3010,7 +2941,6 @@ Kleinfeldstraße,,,,way
 "Kleinhaderner Straße",,,,way
 Kleinhesselohe,,,,way
 "Kleinlappener Straße",,,,way
-Kleinschmidtstraße,,,,way
 Kleinstraße,,,,way
 Kleiststraße,,,,way
 Klematisstraße,,,,way
@@ -3053,8 +2983,6 @@ Kohlröschenstraße,,,,way
 Kohlstraße,,,,way
 Kolbergerstraße,,,,way
 Kölblstraße,,,,way
-Kolehmainenweg,,,,way
-Kollwitzstraße,,,,way
 "Kölner Platz",,,,way
 Kolosseumstraße,,,,way
 Kolumbusstraße,,,,way
@@ -3088,8 +3016,6 @@ Kopernikusstraße,,,,way
 Kopischstraße,,,,way
 Koppstraße,,,,way
 Korbinian-Beer-Straße,,,,way
-Korbinianplatz,,,,way
-Korbinianstraße,,,,way
 Korbmacherweg,,,,way
 Korfiz-Holm-Straße,,,,way
 Korianderweg,,,,way
@@ -3206,7 +3132,6 @@ Kurzbauerstraße,,,,way
 Kurzhuberstraße,,,,way
 Kurzmannweg,,,,way
 Kurzstraße,,,,way
-Kusocinskidamm,,,,way
 Küstnerstraße,,,,way
 Kuttnerstraße,,,,way
 Kyreinstraße,,,,way
@@ -3310,9 +3235,7 @@ Leisewitzstraße,,,,way
 Leisnerweg,,,,way
 "Leitmeritzer Weg",,,,way
 Leitzachstraße,,,,way
-Lemckestraße,,,,way
 Lemgostraße,,,,way
-Lena-Christ-Straße,,,,way
 Lenbachplatz,,,,way
 "Lenggrieser Straße",,,,way
 Lengmoosstraße,,,,way
@@ -3361,7 +3284,6 @@ Lidelstraße,,,,way
 Liebensteinstraße,,,,way
 Liebergesellsteg,,,,way
 Liebergesellstraße,,,,way
-Lieberweg,,,,way
 Liebfrauenstraße,,,,way
 Liebherrstraße,,,,way
 Liebigstraße,,,,way
@@ -3376,7 +3298,6 @@ Lilienthalallee,,,,way
 Lilienweg,,,,way
 Lilli-Kurowski-Straße,,,,way
 Lilli-Palmer-Straße,,,,way
-Lillian-Board-Weg,,,,way
 Lillweg,,,,way
 Lily-Braun-Weg,,,,way
 Limburgstraße,,,,way
@@ -3398,7 +3319,6 @@ Lindwurmstraße,,,,way
 Linkstraße,,,,way
 Linnenbrüggerstraße,,,,way
 Linprunstraße,,,,way
-Lintnerweg,,,,way
 Linus-Funke-Weg,,,,way
 "Linzer Straße",,,,way
 Lipperheidestraße,,,,way
@@ -3448,7 +3368,6 @@ Lossenstraße,,,,way
 Lothstraße,,,,way
 Lotte-Branz-Straße,,,,way
 Lottlisa-Behling-Weg,,,,way
-Lovelockweg,,,,way
 Löwengrube,,,,way
 Löwenhof-Passage,,,,way
 Löwenzahnweg,,,,way
@@ -3500,7 +3419,6 @@ Lußweg,,,,way
 "Lützelsteiner Straße",,,,way
 Lützenkirchenstraße,,,,way
 "Luxemburger Straße",,,,way
-Luz-Long-Ufer,,,,way
 Luzernenweg,,,,way
 M,,,,way
 "MAN Teststrecke",,,,way
@@ -3659,7 +3577,6 @@ Mauthäuslstraße,,,,way
 Max-Bill-Straße,,,,way
 Max-Born-Straße,,,,way
 Max-Bruch-Straße,,,,way
-Max-Diamand-Straße,,,,way
 Max-Friedlaender-Bogen,,,,way
 Max-Halbe-Weg,,,,way
 Max-Jansen-Straße,,,,way
@@ -3670,7 +3587,6 @@ Max-Koch-Steg,,,,way
 Max-Kolmsperger-Straße,,,,way
 Max-Kustermann-Platz,,,,way
 Max-Lebsche-Platz,,,,way
-Max-Liebermann-Straße,,,,way
 Max-Mannheimer-Platz,,,,way
 Max-Müllner-Straße,,,,way
 Max-Nadler-Straße,,,,way
@@ -3685,11 +3601,11 @@ Max-Weber-Platz,,,,way
 Max-Wönner-Straße,,,,way
 Max-Zenger-Straße,,,,way
 Max-von-Gruber-Straße,,,,way
-Max-von-Laue-Straße,,,,way
 Maxburgstraße,,,,way
 Maximilian-Kolbe-Allee,,,,way
 Maximilian-Wetzger-Straße,,,,way
 Maximiliansplatz,,,,way
+Maximiliansstraße,,,,way
 Maximilianstraße,,,,way
 Maxlrainstraße,,,,way
 Mayrfelsstraße,,,,way
@@ -3734,7 +3650,6 @@ Merzbacherstraße,,,,way
 Merzstraße,,,,way
 Messerschmittstraße,,,,way
 Methfesselstraße,,,,way
-Mettenleiterplatz,,,,way
 Mettenstraße,,,,way
 Mettinghstraße,,,,way
 "Mettlacher Straße",,,,way
@@ -3824,8 +3739,6 @@ Morgenrothstraße,,,,way
 Morgensternstraße,,,,way
 Morigglstraße,,,,way
 Moritz-Bloch-Weg,,,,way
-Morsering,,,,way
-Mortonstraße,,,,way
 Morungenstraße,,,,way
 "Möschenfelder Straße",,,,way
 Moselstraße,,,,way
@@ -3871,10 +3784,8 @@ Mutter-Teresa-Straße,,,,way
 Muxelstraße,,,,way
 Myrtenstraße,,,,way
 N,,,,way
-Naagerstraße,,,,way
 "Nabburger Straße",,,,way
 Nachtigalstraße,,,,way
-Nadistraße,,,,way
 Naglerstraße,,,,way
 Nailastraße,,,,way
 Nanette-Bald-Straße,,,,way
@@ -3936,7 +3847,6 @@ Niederwaldstraße,,,,way
 Niemöllerallee,,,,way
 Nieserstraße,,,,way
 Niethammerstraße,,,,way
-Nietzschestraße,,,,way
 Nigerstraße,,,,way
 Nigglstraße,,,,way
 Nikolaiplatz,,,,way
@@ -4073,7 +3983,6 @@ Osserstraße,,,,way
 Ossingerstraße,,,,way
 Osterangerstraße,,,,way
 "Osterhofener Weg",,,,way
-Ostermayrstraße,,,,way
 Ostermoosstraße,,,,way
 Osterseenstraße,,,,way
 Osterwaldstraße,,,,way
@@ -4127,14 +4036,12 @@ Papinstraße,,,,way
 Pappelallee,,,,way
 Pappenheimstraße,,,,way
 Papperitzstraße,,,,way
-Paracelsusstraße,,,,way
 Paradiesgartenweg,,,,way
 Paradiesstraße,,,,way
 "Pariser Platz",,,,way
 "Pariser Straße",,,,way
 Parkmeisterstraße,,,,way
 Parkstraße,,,,way
-Parlerstraße,,,,way
 Parrotstraße,,,,way
 "Parsberger Straße",,,,way
 Partenhauserweg,,,,way
@@ -4205,7 +4112,6 @@ Perfallstraße,,,,way
 "Perlacher Straße",,,,way
 Perlgrasweg,,,,way
 Perlschneiderstraße,,,,way
-Permanederstraße,,,,way
 Permoserplatz,,,,way
 Pernerkreppe,,,,way
 Pertisaustraße,,,,way
@@ -4268,7 +4174,6 @@ Pfettenstraße,,,,way
 Pfingstrosenstraße,,,,way
 Pfistermeisterstraße,,,,way
 Pfisterstraße,,,,way
-Pfitznerstraße,,,,way
 Pflaumstraße,,,,way
 Pflegerbauerstraße,,,,way
 Pflegerstraße,,,,way
@@ -4281,7 +4186,6 @@ Philipp-Foltz-Straße,,,,way
 Philipp-Loewenfeld-Straße,,,,way
 Philipp-Reis-Straße,,,,way
 Philippine-Schick-Allee,,,,way
-Piccoloministraße,,,,way
 Pichtstraße,,,,way
 Pickelstraße,,,,way
 "Pidinger Straße",,,,way
@@ -4390,7 +4294,6 @@ Prinz-Ludwig-Straße,,,,way
 Prinzenstraße,,,,way
 Prinzregentenplatz,,,,relation+way
 Prinzregentenstraße,,,,way
-Probst-Heinrich-Straße,,,,way
 Prochintalstraße,,,,way
 Professor-Eichmann-Straße,,,,way
 Professor-Huber-Platz,,,,way
@@ -4463,7 +4366,6 @@ Rappenweg,,,,way
 Rassogasse,,,,way
 "Raststätte Pippinger Flur",,,,way
 Rathausgasse,,,,way
-Rathenaustraße,,,,way
 Rathgeberstraße,,,,way
 Rathochstraße,,,,way
 Ratiborstraße,,,,way
@@ -4507,7 +4409,6 @@ Reichenbachstraße,,,,way
 Reichenbergstraße,,,,way
 "Reichenhaller Straße",,,,way
 "Reichersbeurer Straße",,,,way
-Reicherstorfferweg,,,,way
 Reifenstuelstraße,,,,way
 Reigersbachstraße,,,,way
 Reiherweg,,,,way
@@ -4553,7 +4454,6 @@ Rhoda-Erdmann-Straße,,,,way
 Rhododendronweg,,,,way
 Rhönstraße,,,,way
 Ria-Burkei-Straße,,,,way
-Ricarda-Huch-Straße,,,,way
 Richard-Pietzsch-Weg,,,,way
 Richard-Riemerschmid-Allee,,,,way
 Richard-Seewald-Bogen,,,,way
@@ -4607,12 +4507,9 @@ Robert-Koch-Straße,,,,way
 Robert-Stolz-Platz,,,,way
 Robinienstraße,,,,way
 Robinsonstraße,,,,way
-Röblingweg,,,,way
 Rochus-Dedler-Weg,,,,way
 Rochusberg,,,,way
 Rochusstraße,,,,way
-Rockefellerstraße,,,,way
-Rockingerstraße,,,,way
 Rodachtalweg,,,,way
 Rodensteinstraße,,,,way
 Rodenstockplatz,,,,way
@@ -4638,14 +4535,12 @@ Römerstraße,,,,way
 Romy-Schneider-Platz,,,,way
 "Rondell Neuwittelsbach",,,,way
 Röntgenstraße,,,,way
-Roopsingh-Bais-Weg,,,,way
 Roritzerstraße,,,,way
 Rosa-Aschenbrenner-Bogen,,,,way
 Rosa-Bavarese-Straße,,,,way
 Rosa-Kempf-Straße,,,,way
 Rosa-Luxemburg-Platz,,,,way
 Rosamundenstraße,,,,way
-Rose-Pichler-Weg,,,,way
 Roseggerstraße,,,,way
 Rosemarie-Fendel-Bogen,,,,way
 Rosenbuschstraße,,,,way
@@ -4673,7 +4568,6 @@ Rotfuchsweg,,,,way
 "Rothenbühler Straße",,,,way
 "Rothenfelser Straße",,,,way
 Rothmundstraße,,,,way
-Rothpletzstraße,,,,way
 Rothschwaigestraße,,,,way
 Rothspitzstraße,,,,way
 Röthstraße,,,,way
@@ -4707,7 +4601,6 @@ Rudliebstraße,,,,way
 Rudolf-Camerer-Straße,,,,way
 Rudolf-Esterer-Straße,,,,way
 Rudolf-Gütlein-Weg,,,,way
-Rudolf-Harbig-Weg,,,,way
 Rudolf-Schneider-Weg,,,,way
 Rudolf-Vogel-Bogen,,,,way
 Rudolf-Wilke-Weg,,,,way
@@ -4839,7 +4732,6 @@ Schafanger,,,,way
 Schäfflerhof,,,,way
 Schäfflerstraße,,,,way
 Schafgarbenweg,,,,way
-Schafhäutlstraße,,,,way
 Schaftlachstraße,,,,way
 Schäftlarnstraße,,,,way
 Schaidlerstraße,,,,way
@@ -4914,7 +4806,6 @@ Schleiermacherweg,,,,way
 Schlesierstraße,,,,way
 Schlichtegrollstraße,,,,way
 Schlichtweg,,,,way
-Schliemannweg,,,,way
 Schlierachstraße,,,,way
 Schlierseestraße,,,,way
 Schlodererplatz,,,,way
@@ -4970,7 +4861,6 @@ Schnorrstraße,,,,way
 Schobserstraße,,,,way
 Schochenbergstraße,,,,way
 "Schöllanger Weg",,,,way
-Schollerweg,,,,way
 Schöllstraße,,,,way
 "Schönauer Weg",,,,way
 Schönbergstraße,,,,way
@@ -4985,7 +4875,6 @@ Schönleutnerstraße,,,,way
 "Schönseer Straße",,,,way
 Schönstraße,,,,way
 Schönwerthstraße,,,,way
-Schopenhauerstraße,,,,way
 Schöpferplatz,,,,way
 Schöppingstraße,,,,way
 Schöppnerweg,,,,way
@@ -5046,7 +4935,6 @@ Schwarzdornweg,,,,way
 "Schwarzenbacher Straße",,,,way
 Schwarzenbergstraße,,,,way
 Schwarzenkopfstraße,,,,way
-Schwarzhauptstraße,,,,way
 Schwarzhölzlstraße,,,,way
 Schwarzhuberweg,,,,way
 Schwarzmannstraße,,,,way
@@ -5167,7 +5055,6 @@ Silberblattstraße,,,,way
 Silberdistelstraße,,,,way
 Silberkopfstraße,,,,way
 Silberpappelstraße,,,,way
-Silcherstraße,,,,way
 Silvanastraße,,,,way
 "Simbacher Straße",,,,way
 Simeonistraße,,,,way
@@ -5230,7 +5117,6 @@ Spatenstraße,,,,way
 Spatzenwinkel,,,,way
 Specklinplatz,,,,way
 Specklstraße,,,,way
-Spengelplatz,,,,way
 Sperberstraße,,,,way
 Sperberweg,,,,way
 Sperlingweg,,,,way
@@ -5248,7 +5134,6 @@ Spieltränkergasse,,,,way
 Spilhofstraße,,,,way
 Spindlerplatz,,,,way
 Spindlerstraße,,,,way
-Spiridon-Louis-Ring,,,,way
 Spitzelbergstraße,,,,way
 Spitzerstraße,,,,way
 Spitzerweg,,,,way
@@ -5362,7 +5247,6 @@ Stösserstraße,,,,way
 Stradellastraße,,,,way
 "Strahlenfelser Straße",,,,way
 Strähuberstraße,,,,way
-Straßbergerstraße,,,,way
 Straßfeldweg,,,,way
 "Straßl ins Holz",,,,way
 "Straßlacher Straße",,,,way
@@ -5465,12 +5349,12 @@ Teutonenstraße,,,,way
 Thaddäus-Eck-Straße,,,,way
 Thaddäus-Robl-Straße,,,,way
 Thalanderlstraße,,,,way
-Thalhoferstraße,,,,way
 "Thalkirchner Platz",,,,relation
 "Thalkirchner Straße",,,,way
 "Thannkirchener Weg",,,,way
 "Theatiner Passage",,,,way
 Theatinerhof,,,,way
+Theatinerstrasse,,,,way
 Theatinerstraße,,,,way
 Theatron,,,,way
 Theklastraße,,,,way
@@ -5529,7 +5413,6 @@ Tintorettostraße,,,,way
 "Tiroler Platz",,,,way
 "Tirschenreuther Straße",,,,way
 Tischlerstraße,,,,way
-Tittastraße,,,,way
 "Tittmoninger Straße",,,,way
 Titurelstraße,,,,way
 Tivolibrücke,,,,way
@@ -5545,11 +5428,9 @@ Tollkirschenweg,,,,way
 "Tölzer Straße",,,,way
 Tomannweg,,,,way
 Toni-Berger-Straße,,,,way
-Toni-Merkens-Weg,,,,way
 Toni-Pfülf-Straße,,,,way
 Toni-Schmid-Straße,,,,way
 "Torgauer Straße",,,,way
-Torquato-Tasso-Straße,,,,way
 Törringstraße,,,,way
 Torriweg,,,,way
 "Törwanger Straße",,,,way
@@ -5572,7 +5453,6 @@ Trautnerstraße,,,,way
 Trautweinstraße,,,,way
 Treffauerstraße,,,,way
 Treitschkestraße,,,,way
-Trenkleweg,,,,way
 "Treppenrampe (Stair ramp)",,,,way
 Tribulaunstraße,,,,way
 Triebstraße,,,,way
@@ -5787,8 +5667,6 @@ Waldvögeleinstraße,,,,way
 Waldwiesenstraße,,,,way
 Walhallastraße,,,,way
 Wallbergstraße,,,,way
-Wallensteinplatz,,,,way
-Wallensteinstraße,,,,way
 Wallmenichstraße,,,,way
 Wallnerstraße,,,,way
 Wallstraße,,,,way
@@ -5807,7 +5685,6 @@ Walter-Otto-Straße,,,,way
 Walter-Schnackenberg-Weg,,,,way
 Walter-Sedlmayr-Platz,,,,way
 Walter-von-Cube-Weg,,,,way
-Walther-Bathe-Weg,,,,way
 Walther-Meißner-Straße,,,,way
 Waltherstraße,,,,way
 Waltramstraße,,,,way
@@ -5840,7 +5717,6 @@ Weberstraße,,,,way
 Weckerweg,,,,way
 Weddigenstraße,,,,way
 Wedekindplatz,,,,way
-Wegenerstraße,,,,way
 "Wegscheider Straße",,,,way
 Wehnerstraße,,,,way
 Wehrlestraße,,,,way
@@ -5892,7 +5768,6 @@ Wendl-Dietrich-Straße,,,,way
 Wengleinstraße,,,,way
 Weningstraße,,,,way
 Wensauerplatz,,,,way
-Wenzelstraße,,,,way
 Werdenfelsstraße,,,,way
 Werinherstraße,,,,way
 Werlingstraße,,,,way
@@ -5904,7 +5779,6 @@ Werner-Finck-Weg,,,,way
 Werner-Friedmann-Bogen,,,,way
 Werner-Heisenberg-Allee,,,,way
 Werner-Schlierf-Straße,,,,way
-Werner-Seelenbinder-Weg,,,,way
 Werner-von-Siemens-Straße,,,,way
 Wernerstraße,,,,way
 Wertachplatz,,,,way
@@ -5929,7 +5803,6 @@ Wettersteinstraße,,,,way
 Wettstein-Weg,,,,way
 Wetzelstraße,,,,way
 "Weyarner Straße",,,,way
-Weyprechtstraße,,,,way
 Whistlerweg,,,,way
 Wichernweg,,,,way
 Wichertstraße,,,,way
@@ -5941,7 +5814,6 @@ Widmannstraße,,,,way
 Widweg,,,,way
 Wiebekingstraße,,,,way
 Wiedehopfweg,,,,way
-Wiegandweg,,,,way
 "Wiener Platz",,,,relation
 Wiesbachhornstraße,,,,way
 "Wiesbadener Straße",,,,way
@@ -5967,7 +5839,6 @@ Wildrosenweg,,,,way
 Wildtaubenweg,,,,way
 Wilhelm-Busch-Straße,,,,way
 Wilhelm-Dieß-Weg,,,,way
-Wilhelm-Dörpfeld-Weg,,,,way
 Wilhelm-Düll-Straße,,,,way
 Wilhelm-Hale-Straße,,,,way
 Wilhelm-Hausenstein-Weg,,,,way
@@ -5980,7 +5851,6 @@ Wilhelm-Leibl-Platz,,,,way
 Wilhelm-Leibl-Straße,,,,way
 Wilhelm-Meister-Straße,,,,way
 Wilhelm-Ostwald-Straße,,,,way
-Wilhelm-Raabe-Straße,,,,way
 Wilhelm-Tell-Straße,,,,way
 Wilhelm-Weigand-Straße,,,,way
 Wilhelm-Weitling-Straße,,,,way
@@ -5989,7 +5859,6 @@ Wilhelmine-Reichard-Straße,,,,way
 "Wilhelmshavener Straße",,,,way
 Wilhelmstraße,,,,way
 Will-Dohm-Weg,,,,way
-Willi-Gebhardt-Ufer,,,,way
 Willi-Graf-Straße,,,,way
 Willi-Wien-Straße,,,,way
 "Willinger Weg",,,,way
@@ -6001,7 +5870,6 @@ Wilramstraße,,,,way
 Wiltrudenstraße,,,,way
 Wimbachtalstraße,,,,way
 Wimmerstraße,,,,way
-Winckelmannweg,,,,way
 Winckelstraße,,,,way
 Windbauerstraße,,,,way
 Windeckstraße,,,,way
@@ -6024,7 +5892,6 @@ Winterstraße,,,,way
 Winthirplatz,,,,way
 Winthirstraße,,,,way
 Wintrichring,,,,way
-Winzererstraße,,,,way
 Wirtsbreite,,,,way
 Wirtschaftshof,,,,way
 Wirtstraße,,,,way
@@ -6060,7 +5927,6 @@ Woty-und-Theodor-Werner-Weg,,,,way
 Wredestraße,,,,way
 Wunderhornstraße,,,,way
 Wunderlichstraße,,,,way
-Wundtstraße,,,,way
 Wünscherstraße,,,,way
 Würmhölzlstraße,,,,way
 Würmstraße,,,,way
@@ -6082,7 +5948,6 @@ Zahnbrecherweg,,,,way
 Zamboninistraße,,,,way
 "Zamdorfer Straße",,,,way
 Zamilastraße,,,,way
-Zanderstraße,,,,way
 Zänglweg,,,,way
 Zapfweg,,,,way
 Zasingerstraße,,,,way
@@ -6117,7 +5982,6 @@ Zentralländstraße,,,,way
 Zenzl-Mühsam-Straße,,,,way
 Zeppelinstraße,,,,way
 Zettlerstraße,,,,way
-Zickweg,,,,way
 Zieblandstraße,,,,way
 Ziegeleistraße,,,,way
 Ziegelhofstraße,,,,way
@@ -6125,7 +5989,6 @@ Zieglerstraße,,,,way
 Ziehrerstraße,,,,way
 Zielstattstraße,,,,way
 Ziemssenstraße,,,,way
-Zietenstraße,,,,way
 Zimmermannweg,,,,way
 Zinckgrafstraße,,,,way
 Zinnebergstraße,,,,way
