@@ -240,7 +240,6 @@ return [
             '6237139' => 'M', // Reicherstorfferweg
             '6237150' => 'M', // Goldmarkstraße
             '8005581' => 'F', // Rose-Pichler-Weg
-            '8005695' => 'M', // Ernst-Schneider-Weg
             '12382300' => 'M', // Silcherstraße
             '15804140' => 'M', // Martin-Luther-King-Weg
             '17917844' => 'M', // Rudolf-Harbig-Weg
@@ -256,7 +255,6 @@ return [
             '22315415' => 'M', // Gluthstraße
             '22315420' => 'F', // Ricarda-Huch-Straße
             '22315427' => 'F', // Ricarda-Huch-Straße
-            '22325251' => 'M', // Abtstraße
             '22374956' => 'M', // Christoph-von-Gluck-Platz
             '22374957' => 'M', // Freiligrathstraße
             '22414508' => 'M', // Trenkleweg
@@ -292,8 +290,6 @@ return [
             '27998099' => 'M', // Curt-Mezger-Platz
             '27998197' => 'M', // Nietzschestraße
             '28630828' => 'M', // Piccoloministraße
-            '28832212' => 'M', // Wallensteinplatz
-            '28832239' => 'M', // Wallensteinplatz
             '30724710' => 'M', // Gareisstraße
             '31662607' => 'M', // Probst-Heinrich-Straße
             '31662854' => 'M', // Schopenhauerstraße
@@ -301,10 +297,8 @@ return [
             '34912977' => 'M', // Lieberweg
             '36555064' => 'M', // Eulerstraße
             '37103796' => 'M', // Martin-Luther-King-Weg
-            '53129780' => 'M', // Frohschammerstraße
             '53265580' => 'M', // Christoph-von-Gluck-Platz
             '90236843' => 'M', // Bischof-Adalbert-Straße
-            '93326164' => 'M', // Wallensteinstraße
             '93787976' => 'M', // Nadistraße
             '102660432' => 'M', // Rothpletzstraße
             '119033796' => 'M', // Buhlstraße
@@ -329,20 +323,6 @@ return [
             '150926713' => 'M', // Rothpletzstraße
             '150926719' => 'M', // Spengelplatz
             '150926720' => 'M', // Tittastraße
-            '151937429' => 'M', // Wenzelstraße
-            '153583750' => 'M', // Wallensteinstraße
-            '153625834' => 'M', // Abtstraße
-            '153625844' => 'M', // Eduard-Schenk-Straße
-            '153625856' => 'M', // Eduard-Schenk-Straße
-            '153625871' => 'M', // Frohschammerstraße
-            '153625873' => 'M', // Frohschammerstraße
-            '153625886' => 'M', // Hans-Denzinger-Straße
-            '153625897' => 'F', // Lena-Christ-Straße
-            '159526981' => 'M', // Dr.-Schweninger-Straße
-            '159526984' => 'M', // Dr.-Schweninger-Straße
-            '159920414' => 'M', // Wenzelstraße
-            '188465397' => 'M', // Kleinschmidtstraße
-            '190400704' => 'M', // Ernst-Schneider-Weg
             '339700502' => 'M', // Hanselmannstraße: Leonhard Hanselmannn, ehemaliger Bürgermeister von Milbertshofen
             '339700503' => 'M', // Hanselmannstraße: Leonhard Hanselmannn, ehemaliger Bürgermeister von Milbertshofen
             '339700504' => 'M', // Hanselmannstraße: Leonhard Hanselmannn, ehemaliger Bürgermeister von Milbertshofen
