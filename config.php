@@ -205,11 +205,9 @@ return [
             '241720920' => '-', // Friedenheimer Straße: nach dem ehemaligen Gutshof Friedenheim, der sich dort befand.
             '366209677' => '-', // Friedenheimer Straße: nach dem ehemaligen Gutshof Friedenheim, der sich dort befand.
             '497390606' => '-', // Friedenheimer Straße: nach dem ehemaligen Gutshof Friedenheim, der sich dort befand.
-            '4055321' => 'M', // Winzererstraße
-            '4056146' => 'M', // Winzererstraße
-            '4404142' => 'M', // Bertholdstraße
-            '4406249' => 'M', // Dolleschelstraße
-            '5033219' => 'M', // Ostermayrstraße: Ludwig Ostermayr, ÖOkonom, vergrößerte im 17. Jhdt . die dem Kloster Schäftlarn gehörende Schwaige in Milbertshofen
+            '4404142' => 'M', // Bertholdstraße: Berthold, Pfarrer aus Eching, 12. Jahrhundert
+            '4406249' => 'M', // Dolleschelstraße: Hubert Dolleschel, SPD-Mitglied und Mitbegründer der Arbeiterwohlfahrt, 1876-1938
+            '5033219' => 'M', // Ostermayrstraße: Ludwig Ostermayr, Ökonom, vergrößerte im 17. Jhdt . die dem Kloster Schäftlarn gehörende Schwaige in Milbertshofen
             '23281710' => 'M', // Zanderstraße: Geheimrat Zander, ehem. Inhaber der Möbelfabrik Milbertshofen
             '31662607' => 'M', // Probst-Heinrich-Straße: Probst Heinrich von Schäftlarn, schlichtete im 12. Jhdt. den zwischen dem Kloster Schäftlarn und dem Domstift Freising
             '23820564' => 'F', // Rose-Pichler-Weg: Rose Pichler, Gründerin der Rose und Alphonse Pichler-Stiftung
