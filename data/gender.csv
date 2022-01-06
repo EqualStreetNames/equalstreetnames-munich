@@ -54,6 +54,7 @@ Ben-Chorin-Straße,wikidata,M,Q77448,way
 Bergmannstraße,wikidata,M,Q20752138,way
 Berlepschstraße,wikidata,M,Q764949,way
 Bernd-Eichinger-Platz,wikidata,M,Q61881,way
+Bischof-Adalbert-Straße,wikidata,M,Q2638192,way
 Bischoffstraße,wikidata,M,Q65283,way
 Brantstraße,wikidata,M,Q60351,way
 Brosamerstraße,wikidata,M,Q532091,way
@@ -61,6 +62,7 @@ Brundageplatz,wikidata,M,Q155928,relation+way
 Buhlstraße,wikidata,M,Q5589685,way
 Burgkmairstraße,wikidata,M,Q313163,way
 Candidstraße,wikidata,M,Q315803,way
+Christoph-von-Gluck-Platz,wikidata,M,Q130759,way
 Connollystraße,wikidata,M,Q294321,way
 Coubertinplatz,wikidata,M,Q82984,way
 Curt-Mezger-Platz,wikidata,M,Q1145244,way
@@ -85,6 +87,7 @@ Erwin-Schleich-Straße,wikidata,M,Q1363416,way
 Erwin-von-Steinbach-Weg,wikidata,M,Q68243,way
 Ettenhueberstraße,wikidata,M,Q1661201,way
 Ettstraße,wikidata,M,Q74632,way
+Eulerstraße,wikidata,M,Q7604,way
 Feserstraße,wikidata,M,Q1693434,way
 Fischartstraße,wikidata,M,Q69303,way
 Fischer-von-Erlach-Straße,wikidata,M,Q84305,way
@@ -92,6 +95,7 @@ Flotowstraße,wikidata,M,Q155425,way
 "Föhringer Ring",wikidata,M,Q105378,way
 Franz-Metzner-Straße,wikidata,M,Q1448270,way
 Frauenstädtstraße,wikidata,M,Q87866,way
+Freiligrathstraße,wikidata,M,Q213719,way
 Fritz-Bauer-Straße,wikidata,M,Q215981,way
 Fritz-Endres-Straße,wikidata,M,Q1466130,way
 Fröbelplatz,wikidata,M,Q76679,way
@@ -164,6 +168,7 @@ Lautensackstraße,wikidata,M,Q1392217,way
 Leibnizstraße,wikidata,M,Q9047,way
 Lenaustraße,wikidata,M,Q84280,way
 Leopoldstraße,wikidata,M,Q61015,way
+Lieberweg,wikidata,M,Q77906,way
 Lintnerweg,wikidata,M,Q1732170,way
 Linus-Pauling-Straße,wikidata,M,Q48983,way
 Lipowskystraße,wikidata,M,Q1403555,way
@@ -190,6 +195,7 @@ Mies-van-der-Rohe-Straße,wikidata,M,Q41508,way
 Mitterhoferstraße,wikidata,M,Q2077094,way
 Mozartstraße,wikidata,M,Q254,way
 Naagerstraße,wikidata,M,Q37354973,way
+Nadistraße,wikidata,M,Q33783,way
 Nestroystraße,wikidata,M,Q44862,way
 Nietzschestraße,wikidata,M,Q9358,way
 Occamstraße,wikidata,M,Q43936,way
@@ -218,8 +224,10 @@ Sandtnerstraße,wikidata,M,Q1526486,way
 Schafhäutlstraße,wikidata,M,Q73167,way
 Schäufeleinstraße,wikidata,M,Q675272,way
 Schedelstraße,wikidata,M,Q58768,way
+Schopenhauerstraße,wikidata,M,Q38193,way
 Schwanthalerstraße,wikidata,M,Q448426,way
 Senftenauerstraße,wikidata,M,Q1914008,way
+Silcherstraße,wikidata,M,Q700090,way
 Spengelplatz,wikidata,M,Q106143527,way
 Spiridon-Louis-Ring,wikidata,M,Q202424,way
 Spitzwegstraße,wikidata,M,Q164979,way
@@ -293,22 +301,18 @@ Baudererstraße,config,M,,way
 Berchemstraße,config,M,,way
 Bernaysstraße,config,M,,way
 Bertholdstraße,config,M,,way
-Bischof-Adalbert-Straße,config,M,,way
 Brentanostraße,config,M,,way
 Bruno-Hofer-Platz,config,M,,way
 Byecherstraße,config,M,,way
 Camerloherstraße,config,M,,way
 Caracciolastraße,config,M,,way
 Christoph-Schmid-Straße,config,M,,way
-Christoph-von-Gluck-Platz,config,M,,way
 Dolleschelstraße,config,M,,way
 Egetterstraße,config,M,,way
 El-Thouni-Weg,config,M,,way
 Endelhauserstraße,config,M,,way
 Erich-Kaiser-Weg,config,M,,way
 Eringerstraße,config,M,,way
-Eulerstraße,config,M,,way
-Freiligrathstraße,config,M,,way
 Gareisstraße,config,M,,way
 Geigerstraße,config,M,,way
 Geßlerstraße,config,M,,way
@@ -335,14 +339,12 @@ Kirchmairstraße,config,M,,way
 Kolehmainenweg,config,M,,way
 Lanzstraße,config,M,,way
 Lemckestraße,config,M,,way
-Lieberweg,config,M,,way
 Lovelockweg,config,M,,way
 Mathunistraße,config,M,,way
 Max-Liebermann-Straße,config,M,,way
 Max-von-Laue-Straße,config,M,,way
 Morsering,config,M,,way
 Mortonstraße,config,M,,way
-Nadistraße,config,M,,way
 Ostermayrstraße,config,M,,way
 Paracelsusstraße,config,M,,way
 Parlerstraße,config,M,,way
@@ -366,10 +368,8 @@ Saherrstraße,config,M,,way
 Schifferlstraße,config,M,,way
 Schliemannweg,config,M,,way
 Schollerweg,config,M,,way
-Schopenhauerstraße,config,M,,way
 Schrottstraße,config,M,,way
 Siglstraße,config,M,,way
-Silcherstraße,config,M,,way
 Stöberlstraße,config,M,,way
 Stögerstraße,config,M,,way
 Stroblstraße,config,M,,way
