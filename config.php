@@ -209,12 +209,6 @@ return [
             '4056146' => 'M', // Winzererstraße
             '4404142' => 'M', // Bertholdstraße
             '4406249' => 'M', // Dolleschelstraße
-            '4406254' => 'M', // Morsering
-            '4406255' => 'M', // Mortonstraße
-            '4425047' => 'M', // Augustin-Rösch-Straße
-            '4537088' => 'F', // Schwarzhauptstraße
-            '4537089' => 'F', // Schwarzhauptstraße
-            '4887114' => 'M', // Humannweg
             '5033219' => 'M', // Ostermayrstraße: Ludwig Ostermayr, ÖOkonom, vergrößerte im 17. Jhdt . die dem Kloster Schäftlarn gehörende Schwaige in Milbertshofen
             '23281710' => 'M', // Zanderstraße: Geheimrat Zander, ehem. Inhaber der Möbelfabrik Milbertshofen
             '31662607' => 'M', // Probst-Heinrich-Straße: Probst Heinrich von Schäftlarn, schlichtete im 12. Jhdt. den zwischen dem Kloster Schäftlarn und dem Domstift Freising
