@@ -1,9 +1,9 @@
 {
-    "update": "2022-01-06T10:46:14+00:00",
+    "update": "2022-01-06T13:40:02+00:00",
     "sources": {
-        "wikidata": 407,
+        "wikidata": 425,
         "csv": 0,
-        "config": 108,
+        "config": 90,
         "-": 5914
     },
     "genders": {
