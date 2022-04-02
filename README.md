@@ -4,11 +4,19 @@ Based on Equalstreetnames of OpenKnowledge Belgium
 
 ### Laim Workflow
 
-We decided to do one part of the city first: Laim. Restrict to this in the overpass query.
+We decided to do one part of the city first: Laim, which has Wikidata ID Q259879 . Go to [http://overpass-turbo.eu/#] and execute this query:
 ```
-area["wikidata"="Q259879"]
+[out:json][timeout:300];
+( area["wikidata"="Q259879"]; )->.a;
+(
+	way["highway"]["name"]["highway"!="bus_stop"]["highway"!="proposed"]["highway"!="service"]["highway"!="platform"](area.a);
+	way["place"="square"]["name"](area.a);
+);
+out body;
+>;
+out skel qt;
 ```
-This is my personal workflow on my Mac. I work my way through the streets, from Z to A.
+Download with "export as geojson" to `data/ways.geojson`. Now you can
 ```
 # generate an alphabetical list of streets
 cat data/ways.geojson | jq '.features[].properties.name' | sort  -u > streetlist_laim
