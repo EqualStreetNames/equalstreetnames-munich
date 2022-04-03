@@ -293,8 +293,28 @@ return [
             '476398408' => '-', // Belgradstraße: Belgrad, Die Schlacht von Belgrad 1717 
             '494904648' => '-', // Belgradstraße: Belgrad, Die Schlacht von Belgrad 1717 
             '494904649' => '-', // Belgradstraße: Belgrad, Die Schlacht von Belgrad 1717 
-
-
+            '6055627' => '-', // Birnauer Straße: Birnau, Wallfahrtskirche Birnau 
+            '81958060' => '-', // Birnauer Straße: Birnau, Wallfahrtskirche Birnau 
+            '89360845' => '-', // Birnauer Straße: Birnau, Wallfahrtskirche Birnau 
+            '311413661' => '-', // Birnauer Straße: Birnau, Wallfahrtskirche Birnau 
+            '311415321' => '-', // Birnauer Straße: Birnau, Wallfahrtskirche Birnau 
+            '5219113' => 'M', // Bummstraße: Bumm, Deutscher Psychiater 
+            '19680434' => '-', // Burgunderstraße: Burgunder, Volksgruppe 
+            '157032551' => 'F', // Centa-Herker-Bogen: Centa Herker, politisch aktive Frau und Zeitzeugin 
+            '157090547' => 'M', // Egmontstraße: Egmond, Staatsmann 
+            '749798608' => 'M', // Fritz-Schuster-Straße: Fritz Schuster, SPD-Stadtratsmitglied 
+            '157090551' => 'M', // Fürstenbergstraße: Landgraf Egon von Fuerstenberg, kaempfte gegen die Schweden 
+            '157090556' => '-', // Gartenstraße: Garten, Hier befanden sich zahlreiche Gaerten 
+            '4519923' => 'M', // Gentzstraße: Gentz, Gemeindebevollmaechtigter 
+            '851113019' => '-', // Georgenstraße: Georgenschwaige, Nach dem Hofgut Georgenschwaige 
+            '851113021' => '-', // Georgenstraße: Georgenschwaige, Nach dem Hofgut Georgenschwaige 
+            '851113023' => '-', // Georgenstraße: Georgenschwaige, Nach dem Hofgut Georgenschwaige 
+            '851113024' => '-', // Georgenstraße: Georgenschwaige, Nach dem Hofgut Georgenschwaige 
+            '851113025' => '-', // Georgenstraße: Georgenschwaige, Nach dem Hofgut Georgenschwaige 
+            '19680463' => 'M', // Gernotstraße: Gernot, Figur aus den Nibelungenliedern 
+            '157038597' => 'M', // Gernotstraße: Gernot, Figur aus den Nibelungenliedern 
+            '157038599' => 'M', // Gernotstraße: Gernot, Figur aus den Nibelungenliedern 
+            '19680495' => 'M', // Giselherstraße: Giselher, Figur aus den Nibelungenliedern 
         ],
     ],
 
