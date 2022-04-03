@@ -243,6 +243,58 @@ return [
             '116786306' => 'M', // Schollerweg: Otto Scholler, ehemaliger Leiter der Verkehrsbetriebe München
             '361229793' => 'M', // Schollerweg: Otto Scholler, ehemaliger Leiter der Verkehrsbetriebe München
             '23605481' => 'M', // Schollerweg: Otto Scholler, ehemaliger Leiter der Verkehrsbetriebe München
+            '29418700' => 'M', // Ansprengerstraße: Ansprenger Alois, K. Kommerzienrat, Baumeister, buergerlicher Magistrat und Landrat 
+            '123106263' => 'M', // Ansprengerstraße: Ansprenger Alois, K. Kommerzienrat, Baumeister, buergerlicher Magistrat und Landrat 
+            '4519924' => '-', // Ansbacher Straße: Ansbach, Stadt Ansbach 
+            '78713657' => '-', // Arcisstraße: Arcisschlacht, eine Schlacht waehrend der Befreiungskriege 
+            '151996168' => '-', // Arcisstraße: Arcisschlacht, eine Schlacht waehrend der Befreiungskriege 
+            '4005344' => '-', // Belgradstraße: Belgrad, Die Schlacht von Belgrad 1717 
+            '25591841' => '-', // Belgradstraße: Belgrad, Die Schlacht von Belgrad 1717 
+            '26241111' => '-', // Belgradstraße: Belgrad, Die Schlacht von Belgrad 1717 
+            '26416346' => '-', // Belgradstraße: Belgrad, Die Schlacht von Belgrad 1717 
+            '27807199' => '-', // Belgradstraße: Belgrad, Die Schlacht von Belgrad 1717 
+            '28428153' => '-', // Belgradstraße: Belgrad, Die Schlacht von Belgrad 1717 
+            '30816876' => '-', // Belgradstraße: Belgrad, Die Schlacht von Belgrad 1717 
+            '30816921' => '-', // Belgradstraße: Belgrad, Die Schlacht von Belgrad 1717 
+            '30816922' => '-', // Belgradstraße: Belgrad, Die Schlacht von Belgrad 1717 
+            '36580436' => '-', // Belgradstraße: Belgrad, Die Schlacht von Belgrad 1717 
+            '44979189' => '-', // Belgradstraße: Belgrad, Die Schlacht von Belgrad 1717 
+            '44979190' => '-', // Belgradstraße: Belgrad, Die Schlacht von Belgrad 1717 
+            '47634448' => '-', // Belgradstraße: Belgrad, Die Schlacht von Belgrad 1717 
+            '47634455' => '-', // Belgradstraße: Belgrad, Die Schlacht von Belgrad 1717 
+            '49602856' => '-', // Belgradstraße: Belgrad, Die Schlacht von Belgrad 1717 
+            '49602857' => '-', // Belgradstraße: Belgrad, Die Schlacht von Belgrad 1717 
+            '49917019' => '-', // Belgradstraße: Belgrad, Die Schlacht von Belgrad 1717 
+            '56122343' => '-', // Belgradstraße: Belgrad, Die Schlacht von Belgrad 1717 
+            '56122344' => '-', // Belgradstraße: Belgrad, Die Schlacht von Belgrad 1717 
+            '56122345' => '-', // Belgradstraße: Belgrad, Die Schlacht von Belgrad 1717 
+            '56122346' => '-', // Belgradstraße: Belgrad, Die Schlacht von Belgrad 1717 
+            '59479808' => '-', // Belgradstraße: Belgrad, Die Schlacht von Belgrad 1717 
+            '59479810' => '-', // Belgradstraße: Belgrad, Die Schlacht von Belgrad 1717 
+            '71143057' => '-', // Belgradstraße: Belgrad, Die Schlacht von Belgrad 1717 
+            '88722466' => '-', // Belgradstraße: Belgrad, Die Schlacht von Belgrad 1717 
+            '124842492' => '-', // Belgradstraße: Belgrad, Die Schlacht von Belgrad 1717 
+            '124842493' => '-', // Belgradstraße: Belgrad, Die Schlacht von Belgrad 1717 
+            '124842494' => '-', // Belgradstraße: Belgrad, Die Schlacht von Belgrad 1717 
+            '124842495' => '-', // Belgradstraße: Belgrad, Die Schlacht von Belgrad 1717 
+            '129552585' => '-', // Belgradstraße: Belgrad, Die Schlacht von Belgrad 1717 
+            '136057338' => '-', // Belgradstraße: Belgrad, Die Schlacht von Belgrad 1717 
+            '159924390' => '-', // Belgradstraße: Belgrad, Die Schlacht von Belgrad 1717 
+            '265416839' => '-', // Belgradstraße: Belgrad, Die Schlacht von Belgrad 1717 
+            '265416843' => '-', // Belgradstraße: Belgrad, Die Schlacht von Belgrad 1717 
+            '267059261' => '-', // Belgradstraße: Belgrad, Die Schlacht von Belgrad 1717 
+            '267059262' => '-', // Belgradstraße: Belgrad, Die Schlacht von Belgrad 1717 
+            '292612489' => '-', // Belgradstraße: Belgrad, Die Schlacht von Belgrad 1717 
+            '338649272' => '-', // Belgradstraße: Belgrad, Die Schlacht von Belgrad 1717 
+            '376107897' => '-', // Belgradstraße: Belgrad, Die Schlacht von Belgrad 1717 
+            '449594859' => '-', // Belgradstraße: Belgrad, Die Schlacht von Belgrad 1717 
+            '449595750' => '-', // Belgradstraße: Belgrad, Die Schlacht von Belgrad 1717 
+            '449601150' => '-', // Belgradstraße: Belgrad, Die Schlacht von Belgrad 1717 
+            '476398408' => '-', // Belgradstraße: Belgrad, Die Schlacht von Belgrad 1717 
+            '494904648' => '-', // Belgradstraße: Belgrad, Die Schlacht von Belgrad 1717 
+            '494904649' => '-', // Belgradstraße: Belgrad, Die Schlacht von Belgrad 1717 
+
+
         ],
     ],
 
