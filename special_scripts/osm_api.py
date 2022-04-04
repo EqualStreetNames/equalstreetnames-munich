@@ -27,6 +27,7 @@ logging.debug("changeset: " + str(changeset_id))
 
 name_etymology_wikidata = ""
 for id in osm_ids:
+  logging.debug("osm id:" + id)
   url_way = "https://api.openstreetmap.org/api/0.6/way/" + id
   tree = ET.ElementTree(ET.fromstring(requests.request("GET", url_way).text))
   root = tree.getroot()
