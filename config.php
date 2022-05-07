@@ -458,6 +458,10 @@ return [
             '88718514' => 'M', // Voelderndorffstraße: Voelderndorff, Schriftsteller 
             '157090568' => 'M', // Wertherstraße: Werther, Romanfigur 
             '157090569' => 'M', // Wilhelm-Meister-Straße: Wilhelm Meister, Aus dem Roman 
+            '155055231' => 'W', // Schwarzmannstraße: Frieda Schwarzmann, Privatierswitwe, stiftete 2000 Mark für arme Münchner. 1912 - 1948 
+            '204817083' => 'W', // Schwarzmannstraße: Frieda Schwarzmann, Privatierswitwe, stiftete 2000 Mark für arme Münchner. 1912 - 1948 
+            '204817084' => 'W', // Schwarzmannstraße: Frieda Schwarzmann, Privatierswitwe, stiftete 2000 Mark für arme Münchner. 1912 - 1948 
+
         ],
     ],
 
