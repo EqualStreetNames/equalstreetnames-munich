@@ -458,10 +458,19 @@ return [
             '88718514' => 'M', // Voelderndorffstraße: Voelderndorff, Schriftsteller 
             '157090568' => 'M', // Wertherstraße: Werther, Romanfigur 
             '157090569' => 'M', // Wilhelm-Meister-Straße: Wilhelm Meister, Aus dem Roman 
-            '155055231' => 'W', // Schwarzmannstraße: Frieda Schwarzmann, Privatierswitwe, stiftete 2000 Mark für arme Münchner. 1912 - 1948 
-            '204817083' => 'W', // Schwarzmannstraße: Frieda Schwarzmann, Privatierswitwe, stiftete 2000 Mark für arme Münchner. 1912 - 1948 
-            '204817084' => 'W', // Schwarzmannstraße: Frieda Schwarzmann, Privatierswitwe, stiftete 2000 Mark für arme Münchner. 1912 - 1948 
-
+            '155055231' => 'F', // Schwarzmannstraße: Frieda Schwarzmann, Privatierswitwe, stiftete 2000 Mark für arme Münchner. 1912 - 1948 
+            '204817083' => 'F', // Schwarzmannstraße: Frieda Schwarzmann, Privatierswitwe, stiftete 2000 Mark für arme Münchner. 1912 - 1948 
+            '204817084' => 'F', // Schwarzmannstraße: Frieda Schwarzmann, Privatierswitwe, stiftete 2000 Mark für arme Münchner. 1912 - 1948 
+            '3819307' => 'M', // Chorherrstraße: Ignaz Chorherr, Bäcker 
+            '156454378' => 'M', // Franz-Prüller-Straße: Franz Prüller, Souffleur 
+            '3811172' => 'M', // Gallmayerstraße: Joseph Gallmayer, Mechaniker 
+            '19781100' => 'F', // Genoveva-Schauer-Platz: Genoveva Schauer, Stadträtin 
+            '847224914' => 'M', // Georg-Maurer-Platz: Georg Maurer, Kommunalpolitiker 
+            '23040438' => 'M', // Georg-Riedmeier-Weg: Georg Riedmeier, Frisör, Sozialist, verfolgter Widerstandskämpfer 
+            '23040512' => 'M', // Georg-Riedmeier-Weg: Georg Riedmeier, Frisör, Sozialist, verfolgter Widerstandskämpfer 
+            '47928124' => 'M', // Grütznerstraße: Eduard von Grützner, Maler 
+            '24206354' => 'M', // Hiendlmayrstraße: Sebastian Hiendlmayr, Privatier 
+            '24206357' => 'M', // Hiendlmayrstraße: Sebastian Hiendlmayr, Privatier 
         ],
     ],
 
