@@ -471,6 +471,39 @@ return [
             '47928124' => 'M', // Grütznerstraße: Eduard von Grützner, Maler 
             '24206354' => 'M', // Hiendlmayrstraße: Sebastian Hiendlmayr, Privatier 
             '24206357' => 'M', // Hiendlmayrstraße: Sebastian Hiendlmayr, Privatier 
+            '24960985' => 'M', // Joseph-Holzer-Weg: Joseph Holzer, unklar welcher JH das ist 
+            '187708938' => 'M', // Joseph-Holzer-Weg: Joseph Holzer, unklar welcher JH das ist 
+            '315223290' => 'M', // Joseph-Holzer-Weg: Joseph Holzer, unklar welcher JH das ist 
+            '315223292' => 'M', // Joseph-Holzer-Weg: Joseph Holzer, unklar welcher JH das ist 
+            '315223293' => 'M', // Joseph-Holzer-Weg: Joseph Holzer, unklar welcher JH das ist 
+            '315223294' => 'M', // Joseph-Holzer-Weg: Joseph Holzer, unklar welcher JH das ist 
+            '3819282' => 'M', // Kuglerstraße: Kugler, ein Landwirt. 
+            '23967251' => 'M', // Kuglerstraße: Kugler, ein Landwirt. 
+            '25191210' => 'M', // Kuglerstraße: Kugler, ein Landwirt. 
+            '168734093' => 'M', // Kuglerstraße: Kugler, ein Landwirt. 
+            '156398377' => 'M', // Michael-Huber-Weg: Michael Huber, nicht eindeutig wer gemeint ist 
+            '257539433' => 'M', // Michael-Huber-Weg: Michael Huber, nicht eindeutig wer gemeint ist 
+            '24953140' => 'M', // Pöppelstraße: Johann Michael Pöppel, Lehrer 
+            '156454389' => 'M', // Rablstraße: Hermann Rabl, Pfarrer 
+            '4661138' => 'M', // Regerplatz: Max Reger, nicht eindeutig wer gemeint ist 
+            '151145699' => 'M', // Regerplatz: Max Reger, nicht eindeutig wer gemeint ist 
+            '151145700' => 'M', // Regerplatz: Max Reger, nicht eindeutig wer gemeint ist 
+            '370688938' => 'M', // Regerplatz: Max Reger, nicht eindeutig wer gemeint ist 
+            '370688939' => 'M', // Regerplatz: Max Reger, nicht eindeutig wer gemeint ist 
+            '151087449' => 'M', // Regerstraße: Max Reger, nicht eindeutig wer gemeint ist 
+            '311960666' => 'M', // Regerstraße: Max Reger, nicht eindeutig wer gemeint ist 
+            '311960667' => 'M', // Regerstraße: Max Reger, nicht eindeutig wer gemeint ist 
+            '414362543' => 'M', // Regerstraße: Max Reger, nicht eindeutig wer gemeint ist 
+            '414374618' => 'M', // Regerstraße: Max Reger, nicht eindeutig wer gemeint ist 
+            '414374619' => 'M', // Regerstraße: Max Reger, nicht eindeutig wer gemeint ist 
+            '23040266' => 'M', // Riggauerweg: Konrad Riggauer, Stadtrat 
+            '23040386' => 'M', // Riggauerweg: Konrad Riggauer, Stadtrat 
+            '187708941' => 'M', // Riggauerweg: Konrad Riggauer, Stadtrat 
+            '758212732' => 'F', // Schwester-Eubulina-Platz: Walburga Wegerer, Ordensschwester 
+            '758212733' => 'F', // Schwester-Eubulina-Platz: Walburga Wegerer, Ordensschwester 
+            '758212734' => 'F', // Schwester-Eubulina-Platz: Walburga Wegerer, Ordensschwester 
+            '3819323' => 'M', // Walserstraße: Johann Georg Walser, Pfarrer 
+            '23967291' => 'M', // Walter-Heerde-Weg: Walter Heerde, Schulrat und Haidhausener Heimatforscher 
         ],
     ],
 
