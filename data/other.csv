@@ -681,7 +681,6 @@ Baumeisterstraße,,,,way
 Bäumlstraße,,,,way
 Baumschulstraße,,,,way
 Baumschulweg,,,,way
-Baumstamm,,,,way
 Baumstänglstraße,,,,way
 Baumstraße,,,,way
 Bauschingerstraße,,,,way
@@ -863,6 +862,7 @@ Borodinstraße,,,,way
 Borsigstraße,,,,way
 Bortenhofstraße,,,,way
 Bosettistraße,,,,way
+Bothestraße,,,,way
 Bothmerstraße,,,,way
 Böttingerstraße,,,,way
 "Boxberger Straße",,,,way
@@ -1585,7 +1585,6 @@ Frauenstraße,,,,way
 Fraunbergplatz,,,,way
 Fraunbergstraße,,,,way
 Freda-Wuesthoff-Weg,,,,way
-Freddie-Mercury-Straße,,,,way
 Freibadstraße,,,,way
 Freibergseestraße,,,,way
 Freidankstraße,,,,way
@@ -1611,6 +1610,7 @@ Frickhingerweg,,,,way
 Friedastraße,,,,way
 Friedenspromenade,,,,way
 Friedenstraße,,,,way
+Friederike-Nadig-Allee,,,,way
 Friedhofgasse,,,,way
 Friedhofweg,,,,way
 Friedlandweg,,,,way
@@ -2227,10 +2227,12 @@ Helmtrudenstraße,,,,way
 Helmunistraße,,,,way
 Helmut-Dietl-Straße,,,,way
 Helmut-Käutner-Straße,,,,way
+Helmut-Kohl-Allee,,,,way
 Helsinkistraße,,,,way
 "Heltauer Straße",,,,way
 Henckystraße,,,,way
 Hengelerstraße,,,,way
+Henny-Seidemann-Straße,,,,way
 Henrik-Ibsen-Straße,,,,way
 Henschelstraße,,,,way
 Heppstraße,,,,way
@@ -2292,7 +2294,6 @@ Heuwinkel,,,,way
 Hieberplatz,,,,way
 Hierlangerweg,,,,way
 Hieronymusstraße,,,,way
-Hilblestraße,,,,way
 Hildachstraße,,,,way
 Hildebrandstraße,,,,way
 Hildegard-Hamm-Brücher-Straße,,,,way
@@ -2723,6 +2724,7 @@ Karl-Wieninger-Weg,,,,way
 Karl-Witthalm-Straße,,,,way
 Karl-von-Roth-Straße,,,,way
 Karlingerstraße,,,,way
+Karls-Rondell,,,,way
 "Karlsbader Straße",,,,way
 Karlsbergstraße,,,,way
 "Karlsburger Straße",,,,way
@@ -3359,6 +3361,7 @@ Maria-Goeppert-Mayer-Straße,,,,way
 Maria-Ivogün-Allee,,,,way
 Maria-Josepha-Straße,,,,way
 Maria-Lehner-Straße,,,,way
+"Maria-Luiko-Straße (ex Hilblestraße)",,,,way
 Maria-Montessori-Straße,,,,way
 Maria-Nicklisch-Straße,,,,way
 Maria-Nindl-Platz,,,,way
@@ -4044,7 +4047,7 @@ Platenstraße,,,,way
 "Plattlinger Straße",,,,way
 Plattnerstraße,,,,way
 "Platz der Freiheit",,,,way
-"Platz der Menschenrechte",,,,relation
+"Platz der Menschenrechte",,,,relation+way
 "Platz vor der Feldherrnhalle",,,,relation
 Platzl,,,,way
 Platzlgassen,,,,way
@@ -4130,6 +4133,7 @@ Pütrichstraße,,,,way
 "Putziger Straße",,,,way
 Q,,,,way
 Quagliostraße,,,,way
+Quatiersplatz,,,,way
 "Quedlinburger Straße",,,,way
 Quellenstraße,,,,way
 Quendelweg,,,,way
@@ -4331,7 +4335,6 @@ Rollenhagenstraße,,,,way
 Romanplatz,,,,way
 Römerstraße,,,,way
 "Rominter Straße",,,,way
-Romy-Schneider-Platz,,,,way
 "Rondell Neuwittelsbach",,,,way
 Röntgenstraße,,,,way
 Roritzerstraße,,,,way
@@ -4696,6 +4699,7 @@ Schüsselkarstraße,,,,way
 Schusterbauerstraße,,,,way
 Schusterstraße,,,,way
 Schusterwolfstraße,,,,way
+Schützen-Passage,,,,way
 Schützenstraße,,,,way
 Schwabenspiegelstraße,,,,way
 "Schwabinger Tor",,,,relation
@@ -4707,6 +4711,7 @@ Schwaneckstraße,,,,way
 Schwanenweg,,,,way
 Schwanhildenweg,,,,way
 Schwanseestraße,,,,way
+Schwanthaler-Passage,,,,way
 Schwarzanger,,,,way
 Schwarzdornweg,,,,way
 "Schwarzenbacher Straße",,,,way
@@ -4861,6 +4866,7 @@ Sommerweide,,,,way
 Sondermeierstraße,,,,way
 Sonnbergstraße,,,,way
 Sonnblickstraße,,,,way
+Sonnen-Passage,,,,way
 Sonnenblumenstraße,,,,way
 Sonnenlängstraße,,,,way
 Sonnenliegeplatzstraße,,,,way
@@ -4892,6 +4898,7 @@ Spervogelstraße,,,,way
 Spessartstraße,,,,way
 Spicherenstraße,,,,way
 Spiegelbergstraße,,,,way
+Spiegelplatz,,,,way
 Spiegelstraße,,,,way
 Spieljochstraße,,,,way
 "Spielmannsauer Straße",,,,way
@@ -4915,7 +4922,7 @@ Sprunerstraße,,,,way
 St.-Pauls-Platz,,,,way
 Stabelerstraße,,,,way
 Stäblistraße,,,,way
-"Stachus Passage (1. Untergeschoss)",,,,way
+"Stachus Passage",,,,way
 Stadelbergstraße,,,,way
 "Stadelheimer Straße",,,,way
 Stademannstraße,,,,way
@@ -5242,6 +5249,8 @@ Turmfalkenweg,,,,way
 Turnerstraße,,,,way
 "Tutzinger Straße",,,,way
 U,,,,way
+U-1766,,,,way
+U-1769,,,,way
 "Über der Klause",,,,way
 "Überlinger Weg",,,,way
 Überreiterstraße,,,,way
