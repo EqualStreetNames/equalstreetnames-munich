@@ -248,7 +248,6 @@ Alfons-Goppel-Straße,,,,way
 Alfonsstraße,,,,way
 Alfred-Andersch-Weg,,,,way
 Alfred-Döblin-Straße,,,,way
-Alfred-Drexel-Straße,,,,way
 Alfred-Jentzsch-Weg,,,,way
 Alfred-Kubin-Weg,,,,way
 Alfred-Ludwig-Weg,,,,way
@@ -1347,6 +1346,7 @@ Erich-Giese-Straße,,,,way
 Erich-Mühsam-Platz,,,,way
 Erika-Cremer-Straße,,,,way
 Erika-Fuchs-Weg,,,,way
+Erika-Köth-Straße,,,,way
 Erikastraße,,,,way
 Erkweg,,,,way
 Erlbachstraße,,,,way
@@ -1805,6 +1805,7 @@ Gilmstraße,,,,way
 Gindelalmstraße,,,,way
 Ginhardtstraße,,,,way
 Ginsterweg,,,,way
+Gisela-Stein-Straße,,,,way
 Giselastraße,,,,way
 Gladiolenstraße,,,,way
 Glarusstraße,,,,way
@@ -2825,7 +2826,6 @@ Klara-Ziegler-Bogen,,,,way
 Klarastraße,,,,way
 Klarbachplatz,,,,way
 Klarweinstraße,,,,way
-Klaus-Mann-Platz,,,,relation
 "Klausenburger Straße",,,,way
 "Klausener Platz",,,,way
 "Klausener Straße",,,,way
@@ -3366,7 +3366,7 @@ Maria-Goeppert-Mayer-Straße,,,,way
 Maria-Ivogün-Allee,,,,way
 Maria-Josepha-Straße,,,,way
 Maria-Lehner-Straße,,,,way
-"Maria-Luiko-Straße (ex Hilblestraße)",,,,way
+Maria-Luiko-Straße,,,,way
 Maria-Montessori-Straße,,,,way
 Maria-Nicklisch-Straße,,,,way
 Maria-Nindl-Platz,,,,way
@@ -3389,7 +3389,6 @@ Marie-Luise-Kaschnitz-Straße,,,,way
 Marieluise-Fleißer-Bogen,,,,way
 "Marienbader Straße",,,,way
 "Marienburger Straße",,,,way
-Marienhof,,,,relation
 Marienklausenbrücke,,,,way
 "Marienplatz (Olympiadorf)",,,,way
 Marienstraße,,,,way
@@ -3947,6 +3946,7 @@ Perchastraße,,,,way
 "Peretshofener Straße",,,,way
 "Perlacher Bahnhofstraße",,,,way
 "Perlacher Straße",,,,way
+"Perlacher Weg",,,,way
 Perlgrasweg,,,,way
 Perlschneiderstraße,,,,way
 Permoserplatz,,,,way
@@ -4150,7 +4150,6 @@ Rabeneckstraße,,,,way
 Rabenkopfstraße,,,,way
 Rabensteinstraße,,,,way
 Rachelstraße,,,,way
-"Rad/Fußweg Zufahrt Isarring",,,,way
 Radeckestraße,,,,way
 Radlkofer-Weg,,,,way
 Radlsteg,,,,way
@@ -4239,6 +4238,7 @@ Reischlweg,,,,way
 Reiserstraße,,,,way
 Reisingerstraße,,,,way
 Reismühlenstraße,,,,way
+Reitbahn,,,,way
 Reitknechtstraße,,,,way
 Reitmorstraße,,,,way
 Renatastraße,,,,way
@@ -4250,7 +4250,6 @@ Reschenbachstraße,,,,way
 Reschreiterstraße,,,,way
 Reschstraße,,,,way
 Resedenweg,,,,way
-Resi-Huber-Platz,,,,relation
 Residenzpassage,,,,way
 Residenzstraße,,,,way
 Reuchlinstraße,,,,way
@@ -5022,7 +5021,6 @@ Stösserstraße,,,,way
 Stradellastraße,,,,way
 "Strahlenfelser Straße",,,,way
 Strähuberstraße,,,,way
-Straße,,,,way
 Straßfeldweg,,,,way
 "Straßl ins Holz",,,,way
 "Straßlacher Straße",,,,way
@@ -5056,8 +5054,8 @@ Stürzerstraße,,,,way
 "Stuttgarter Straße",,,,way
 Sudelfeldstraße,,,,way
 Südendstraße,,,,way
+Sudermann-Zentrum,,,,relation
 Sudermannallee,,,,way
-Sudermannzentrum,,,,relation
 Sudetendeutschestraße,,,,way
 "Südliche Auffahrtsallee",,,,way
 "Südliches Schloßrondell",,,,way
@@ -5244,7 +5242,6 @@ Tschaikowskystraße,,,,way
 Tubeufstraße,,,,way
 "Tübinger Straße",,,,way
 Tucheler-Heide-Straße,,,,way
-Tucholskystraße,,,,way
 Tüllesamstraße,,,,way
 Tullingerstraße,,,,way
 Tulpenweg,,,,way
