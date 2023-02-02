@@ -58,6 +58,7 @@ Geschwister-Scholl-Platz,wikidata,,Q566212,way
 Habsburgerstraße,wikidata,,Q65968,way
 "Haderner Weg",wikidata,,Q267364,way
 "Hadorfer Straße",wikidata,,Q30232481,way
+"Hanfelder Straße",wikidata,,Q30239653,way
 Haslangstraße,wikidata,,Q15814439,way
 "Hauzenberger Straße",wikidata,,Q255888,way
 "Hechenwanger Weg",wikidata,,Q1592893,way
@@ -310,6 +311,7 @@ Alzstraße,,,,way
 "Am Bachrain",,,,way
 "Am Bahnsportplatz",,,,way
 "Am Bauernwald",,,,way
+"Am Bergson Kunstkraftwerk",,,,way
 "Am Bergsteig",,,,way
 "Am Bienenkorb",,,,way
 "Am Birkicht",,,,way
@@ -525,7 +527,7 @@ Artilleriestraße,,,,way
 Arvenweg,,,,way
 "Arzbacher Straße",,,,way
 "Arzberger Straße",,,,way
-Asamhof,,,,way
+Asamhöfe,,,,way
 "Aschaffenburger Straße",,,,way
 "Aschauer Straße",,,,way
 Aschenbrennerstraße,,,,way
@@ -1106,7 +1108,6 @@ Dietmar-Keese-Bogen,,,,way
 Dietrichsteinstraße,,,,way
 Dietrichstraße,,,,way
 Dietzfelbingerplatz,,,,way
-Diezweg,,,,way
 "Dillinger Straße",,,,way
 Dillisstraße,,,,way
 Dillwächterstraße,,,,way
@@ -1681,6 +1682,7 @@ Fürstenstraße,,,,way
 Furtwänglerstraße,,,,way
 "Füssener Straße",,,,way
 Fuststraße,,,,way
+Fußweg,,,,way
 "Fußweg Humannweg",,,,way
 G,,,,way
 Gaberlstraße,,,,way
@@ -1853,6 +1855,7 @@ Goldschaggbogen,,,,way
 "Göllheimer Straße",,,,way
 Gollierplatz,,,,way
 Gollierstraße,,,,way
+Golo-Mann-Weg,,,,way
 "Gondershauser Straße",,,,way
 Görbelmoosstraße,,,,way
 Gorch-Fock-Straße,,,,way
@@ -2055,7 +2058,6 @@ Hammstraße,,,,way
 "Hanauer Straße",,,,way
 Händelstraße,,,,way
 Hanebergstraße,,,,way
-"Hanfelder Straße",,,,way
 Hanfgartenstraße,,,,way
 Hänflingweg,,,,way
 Hanfstaenglstraße,,,,way
@@ -2076,7 +2078,6 @@ Hans-Bunte-Straße,,,,way
 Hans-Clarin-Weg,,,,way
 Hans-Dietrich-Genscher-Straße,,,,way
 Hans-Döllgast-Straße,,,,way
-Hans-Ehard-Straße,,,,way
 Hans-Fitz-Weg,,,,way
 Hans-Fried-Weg,,,,way
 Hans-Goltz-Weg,,,,way
@@ -3692,7 +3693,6 @@ Niederhedernstraße,,,,way
 Niedermayerstraße,,,,way
 "Niedernburger Weg",,,,way
 Niederwaldstraße,,,,way
-Niemöllerallee,,,,way
 Nieserstraße,,,,way
 Niethammerstraße,,,,way
 Nigerstraße,,,,way
@@ -4140,7 +4140,7 @@ Pütrichstraße,,,,way
 "Putziger Straße",,,,way
 Q,,,,way
 Quagliostraße,,,,way
-Quartiersplatz,,,,way
+Quartiersplatz,,,,relation
 "Quedlinburger Straße",,,,way
 Quellenstraße,,,,way
 Quendelweg,,,,way
@@ -5597,7 +5597,6 @@ Wilhelm-Hey-Straße,,,,way
 Wilhelm-Hoegner-Straße,,,,way
 Wilhelm-Kuhnert-Straße,,,,way
 Wilhelm-Leibl-Platz,,,,way
-Wilhelm-Leibl-Straße,,,,way
 Wilhelm-Ostwald-Straße,,,,way
 Wilhelm-Weigand-Straße,,,,way
 Wilhelm-Weitling-Straße,,,,way
