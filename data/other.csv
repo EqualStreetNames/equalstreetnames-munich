@@ -18,6 +18,8 @@ Bayernplatz,wikidata,,Q980,way
 Belfortstraße,wikidata,,Q171545,way
 Bellinzonastraße,wikidata,,Q64044,way
 "Berner Straße",wikidata,,Q70,way
+Biterolfstraße,wikidata,,Q54997275,way
+Blutenburgstraße,wikidata,,Q702533,way
 "Böcksteiner Straße",wikidata,,Q973185,way
 "Bonner Platz",wikidata,,Q586,way
 "Bonner Straße",wikidata,,Q586,way
@@ -29,6 +31,7 @@ Bellinzonastraße,wikidata,,Q64044,way
 "Buchloer Straße",wikidata,,Q265110,way
 "Dachauer Straße",wikidata,,Q573699,way
 "Deidesheimer Straße",wikidata,,Q22951,way
+Dietleibstraße,wikidata,,Q1223285,way
 Dolomitenstraße,wikidata,,Q1283,way
 "Düsseldorfer Straße",wikidata,,Q1718,way
 "Eichstätter Straße",wikidata,,Q252772,way
@@ -81,6 +84,7 @@ Kreittmayrstraße,wikidata,,Q27583996,way
 "Laimer Platz",wikidata,,Q259879,way
 "Landsberger Straße",wikidata,,Q494299,way
 Landschaftstraße,wikidata,,Q28034096,way
+"Landshuter Allee",wikidata,,Q3974,way
 Lechfeldstraße,wikidata,,Q897240,way
 Leonistraße,wikidata,,Q19825961,way
 "Leutstettener Straße",wikidata,,Q1821672,way
@@ -98,6 +102,7 @@ Murtalstraße,wikidata,,Q1684573,way
 "Neubeuerner Straße",wikidata,,Q536363,way
 "Neurieder Straße",wikidata,,Q259597,way
 "Nördlinger Straße",wikidata,,Q489902,way
+"Nymphenburger Straße",wikidata,,Q131631,way
 "Oberbrunner Straße",wikidata,,Q2009235,way
 "Oberstdorfer Straße",wikidata,,Q266230,way
 Odeonsplatz,wikidata,,Q587157,way
@@ -110,6 +115,7 @@ Petuelring,wikidata,,Q2081296,way
 "Pfaffenhofener Platz",wikidata,,Q490319,way
 "Pippinger Straße",wikidata,,Q18621194,way
 "Planegger Straße",wikidata,,Q255796,way
+"Platz der Freiheit",wikidata,,Q2979,way
 "Pöckinger Straße",wikidata,,Q514747,way
 "Pörtschacher Straße",wikidata,,Q875805,way
 "Possenhofener Straße",wikidata,,Q559986,way
@@ -118,7 +124,7 @@ Petuelring,wikidata,,Q2081296,way
 Rheinstraße,wikidata,,Q584,way
 Ridlerstraße,wikidata,,Q2151869,way
 "Rosenheimer Straße",wikidata,,Q4007,way
-Rotkreuzplatz,wikidata,,Q54515781,relation+way
+Rotkreuzplatz,wikidata,,Q54515781;Q7178,relation+way
 Saarstraße,wikidata,,Q153972,way
 Saint-Privat-Straße,wikidata,,Q155247,way
 Sankt-Emmeram-Brücke,wikidata,,Q2318117,way
@@ -811,7 +817,6 @@ Bischof-Ketteler-Straße,,,,way
 Bischweiler-Straße,,,,way
 Bismarckstraße,,,,way
 "Bistritzer Weg",,,,way
-Biterolfstraße,,,,way
 "Blaichacher Straße",,,,way
 Blanckertzweg,,,,way
 Blankbauerstraße,,,,way
@@ -834,7 +839,6 @@ Blücherstraße,,,,way
 Blumenbachstraße,,,,way
 Blumenstraße,,,,way
 Blumenweg,,,,way
-Blutenburgstraße,,,,way
 Blütenstraße,,,,way
 Bob-van-Benthem-Platz,,,,way
 Boberweg,,,,way
@@ -854,7 +858,6 @@ Böhlaustraße,,,,way
 Böhmerwaldplatz,,,,way
 Böhmlerpassage,,,,way
 Böhmstraße,,,,way
-Bolivarstraße,,,,way
 Bonhoefferstraße,,,,way
 Bonselsstraße,,,,way
 Bonteweg,,,,way
@@ -1100,7 +1103,6 @@ Dieselstraße,,,,way
 "Dießener Straße",,,,way
 Dieter-Hildebrandt-Straße,,,,way
 "Dietersheimer Straße",,,,way
-Dietleibstraße,,,,way
 Dietlindenstraße,,,,way
 Dietmar-Keese-Bogen,,,,way
 "Dietramszeller Platz",,,,way
@@ -1152,6 +1154,7 @@ Doschweg,,,,way
 Dr.-Blaich-Straße,,,,way
 Dr.-Böttcher-Straße,,,,way
 Dr.-Carl-von-Linde-Straße,,,,way
+Dr.-Kurt-Mühlhäuser-Platz,,,,way
 Dr.-Mach-Straße,,,,way
 Dr.-Ruder-Weg,,,,way
 Dr.-Walther-von-Miller-Straße,,,,way
@@ -3047,7 +3050,6 @@ Landlstraße,,,,way
 Landrichterstraße,,,,way
 "Landshamer Straße",,,,way
 Landshoffstraße,,,,way
-"Landshuter Allee",,,,way
 Ländstraße,,,,way
 Landwehrstraße,,,,way
 Langackerweg,,,,way
@@ -3735,7 +3737,6 @@ Nusselstraße,,,,way
 Nußbaumstraße,,,,way
 Nußhäherstraße,,,,way
 Nußstraße,,,,way
-"Nymphenburger Straße",,,,way
 O,,,,way
 Oberanger,,,,way
 Oberascherstraße,,,,way
@@ -4055,7 +4056,6 @@ Platanenstraße,,,,way
 Platenstraße,,,,way
 "Plattlinger Straße",,,,way
 Plattnerstraße,,,,way
-"Platz der Freiheit",,,,way
 "Platz der Menschenrechte",,,,relation+way
 "Platz vor der Feldherrnhalle",,,,relation
 Platzl,,,,way
@@ -4275,6 +4275,7 @@ Richard-Tauber-Straße,,,,way
 Richardstraße,,,,way
 Richelstraße,,,,way
 Richildenstraße,,,,way
+"Rid Passage",,,,way
 Riedelsteg,,,,way
 "Riedenburger Straße",,,,way
 "Riedener Straße",,,,way
@@ -5143,7 +5144,6 @@ Theodor-Kober-Straße,,,,way
 Theodor-Lipps-Straße,,,,way
 Theodor-Storm-Straße,,,,way
 Theodorparkstraße,,,,way
-Therese-Danner-Platz,,,,way
 Therese-Weg,,,,way
 Theresienweg,,,,way
 Thiemestraße,,,,way
@@ -5746,6 +5746,7 @@ Zollstraße,,,,way
 Zuccalistraße,,,,way
 Zuckerhütlstraße,,,,way
 "Zugang ""In der Rosenau 7 und 7a""",,,,way
+"Zugang Volkssternwarte",,,,way
 Zügelstraße,,,,way
 Zugspitzstraße,,,,way
 "Zum Hirtengütl",,,,way
