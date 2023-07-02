@@ -15,6 +15,7 @@ Annette-von-Aretin-Straße,wikidata,F,Q91602,way
 Anni-Albers-Straße,wikidata,F,Q86078,way
 Augustenstraße,wikidata,F,Q232155,way
 Barbarastraße,wikidata,F,Q192816,way
+Brändströmstraße,wikidata,F,Q469673,way
 Carlamaria-Heim-Straße,wikidata,F,Q1041582,way
 Christl-Marie-Schultes-Weg,wikidata,F,Q22693865,way
 Droste-Hülshoff-Straße,wikidata,F,Q57307,way
@@ -56,7 +57,9 @@ Marienplatz,wikidata,F,Q345,relation+way
 Marlene-Dietrich-Straße,wikidata,F,Q4612,way
 Menaristraße,wikidata,F,Q94777351,way
 Mildred-Scheel-Bogen,wikidata,F,Q66805,way
+Monikastraße,wikidata,F,Q234689,way
 Oda-Schaefer-Weg,wikidata,F,Q96336,way
+Ottilienstraße,wikidata,F,Q269867,way
 Petra-Kelly-Straße,wikidata,F,Q61227,way
 Petra-Moll-Weg,wikidata,F,Q63485594,way
 Ricarda-Huch-Straße,wikidata,F,Q60785,way
@@ -104,6 +107,7 @@ Behamstraße,wikidata,M,Q507825,way
 Ben-Chorin-Straße,wikidata,M,Q77448,way
 Bergmannstraße,wikidata,M,Q20752138,way
 Berlepschstraße,wikidata,M,Q764949,way
+Bernadottestraße,wikidata,M,Q212163,way
 Bernaysstraße,wikidata,M,Q73892,way
 Bernd-Eichinger-Platz,wikidata,M,Q61881,way
 Bernhard-Wicki-Straße,wikidata,M,Q78924,way
@@ -157,6 +161,7 @@ Dominikusplatz,wikidata,M,Q44091,way
 Donnersbergerstraße,wikidata,M,Q27885336,way
 Dostlerstraße,wikidata,M,Q5340463,way
 Dr.-Schweninger-Straße,wikidata,M,Q71089,way
+Dresselstraße,wikidata,M,Q1466040,way
 Dreyerstraße,wikidata,M,Q16508925,way
 Drygalski-Allee,wikidata,M,Q63108,way
 Dülferstraße,wikidata,M,Q66740,way
@@ -202,6 +207,7 @@ Friedrichstraße,wikidata,M,Q58600,way
 Fritz-Bauer-Straße,wikidata,M,Q215981,way
 Fritz-Endres-Straße,wikidata,M,Q1466130,way
 Fröbelplatz,wikidata,M,Q76679,way
+Frobeniusweg,wikidata,M,Q60570,way
 Frohschammerstraße,wikidata,M,Q77449,way
 Gabelsbergerstraße,wikidata,M,Q62137,way
 Gaiglstraße,wikidata,M,Q2262726,way
@@ -219,9 +225,11 @@ Georg-Schätzel-Straße,wikidata,M,Q110896,way
 Georg-von-Mayr-Straße,wikidata,M,Q90501,way
 Gluthstraße,wikidata,M,Q7929685,way
 Goldmarkstraße,wikidata,M,Q239214,way
+Gorch-Fock-Straße,wikidata,M,Q69087,way
 Görresstraße,wikidata,M,Q215730,way
 Gottfried-Koelwel-Weg,wikidata,M,Q1539302,way
 Graf-Konrad-Straße,wikidata,M,Q1752498,way
+Graf-Spee-Platz,wikidata,M,Q57185,way
 Gregor-Mendel-Straße,wikidata,M,Q37970,way
 Griegstraße,wikidata,M,Q80621,way
 Grillparzerstraße,wikidata,M,Q154438,way
@@ -505,6 +513,8 @@ Ungererstraße,wikidata,M,Q54556659,way
 Veit-Stoß-Straße,wikidata,M,Q163800,way
 Viktor-Scheffel-Straße,wikidata,M,Q94806440,way
 Vinzenz-Schüpfer-Straße,wikidata,M,Q94907234,way
+Von-Erckert-Straße,wikidata,M,Q104498,way
+Von-Gravenreuth-Straße,wikidata,M,Q120190,way
 Von-der-Pfordten-Straße,wikidata,M,Q85092,way
 Von-der-Tann-Straße,wikidata,M,Q76454,way
 Vosslerstraße,wikidata,M,Q66135,way
@@ -532,6 +542,7 @@ Willi-Daume-Platz,wikidata,M,Q102557,way
 Willi-Gebhardt-Ufer,wikidata,M,Q1803767,way
 Willibaldplatz,wikidata,M,Q705878,way
 Willibaldstraße,wikidata,M,Q705878,way
+Willy-Brandt-Platz,wikidata,M,Q2514,way
 Winckelmannweg,wikidata,M,Q57280,way
 Winzererstraße,wikidata,M,Q1735060,way
 Wredestraße,wikidata,M,Q64759,way
