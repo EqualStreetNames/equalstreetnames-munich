@@ -28,6 +28,7 @@ Emilie-Mauerer-Straße,wikidata,F,Q1337340,way
 Erika-Mann-Straße,wikidata,F,Q61597,way
 Franziska-Bilek-Weg,wikidata,F,Q1450088,way
 Grete-Mosheim-Straße,wikidata,F,Q91872,way
+Günderodestraße,wikidata,F,Q62053,way
 Gunta-Stölzl-Straße,wikidata,F,Q73085,way
 Helene-Mayer-Ring,wikidata,F,Q61006,way
 Hildegard-von-Bingen-Anger,wikidata,F,Q70991,way
@@ -55,6 +56,7 @@ Marianne-von-Werefkin-Weg,wikidata,F,Q464016,way
 Mariannenbrücke,wikidata,F,Q237706,way
 Marienplatz,wikidata,F,Q345,relation+way
 Marlene-Dietrich-Straße,wikidata,F,Q4612,way
+Marthastraße,wikidata,F,Q232453,way
 Menaristraße,wikidata,F,Q94777351,way
 Mildred-Scheel-Bogen,wikidata,F,Q66805,way
 Monikastraße,wikidata,F,Q234689,way
@@ -186,6 +188,7 @@ Ettenhueberstraße,wikidata,M,Q1661201,way
 Ettstraße,wikidata,M,Q74632,way
 Eulerstraße,wikidata,M,Q7604,way
 Farinellistraße,wikidata,M,Q223744,way
+Fauststraße,wikidata,M,Q76918,way
 Feilitzschstraße,wikidata,M,Q1914135,way
 Felix-Fechenbach-Bogen,wikidata,M,Q96743,way
 Ferdinand-Miller-Platz,wikidata,M,Q95737,way
@@ -193,6 +196,7 @@ Feserstraße,wikidata,M,Q1693434,way
 Fischartstraße,wikidata,M,Q69303,way
 Fischer-von-Erlach-Straße,wikidata,M,Q84305,way
 Flotowstraße,wikidata,M,Q155425,way
+Franz-Heubl-Straße,wikidata,M,Q1447216,way
 Franz-Josef-Strauß-Ring,wikidata,M,Q44620,way
 Franz-Joseph-Straße,wikidata,M,Q51056,way
 Franz-Metzner-Straße,wikidata,M,Q1448270,way
@@ -202,8 +206,11 @@ Fraunhoferstraße,wikidata,M,Q43948,relation+way
 Frei-Otto-Straße,wikidata,M,Q64412,way
 Freiherr-von-Pechmann-Weg,wikidata,M,Q2572704,way
 Freiligrathstraße,wikidata,M,Q213719,way
+Friedrich-Creuzer-Straße,wikidata,M,Q69685,way
 Friedrich-Loy-Straße,wikidata,M,Q94899669,way
+Friedrich-Panzer-Weg,wikidata,M,Q1461435,way
 Friedrichstraße,wikidata,M,Q58600,way
+Friesplatz,wikidata,M,Q77436,way
 Fritz-Bauer-Straße,wikidata,M,Q215981,way
 Fritz-Endres-Straße,wikidata,M,Q1466130,way
 Fröbelplatz,wikidata,M,Q76679,way
@@ -223,6 +230,7 @@ Georg-Lotter-Weg,wikidata,M,Q1505221,way
 Georg-Muche-Straße,wikidata,M,Q646159,way
 Georg-Schätzel-Straße,wikidata,M,Q110896,way
 Georg-von-Mayr-Straße,wikidata,M,Q90501,way
+Gerstäckerstraße,wikidata,M,Q77478,way
 Gluthstraße,wikidata,M,Q7929685,way
 Goldmarkstraße,wikidata,M,Q239214,way
 Gorch-Fock-Straße,wikidata,M,Q69087,way
@@ -266,6 +274,8 @@ Heßstraße,wikidata,M,Q76135,way
 Hildeboldstraße,wikidata,M,Q1618902,way
 Hilgerstraße,wikidata,M,Q1675562,way
 Hiltenspergerstraße,wikidata,M,Q316506,way
+Hippelstraße,wikidata,M,Q214310,way
+Hoferichterweg,wikidata,M,Q1358711,way
 Hogenbergplatz,wikidata,M,Q959748,way
 Hogenbergstraße,wikidata,M,Q959748,way
 Högerstraße,wikidata,M,Q1388840,way
@@ -322,11 +332,13 @@ Kolumbusstraße,wikidata,M,Q7322,way
 Konradstraße,wikidata,M,Q66561,way
 Korbinianplatz,wikidata,M,Q560646,way
 Korbinianstraße,wikidata,M,Q560646,way
+Kothieringerstraße,wikidata,M,Q99531899,way
 Kraepelinstraße,wikidata,M,Q76828,way
 Krumbacherstraße,wikidata,M,Q61463,way
 Kurfürstenplatz,wikidata,M,Q57628,way
 Kurfürstenstraße,wikidata,M,Q57628,way
 Kusocinskidamm,wikidata,M,Q170260,way
+Lamprechtstraße,wikidata,M,Q7877757,way
 Langerstraße,wikidata,M,Q602103,way
 Lautensackstraße,wikidata,M,Q1392217,way
 Leibnizstraße,wikidata,M,Q9047,way
@@ -391,11 +403,13 @@ Mottlstraße,wikidata,M,Q694070,way
 Mozartstraße,wikidata,M,Q254,way
 Naagerstraße,wikidata,M,Q37354973,way
 Nadistraße,wikidata,M,Q33783,way
+Nauestraße,wikidata,M,Q1712861,way
 Neherstraße,wikidata,M,Q74508,way
 Nestroystraße,wikidata,M,Q44862,way
 Neureutherstraße,wikidata,M,Q318886,way
 Niemöllerallee,wikidata,M,Q153839,way
 Nietzschestraße,wikidata,M,Q9358,way
+Nikolaus-Prugger-Weg,wikidata,M,Q1645971,way
 Occamstraße,wikidata,M,Q43936,way
 Oefelestraße,wikidata,M,Q91566,way
 Oertelplatz,wikidata,M,Q95735,way
@@ -462,6 +476,7 @@ Sandrartstraße,wikidata,M,Q551624,way
 Sandtnerstraße,wikidata,M,Q1526486,way
 Schackstraße,wikidata,M,Q63876,way
 Schafhäutlstraße,wikidata,M,Q73167,way
+Schanderlweg,wikidata,M,Q94842577,way
 Schäufeleinstraße,wikidata,M,Q675272,way
 Schedelstraße,wikidata,M,Q58768,way
 Scheidplatz,wikidata,M,Q25918130,way
@@ -513,8 +528,10 @@ Ungererstraße,wikidata,M,Q54556659,way
 Veit-Stoß-Straße,wikidata,M,Q163800,way
 Viktor-Scheffel-Straße,wikidata,M,Q94806440,way
 Vinzenz-Schüpfer-Straße,wikidata,M,Q94907234,way
+Von-Erckert-Platz,wikidata,M,Q104498,way
 Von-Erckert-Straße,wikidata,M,Q104498,way
 Von-Gravenreuth-Straße,wikidata,M,Q120190,way
+Von-Heydebreck-Straße,wikidata,M,Q6204692,way
 Von-der-Pfordten-Straße,wikidata,M,Q85092,way
 Von-der-Tann-Straße,wikidata,M,Q76454,way
 Vosslerstraße,wikidata,M,Q66135,way
