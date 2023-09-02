@@ -102,6 +102,7 @@ Heilwigstraße,wikidata,,Q60777353,way
 Helenenstraße,wikidata,,Q971710,way
 Helgastraße,wikidata,,Q1035107,way
 Hererostraße,wikidata,,Q170088,way
+Herzog-Heinrich-Brücke,wikidata,,Q1615207,way
 Hohenstaufenstraße,wikidata,,Q130875,way
 "Hohenwarter Straße",wikidata,,Q489217,way
 Hohenzollernplatz,wikidata,,Q83969,relation+way
@@ -320,7 +321,6 @@ Agnes-Fink-Weg,,,,way
 Agnes-Kunze-Platz,,,,way
 Agnes-Miegel-Straße,,,,way
 Agnes-Pockels-Bogen,,,,way
-Agnes-Pockels-Bogen;Emmy-Noether-Straße,,,,way
 Agrippastraße,,,,way
 Ahornstraße,,,,way
 Aiblingerstraße,,,,way
@@ -1905,7 +1905,7 @@ Gneisenaustraße,,,,way
 "Gnesener Straße",,,,way
 Goebel-Weg,,,,way
 Goerdelerstraße,,,,way
-Goetheplatz,,,,relation+way
+Goetheplatz,,,,way
 Goethestraße,,,,way
 "Gögginger Straße",,,,way
 Gögglstraße,,,,way
@@ -3657,7 +3657,7 @@ Münzstraße,,,,way
 "Murnauer Straße",,,,way
 Musäusstraße,,,,way
 Musenbergstraße,,,,way
-Museumshof,,,,relation+way
+Museumshof,,,,way
 Muspelheimstraße,,,,way
 Muspillistraße,,,,way
 Muthmannstraße,,,,way
@@ -3820,7 +3820,6 @@ Ollenhauerstraße,,,,way
 Olmendorferstraße,,,,way
 Olof-Palme-Straße,,,,way
 Olschewskibogen,,,,way
-Olympiastraße,,,,way
 Omptedastraße,,,,way
 Oneginstraße,,,,way
 Onyxplatz,,,,way
@@ -4150,7 +4149,6 @@ Professor-Rudolf-Esterer-Weg,,,,way
 Promenadeplatz,,,,way
 Prößlstraße,,,,way
 Prüfeningweg,,,,way
-Prunkhof,,,,way
 Puccinistraße,,,,way
 "Puchheimer Straße",,,,way
 Puechbergerstraße,,,,way
