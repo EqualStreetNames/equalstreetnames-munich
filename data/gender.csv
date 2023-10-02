@@ -45,8 +45,10 @@ Liesl-Karlstadt-Straße,wikidata,F,Q106393,way
 Lillian-Board-Weg,wikidata,F,Q261948,way
 Lilly-Reich-Straße,wikidata,F,Q64648,way
 Lina-Meittinger-Straße,wikidata,F,Q1737292,way
+Lise-Meitner-Weg,wikidata,F,Q56189,way
 Lissi-Kaeser-Straße,wikidata,F,Q1330029,way
 Lucile-Grahn-Straße,wikidata,F,Q272482,way
+Ludmillastraße,wikidata,F,Q462661,way
 Luise-Kiesselbach-Tunnel,wikidata,F,Q1876627,way
 Luisenstraße,wikidata,F,Q57531,way
 Margarethe-Selenka-Straße,wikidata,F,Q85253,way
@@ -73,6 +75,7 @@ Therese-Giehse-Allee,wikidata,F,Q69638,way
 Therese-von-Bayern-Straße,wikidata,F,Q68918,way
 Theresienhöhe,wikidata,F,Q233198,way
 Theresienstraße,wikidata,F,Q233198,way
+Thusneldastraße,wikidata,F,Q242382,way
 Viebigplatz,wikidata,F,Q71465,way
 Viktoriaplatz,wikidata,F,Q116728,way
 Viktoriastraße,wikidata,F,Q116728,way
@@ -92,6 +95,7 @@ Anglerstraße,wikidata,M,Q1488906,way
 Anton-Will-Straße,wikidata,M,Q595537,way
 Apianstraße,wikidata,M,Q68523,way
 Arcostraße,wikidata,M,Q1726250,way
+Arnold-Sommerfeld-Straße,wikidata,M,Q77078,way
 Arnulfstraße,wikidata,M,Q64956,way
 Artur-Kutscher-Platz,wikidata,M,Q91863,way
 August-Exter-Straße,wikidata,M,Q99481,way
@@ -129,6 +133,7 @@ Brunnerstraße,wikidata,M,Q15549957,way
 Bruno-Hofer-Platz,wikidata,M,Q87463,way
 Buhlstraße,wikidata,M,Q5589685,way
 Burgkmairstraße,wikidata,M,Q313163,way
+Candidplatz,wikidata,M,Q315803,relation
 Candidstraße,wikidata,M,Q315803,way
 Caracciolastraße,wikidata,M,Q1561386,way
 Carl-Amery-Platz,wikidata,M,Q44839,way
@@ -230,6 +235,7 @@ Georg-Lotter-Weg,wikidata,M,Q1505221,way
 Georg-Muche-Straße,wikidata,M,Q646159,way
 Georg-Schätzel-Straße,wikidata,M,Q110896,way
 Georg-von-Mayr-Straße,wikidata,M,Q90501,way
+Gerhardstraße,wikidata,M,Q316824,way
 Gerstäckerstraße,wikidata,M,Q77478,way
 Gluthstraße,wikidata,M,Q7929685,way
 Goldmarkstraße,wikidata,M,Q239214,way
@@ -244,6 +250,7 @@ Grillparzerstraße,wikidata,M,Q154438,way
 Guddenstraße,wikidata,M,Q826299,way
 Güllstraße,wikidata,M,Q92008,way
 Günter-Behnisch-Straße,wikidata,M,Q60694,way
+Gustav-Heinemann-Ring,wikidata,M,Q2573,way
 Gustav-Landauer-Bogen,wikidata,M,Q61723,way
 Gutzkowstraße,wikidata,M,Q76755,way
 Hackländerstraße,wikidata,M,Q74465,way
@@ -256,6 +263,8 @@ Hans-Dürrmeier-Weg,wikidata,M,Q1579252,way
 Hans-Ehard-Straße,wikidata,M,Q67597,way
 Hans-Fischer-Straße,wikidata,M,Q76604,way
 Hans-Klein-Straße,wikidata,M,Q90844,way
+Hans-Mielich-Platz,wikidata,M,Q553186,way
+Hans-Mielich-Straße,wikidata,M,Q553186,way
 Hans-Thonauer-Straße,wikidata,M,Q630831,way
 Haunerstraße,wikidata,M,Q105134,way
 Hauttmannweg,wikidata,M,Q55842855,way
@@ -329,12 +338,14 @@ Kolehmainenweg,wikidata,M,Q311338,way
 Kolumbusplatz,wikidata,M,Q7322,relation+way
 Kolumbusstraße,wikidata,M,Q7322,way
 "König-Ludwig II-Weg",wikidata,M,Q44039,way
+Konradinstraße,wikidata,M,Q158246,way
 Konradstraße,wikidata,M,Q66561,way
 Korbinianplatz,wikidata,M,Q560646,way
 Korbinianstraße,wikidata,M,Q560646,way
 Kothieringerstraße,wikidata,M,Q99531899,way
 Kraepelinstraße,wikidata,M,Q76828,way
 Krumbacherstraße,wikidata,M,Q61463,way
+Krumpterstraße,wikidata,M,Q91771,way
 Kurfürstenplatz,wikidata,M,Q57628,way
 Kurfürstenstraße,wikidata,M,Q57628,way
 Kusocinskidamm,wikidata,M,Q170260,way
@@ -357,6 +368,7 @@ Loristraße,wikidata,M,Q1694012,way
 Lothstraße,wikidata,M,Q1696418,way
 Lovelockweg,wikidata,M,Q558580,way
 Ludlstraße,wikidata,M,Q24451184,way
+Ludwig-Erhard-Allee,wikidata,M,Q2496,way
 Ludwig-Ferdinand-Brücke,wikidata,M,Q62263,way
 Ludwig-Hilberseimer-Straße,wikidata,M,Q62598,way
 Ludwig-Richter-Straße,wikidata,M,Q551896,way
@@ -384,9 +396,11 @@ Max-Joseph-Straße,wikidata,M,Q44319,way
 Max-Liebermann-Straße,wikidata,M,Q158062,way
 Max-Mannheimer-Platz,wikidata,M,Q872108,way
 Max-Planck-Straße,wikidata,M,Q9021,way
+Max-Reinhardt-Weg,wikidata,M,Q78639,way
 Max-Weber-Platz,wikidata,M,Q9387,way
 Max-von-Gruber-Straße,wikidata,M,Q85476,way
 Max-von-Laue-Straße,wikidata,M,Q57067,way
+Maximilian-Kolbe-Allee,wikidata,M,Q153850,way
 Maximiliansplatz,wikidata,M,Q44319,way
 Maximilianstraße,wikidata,M,Q44530,way
 Maxstadtstraße,wikidata,M,Q20753120,way
@@ -418,6 +432,7 @@ Oskar-Schlemmer-Straße,wikidata,M,Q458816,way
 Oskar-von-Miller-Ring,wikidata,M,Q76456,way
 Ossietzkystraße,wikidata,M,Q76358,way
 Ostendorferweg,wikidata,M,Q1928779,way
+Otto-Hahn-Ring,wikidata,M,Q57065,way
 Ottostraße,wikidata,M,Q77067,way
 Pappenheimstraße,wikidata,M,Q61869,way
 Paracelsusstraße,wikidata,M,Q83428,way
