@@ -110,7 +110,7 @@ Heilwigstraße,wikidata,,Q60777353,way
 Helenenstraße,wikidata,,Q971710,way
 Helgastraße,wikidata,,Q1035107,way
 Hererostraße,wikidata,,Q170088,way
-Herzog-Heinrich-Brücke,wikidata,,Q1615207,way
+Herzog-Heinrich-Brücke,wikidata,,Q1615207;Q267408,way
 "Hofer Straße",wikidata,,Q6938,way
 Hohenstaufenstraße,wikidata,,Q130875,way
 "Hohenwarter Straße",wikidata,,Q489217,way
@@ -137,7 +137,7 @@ Kloster-Innichen-Straße,wikidata,,Q956981,way
 Kloster-Seeon-Straße,wikidata,,Q895731,way
 Klothildenstraße,wikidata,,Q42423785,way
 "Kölner Platz",wikidata,,Q365,way
-Königsplatz,wikidata,,Q498869,relation+way
+Königsplatz,wikidata,,Q4389210,relation+way
 Königsseestraße,wikidata,,Q156715,way
 Kormoranweg,wikidata,,Q25440,way
 "Kössener Straße",wikidata,,Q665534,way
@@ -442,7 +442,6 @@ Alzstraße,,,,way
 "Am Blütenanger",,,,way
 "Am Blütenring",,,,way
 "Am Brombeerschlag",,,,way
-"Am Burgfrieden",,,,way
 "Am Durchblick",,,,way
 "Am Eicherhof",,,,way
 "Am Einlaß",,,,way
@@ -592,7 +591,6 @@ Angertorstraße,,,,way
 Angerweg,,,,way
 "Anhalter Platz",,,,way
 "Anhalter Straße",,,,way
-Anita-Augspurg-Allee,,,,way
 Ankoglstraße,,,,way
 Anna-Dandler-Straße,,,,way
 Anna-Strohmaier-Weg,,,,way
@@ -705,6 +703,7 @@ Aurel-Voß-Straße,,,,way
 Aurikelstraße,,,,way
 Authariplatz,,,,way
 Autharistraße,,,,way
+"Autobahnzubringer Freiham",,,,way
 Auwaldgasse,,,,way
 Auwasserweg,,,,way
 Auwiesenweg,,,,way
@@ -1409,7 +1408,6 @@ Emil-Riedel-Straße,,,,way
 Emilie-Maurer-Straße,,,,relation+way
 Emilie-Nacken-Straße,,,,way
 Emin-Pascha-Straße,,,,way
-Emma-Ihrer-Straße,,,,way
 Emmerigweg,,,,way
 "Emmeringer Straße",,,,way
 Emmy-Noether-Straße,,,,way
@@ -1859,7 +1857,6 @@ Germaniastraße,,,,way
 Gerokstraße,,,,way
 Geroldseckstraße,,,,way
 Geroltstraße,,,,way
-Gertrud-Bäumer-Straße,,,,way
 Gertrud-Grunow-Straße,,,,way
 Gertrud-Kückelmann-Weg,,,,way
 Gertrud-von-Le-Fort-Weg,,,,way
@@ -2130,6 +2127,7 @@ Hanfgartenstraße,,,,way
 Hänflingweg,,,,way
 Hanfstaenglstraße,,,,way
 Hängebrücke,,,,way
+"Hängebrücke über die Schenkendorfstraße",,,,way
 Haniklstraße,,,,way
 Hanna-Kirchner-Weg,,,,way
 Hannah-Arendt-Weg,,,,way
@@ -2270,7 +2268,6 @@ Heinrich-Stieglitz-Kehre,,,,way
 Heinrich-Vogl-Straße,,,,way
 Heinrich-Wieland-Straße,,,,way
 Heinrich-Zisch-Weg,,,,way
-Heinrothstraße,,,,way
 Heinz-Goerke-Straße,,,,way
 Heinz-Hilpert-Straße,,,,way
 Heinzelmännchenstraße,,,,way
@@ -2279,7 +2276,6 @@ Heißstraße,,,,way
 Heldackerweg,,,,way
 Heldstraße,,,,way
 Helene-Lange-Weg,,,,way
-Helene-Weber-Allee,,,,way
 Helene-Wessel-Bogen,,,,way
 "Helfendorfer Straße",,,,way
 Helfenriederstraße,,,,way
@@ -4030,6 +4026,7 @@ Pflegerbauerstraße,,,,way
 Pflegerstraße,,,,way
 Pflüglstraße,,,,way
 Pflugstraße,,,,way
+Pförtnerweg,,,,way
 "Pfrontener Platz",,,,way
 Pfundmayerstraße,,,,way
 Phantasiestraße,,,,way
@@ -4361,7 +4358,6 @@ Röntgenstraße,,,,way
 Roritzerstraße,,,,way
 Rosa-Bavarese-Straße,,,,way
 Rosa-Kempf-Straße,,,,way
-Rosa-Luxemburg-Platz,,,,way
 Roseggerstraße,,,,way
 Rosemarie-Fendel-Bogen,,,,way
 Rosenbuschstraße,,,,way
@@ -4680,6 +4676,7 @@ Schragenhofstraße,,,,way
 Schrämelstraße,,,,way
 Schrammerstraße,,,,way
 Schrammingerweg,,,,way
+Schreberweg,,,,way
 "Schreiberhauer Weg",,,,way
 Schreilweg,,,,way
 Schreivoglstraße,,,,way
@@ -5204,7 +5201,6 @@ Trautnerstraße,,,,way
 Trautweinstraße,,,,way
 Treffauerstraße,,,,way
 Treitschkestraße,,,,way
-"Treppenrampe (Stair ramp)",,,,way
 Tribulaunstraße,,,,way
 Triebstraße,,,,way
 "Triester Straße",,,,way
@@ -5319,7 +5315,6 @@ Vinzenz-von-Paul-Straße,,,,way
 Violenstraße,,,,way
 Virchowstraße,,,,way
 Virgilstraße,,,,way
-Viscardigasse,,,,way
 Viscardihof,,,,way
 Vogelanger,,,,way
 Vogelhartstraße,,,,way
@@ -5365,7 +5360,6 @@ Wagmüllerstraße,,,,way
 Wagnerstraße,,,,way
 Wahnfriedallee,,,,way
 Waidachanger,,,,way
-Waidachwiesenweg,,,,way
 "Waidbrucker Straße",,,,way
 Waisenhausstraße,,,,way
 Walchenseeplatz,,,,way
