@@ -1,12 +1,11 @@
 name,source,gender,wikidata,type
+Agnes-Bernauer-Straße,config+wikidata,?,Q76443,way
 Adams-Lehmann-Straße,wikidata,F,Q448583,way
 Adelgundenstraße,wikidata,F,Q61234,way
 Adelheidstraße,wikidata,F,Q242928,way
 Agnes-Bernauer-Platz,wikidata,F,Q76443,way
-Agnes-Bernauer-Straße,wikidata,F,Q76443,way
 Agnes-Neuhaus-Straße,wikidata,F,Q394602,way
 Agnesstraße,wikidata,F,Q90224,way
-Amalie-Nacken-Straße,wikidata,F,Q453072,relation+way
 Amalienpassage,wikidata,F,Q61221,way
 Amalienstraße,wikidata,F,Q61221,way
 Anita-Augspurg-Allee,wikidata,F,Q71410,way
@@ -277,6 +276,7 @@ Hagedornstraße,wikidata,M,Q63985,way
 Haggenmillerstraße,wikidata,M,Q14756901,way
 Hannes-Meyer-Straße,wikidata,M,Q123948,way
 Hanns-Braun-Brücke,wikidata,M,Q66584,way
+Hans-A.-Engelhard-Straße,wikidata,M,Q518703,way
 Hans-Denzinger-Straße,wikidata,M,Q47241381,way
 Hans-Dürrmeier-Weg,wikidata,M,Q1579252,way
 Hans-Ehard-Straße,wikidata,M,Q67597,way
@@ -297,6 +297,7 @@ Helmholtzstraße,wikidata,M,Q109501,way
 Helmut-Fischer-Platz,wikidata,M,Q45542,way
 Helmut-Schmidt-Allee,wikidata,M,Q2516,way
 Herbert-Bayer-Straße,wikidata,M,Q213637,way
+Herzog-Heinrich-Brücke,wikidata,M,Q105378;Q1615207,way
 Herzog-Heinrich-Straße,wikidata,M,Q105378,way
 Herzogstraße,wikidata,M,Q62280,way
 Heßstraße,wikidata,M,Q76135,way
@@ -341,7 +342,7 @@ Karl-Stützel-Platz,wikidata,M,Q1733130,way
 Karl-Theodor-Straße,wikidata,M,Q57972,way
 Karl-Valentin-Straße,wikidata,M,Q45255,way
 Karl-Weinmair-Straße,wikidata,M,Q1733329,way
-Karlsplatz,wikidata,M,Q44961,relation+way
+"Karlsplatz (Stachus)",wikidata,M,Q44961,relation+way
 Karlstraße,wikidata,M,Q44961,way
 Kaulbachstraße,wikidata,M,Q604107,way
 Kazmairstraße,wikidata,M,Q1671972,way
