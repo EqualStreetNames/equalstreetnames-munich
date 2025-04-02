@@ -369,6 +369,7 @@ Agnes-Kunze-Platz,,,,way
 Agnes-Miegel-Straße,,,,way
 Agnes-Pockels-Bogen,,,,way
 Agrippastraße,,,,way
+Ahornallee,,,,way
 Ahornstraße,,,,way
 Aiblingerstraße,,,,way
 "Aichacher Platz",,,,way
@@ -2343,6 +2344,7 @@ Herzog-Wilhelm-Straße,,,,way
 Herzogparkstraße,,,,way
 Herzogspitalstraße,,,,way
 Herzogstandstraße,,,,way
+Herztropfengasse,,,,way
 Hesseloherstraße,,,,way
 Heubergstraße,,,,way
 "Heufelder Straße",,,,way
@@ -2765,6 +2767,7 @@ Karl-Schmid-Straße,,,,way
 Karl-Schmolz-Straße,,,,way
 Karl-Schurz-Straße,,,,way
 Karl-Singer-Straße,,,,way
+Karl-Valentin-Gasse,,,,way
 Karl-Wieninger-Weg,,,,way
 Karl-Witthalm-Straße,,,,way
 Karl-von-Roth-Straße,,,,way
@@ -2841,6 +2844,7 @@ Kindergartenweg,,,,way
 Kindermannstraße,,,,way
 Kinkstraße,,,,way
 Kirchbachweg,,,,way
+Kirchengasserl,,,,way
 Kirchenstraße,,,,way
 Kirchgrabnerweg,,,,way
 "Kirchheimer Straße",,,,way
@@ -3192,6 +3196,7 @@ Liebigstraße,,,,way
 Liendlweg,,,,way
 Lierstraße,,,,way
 Liesel-Beckmann-Straße,,,,way
+Liesl-Karlstadt-Platz,,,,way
 Ligsalzstraße,,,,way
 Ligusterstraße,,,,way
 Lilienstraße,,,,way
@@ -3384,6 +3389,7 @@ Maria-Ivogün-Allee,,,,way
 Maria-Lehner-Straße,,,,way
 Maria-Luiko-Straße,,,,way
 Maria-Nicklisch-Straße,,,,way
+Maria-Niklisch-Straße,,,,way
 Maria-Nindl-Platz,,,,way
 Maria-Probst-Straße,,,,way
 Maria-Reisinger-Weg,,,,way
@@ -3619,6 +3625,7 @@ Müllritterstraße,,,,way
 Münchhausenstraße,,,,way
 "Münchner Freiheit",,,,way
 "Münchner Straße",,,,way
+Münchner-Kindl-Gasse,,,,way
 Münchner-Kindl-Weg,,,,way
 Munckerstraße,,,,way
 Mundesgasse,,,,way
@@ -3673,6 +3680,7 @@ Neugeräumt,,,,way
 "Neuhauser Platz",,,,way
 "Neuhauser Straße",,,,relation+way
 "Neuhauser Weg",,,,way
+Neuheitengasse,,,,way
 Neuherbergstraße,,,,way
 "Neuhofener Platz",,,,way
 "Neumarkter Straße",,,,way
@@ -4081,6 +4089,7 @@ Pottstraße,,,,way
 "Prager Straße",,,,way
 Prälat-Höck-Bogen,,,,way
 Prälat-Miller-Weg,,,,way
+Prälat-Summerer-Weg,,,,way
 Prälat-Wellenhofer-Straße,,,,way
 Prälat-Zistl-Straße,,,,way
 Prangerlstraße,,,,way
@@ -4164,6 +4173,7 @@ Rappelhofstraße,,,,way
 Rappenseestraße,,,,way
 Rappenweg,,,,way
 "Rappoltsteiner Straße",,,,way
+Raritätengasse,,,,way
 Rassogasse,,,,way
 "Raststätte Pippinger Flur Süd",,,,way
 Rathausgasse,,,,way
@@ -4219,7 +4229,6 @@ Reischlweg,,,,way
 Reiserstraße,,,,way
 Reisingerstraße,,,,way
 Reismühlenstraße,,,,way
-Reitbahn,,,,way
 Reitknechtstraße,,,,way
 Reitmorstraße,,,,way
 Renatastraße,,,,way
@@ -4514,8 +4523,10 @@ Scharnhorststraße,,,,way
 Scharnitzstraße,,,,way
 "Schäßburger Straße",,,,way
 Schatzbogen,,,,way
+Schatzsuchergasse,,,,way
 Schätzweg,,,,way
 Schauerstraße,,,,way
+Schaustellerstraße,,,,way
 Schegastraße,,,,way
 Scheibenwiesenweg,,,,way
 Scheibmeirstraße,,,,way
@@ -4975,6 +4986,14 @@ Stösserstraße,,,,way
 Stradellastraße,,,,way
 "Strahlenfelser Straße",,,,way
 Strähuberstraße,,,,way
+"Straße 1",,,,way
+"Straße 2",,,,way
+"Straße 2 Ost",,,,way
+"Straße 3",,,,way
+"Straße 3 Ost",,,,way
+"Straße 4",,,,way
+"Straße 5",,,,way
+"Straße E",,,,way
 Straßfeldweg,,,,way
 "Straßl ins Holz",,,,way
 "Straßlacher Straße",,,,way
@@ -5035,6 +5054,7 @@ Tagetesstraße,,,,way
 Taimerhofstraße,,,,way
 Tal,,,,way
 Talerweg,,,,way
+Tandlergasse,,,,way
 Tannenfleckweg,,,,way
 Tannenwaldstraße,,,,way
 Tannenweg,,,,way
@@ -5554,6 +5574,7 @@ Winterstraße,,,,way
 Winthirplatz,,,,way
 Winthirstraße,,,,way
 Wirtsbreite,,,,way
+Wirtsbudenstraße,,,,way
 Wirtschaftshof,,,,way
 Wirtstraße,,,,way
 Wißmannstraße,,,,way
