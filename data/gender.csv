@@ -1,5 +1,7 @@
 name,source,gender,wikidata,type
 Agnes-Bernauer-Straße,config+wikidata,?,Q76443,way
+Donnersbergerbrücke,wikidata,?,Q27885336;Q61450,way
+Rupprechtstraße,wikidata,?,Q44893;Q64140351,way
 Adams-Lehmann-Straße,wikidata,F,Q448583,way
 Adelgundenstraße,wikidata,F,Q61234,way
 Adelheidstraße,wikidata,F,Q242928,way
@@ -29,10 +31,12 @@ Elisabeth-Mann-Borgese-Straße,wikidata,F,Q71819,way
 Elisabethplatz,wikidata,F,Q150782,way
 Elisabethstraße,wikidata,F,Q150782,way
 Ellis-Kaut-Straße,wikidata,F,Q106391,way
+Elvirastraße,wikidata,F,Q2327271,way
 Emma-Ihrer-Straße,wikidata,F,Q108635,way
 Erika-Cremer-Straße,wikidata,F,Q106671,way
 Erika-Mann-Straße,wikidata,F,Q61597,way
 Franziska-Bilek-Weg,wikidata,F,Q1450088,way
+Gabrielenstraße,wikidata,F,Q61450,way
 Gertrud-Bäumer-Straße,wikidata,F,Q71416,way
 Giselastraße,wikidata,F,Q231871,way
 Grete-Mosheim-Straße,wikidata,F,Q91872,way
@@ -50,9 +54,11 @@ Isabellastraße,wikidata,F,Q62994,way
 Karolinenplatz,wikidata,F,Q170195,way
 Katharina-von-Bora-Straße,wikidata,F,Q77239,way
 Kathi-Kobus-Straße,wikidata,F,Q20752129,way
+Klarastraße,wikidata,F,Q64140351,way
 Kollwitzstraße,wikidata,F,Q142472,way
 Lena-Christ-Straße,wikidata,F,Q77925,way
 Liesl-Karlstadt-Straße,wikidata,F,Q106393,way
+Lilli-Palmer-Straße,wikidata,F,Q60953,way
 Lillian-Board-Weg,wikidata,F,Q261948,way
 Lilly-Reich-Straße,wikidata,F,Q64648,way
 Lina-Meittinger-Straße,wikidata,F,Q1737292,way
@@ -61,6 +67,7 @@ Lissi-Kaeser-Straße,wikidata,F,Q1330029,way
 Lucile-Grahn-Straße,wikidata,F,Q272482,way
 Ludmillastraße,wikidata,F,Q462661,way
 Luise-Kiesselbach-Tunnel,wikidata,F,Q1876627,way
+Luise-Ullrich-Straße,wikidata,F,Q86572,way
 Luisenstraße,wikidata,F,Q57531,way
 Magdalena-Schwarz-Straße,wikidata,F,Q1883813,way
 Margarethe-Selenka-Straße,wikidata,F,Q85253,way
@@ -193,7 +200,6 @@ Dollmannstraße,wikidata,M,Q77138,way
 Domagkstraße,wikidata,M,Q57192,way
 Dominik-Brunner-Weg,wikidata,M,Q106062,way
 Dominikusplatz,wikidata,M,Q44091,way
-Donnersbergerbrücke,wikidata,M,Q27885336,way
 Donnersbergerstraße,wikidata,M,Q27885336,way
 Dostlerstraße,wikidata,M,Q5340463,way
 Dr.-Schweninger-Straße,wikidata,M,Q71089,way
@@ -512,6 +518,7 @@ Prinzregentenstraße,wikidata,M,Q44785,way
 Professor-Huber-Platz,wikidata,M,Q57812,way
 Queristraße,wikidata,M,Q43822,way
 Radlkoferstraße,wikidata,M,Q1679295,way
+Rainer-Werner-Fassbinder-Platz,wikidata,M,Q44426,way
 Rambergstraße,wikidata,M,Q712240,way
 Rankestraße,wikidata,M,Q77184,way
 Rathenaustraße,wikidata,M,Q135645,way
@@ -537,7 +544,6 @@ Rudolf-Harbig-Weg,wikidata,M,Q712535,way
 Rümannstraße,wikidata,M,Q2576027,way
 Rupert-Mayer-Straße,wikidata,M,Q45283,way
 Rupert-Stöckl-Platz,wikidata,M,Q1405336,way
-Rupprechtstraße,wikidata,M,Q44893,way
 Sammy-Drechsel-Straße,wikidata,M,Q100247,way
 Sandrartstraße,wikidata,M,Q551624,way
 Sandtnerstraße,wikidata,M,Q1526486,way
@@ -620,6 +626,7 @@ Walter-Scott-Straße,wikidata,M,Q79025,way
 Walther-Bathe-Weg,wikidata,M,Q569917,way
 Wegenerstraße,wikidata,M,Q76323,way
 Wehnerstraße,wikidata,M,Q596506,way
+Weiglstraße,wikidata,M,Q78798,way
 Weingartnerstraße,wikidata,M,Q316920,way
 Weiß-Ferdl-Straße,wikidata,M,Q43826,way
 Wenzelstraße,wikidata,M,Q196527,way
