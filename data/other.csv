@@ -125,6 +125,7 @@ Helenenstraße,wikidata,,Q971710,way
 Helgastraße,wikidata,,Q1035107,way
 Helsinkistraße,wikidata,,Q1757,way
 Hererostraße,wikidata,,Q170088,way
+Hirschgarten,wikidata,,Q23390,way
 "Hofer Straße",wikidata,,Q6938,way
 Hohenstaufenstraße,wikidata,,Q130875,way
 "Hohenwarter Straße",wikidata,,Q489217,way
@@ -698,6 +699,7 @@ Aubing-Ost-Straße,,,,way
 "Aubinger Allee",,,,way
 "Aubinger Geschichtspfad",,,,way
 "Aubinger Straße",,,,way
+"Aubinger Weg",,,,way
 Aubinger-Loh-Weg,,,,way
 Auenbruggerstraße,,,,way
 Auenstraße,,,,way
@@ -1037,6 +1039,7 @@ Brockesstraße,,,,way
 Brodersenstraße,,,,way
 Brodstraße,,,,way
 "Bromberger Straße",,,,way
+Brotway,,,,way
 Bruchwegerl,,,,way
 Bruckenfischerstraße,,,,way
 Brückestraße,,,,way
@@ -1822,7 +1825,6 @@ Georg-Habel-Straße,,,,way
 Georg-Hager-Straße,,,,way
 Georg-Hallmaier-Straße,,,,way
 Georg-Hann-Straße,,,,way
-Georg-Hirth-Platz,,,,way
 Georg-Jais-Straße,,,,way
 Georg-Kainz-Straße,,,,way
 Georg-Kirmair-Gasse,,,,way
@@ -2377,7 +2379,6 @@ Hirnerstraße,,,,way
 Hirsch-Gereuth-Straße,,,,way
 "Hirschauer Straße",,,,way
 Hirschbergstraße,,,,way
-Hirschgarten,,,,way
 Hirschgartenallee,,,,way
 Hirschkäferweg,,,,way
 Hirschstraße,,,,way
@@ -4254,7 +4255,6 @@ Richard-Riemerschmid-Allee,,,,way
 Richard-Seewald-Bogen,,,,way
 Richard-Tauber-Straße,,,,way
 Richardstraße,,,,way
-Richelstraße,,,,way
 Richildenstraße,,,,way
 "Rid Passage",,,,way
 Riedelsteg,,,,way
@@ -4510,8 +4510,6 @@ Scharfreiterplatz,,,,way
 Scharfreiterstraße,,,,way
 Scharfzantweg,,,,way
 Scharinenbachstraße,,,,way
-Schäringerplatz,,,,way
-Schäringerstraße,,,,way
 Scharnhorststraße,,,,way
 Scharnitzstraße,,,,way
 "Schäßburger Straße",,,,way
@@ -4979,11 +4977,15 @@ Stösserstraße,,,,way
 Stradellastraße,,,,way
 "Strahlenfelser Straße",,,,way
 Strähuberstraße,,,,way
+"Straße 0 West",,,,way
 "Straße 1",,,,way
+"Straße 1 West",,,,way
 "Straße 2",,,,way
 "Straße 2 Ost",,,,way
+"Straße 2 West",,,,way
 "Straße 3",,,,way
 "Straße 3 Ost",,,,way
+"Straße 3 West",,,,way
 "Straße 4",,,,way
 "Straße 5",,,,way
 "Straße E",,,,way
