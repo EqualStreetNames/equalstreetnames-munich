@@ -236,6 +236,7 @@ Rotkreuzplatz,wikidata,,Q1805959;Q7178,relation+way
 Rottstraße,wikidata,,Q558735,way
 Rübezahlstraße,wikidata,,Q1778735,way
 Rumpelstilzchenstraße,wikidata,,Q322188,way
+Rundfunkplatz,wikidata,,Q278637,way
 Saarstraße,wikidata,,Q153972,way
 Saint-Privat-Straße,wikidata,,Q155247,way
 Samoastraße,wikidata,,Q701025,way
@@ -255,6 +256,7 @@ Schwarzspechtstraße,wikidata,,Q143284,way
 Schwere-Reiter-Straße,wikidata,,Q1660893,way
 "Seeshaupter Straße",wikidata,,Q518061,way
 "Sendlinger Straße",wikidata,,Q262879,way
+Sendlinger-Tor-Platz,wikidata,,Q254394,relation+way
 Silberhornstraße,wikidata,,Q82662,way
 Silvrettaweg,wikidata,,Q123180,way
 Simmernstraße,wikidata,,Q275636,way
@@ -1819,7 +1821,6 @@ General-Kalb-Weg,,,,way
 Georg-Angermair-Straße,,,,way
 Georg-Böhmer-Straße,,,,way
 Georg-Deschler-Platz,,,,way
-Georg-Freundorfer-Platz,,,,way
 Georg-Gradel-Weg,,,,way
 Georg-Habel-Straße,,,,way
 Georg-Hager-Straße,,,,way
@@ -2266,7 +2267,6 @@ Heinrich-Stieglitz-Kehre,,,,way
 Heinrich-Vogl-Straße,,,,way
 Heinrich-Wieland-Straße,,,,way
 Heinrich-Zisch-Weg,,,,way
-Heinz-Goerke-Straße,,,,way
 Heinz-Hilpert-Straße,,,,way
 Heißstraße,,,,way
 "Heiterwanger Straße",,,,way
@@ -3362,7 +3362,6 @@ Marbachstraße,,,,way
 Märchenweg,,,,way
 Marchgrabenplatz,,,,way
 Marchgrabenweg,,,,way
-Marchioninistraße,,,,way
 Marderstraße,,,,way
 Mareesstraße,,,,way
 Margarete-Kliemann-Weg,,,,way
@@ -4169,7 +4168,7 @@ Rappenweg,,,,way
 "Rappoltsteiner Straße",,,,way
 Raritätengasse,,,,way
 Rassogasse,,,,way
-"Raststätte Pippinger Flur Süd",,,,way
+"Raststätte Pippinger Flur",,,,way
 Rathausgasse,,,,way
 Rathgeberstraße,,,,way
 Rathochstraße,,,,way
@@ -4395,7 +4394,6 @@ Ruhestraße,,,,way
 "Ruhpoldinger Straße",,,,way
 Rümelinstraße,,,,way
 Rumfordstraße,,,,way
-Rundfunkplatz,,,,way
 Rungestraße,,,,way
 Rupert-Bodner-Straße,,,,way
 Rupertigaustraße,,,,way
@@ -4748,7 +4746,6 @@ Semmeringstraße,,,,way
 Semperstraße,,,,way
 "Sendlinger Feldweg",,,,way
 "Sendlinger Kirchplatz",,,,way
-Sendlinger-Tor-Platz,,,,relation+way
 Senefelderstraße,,,,way
 Senftenauerweg,,,,way
 Senftlstraße,,,,way
