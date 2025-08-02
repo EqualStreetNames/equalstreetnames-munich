@@ -112,6 +112,7 @@ Adamstraße,wikidata,M,Q723297,way
 Ainmillerstraße,wikidata,M,Q571009,way
 Albanistraße,wikidata,M,Q358147,way
 Aldegreverstraße,wikidata,M,Q62514,way
+Alexander-Miklósy-Weg,wikidata,M,Q113028089,way
 Alfred-Arndt-Straße,wikidata,M,Q91895,way
 Alfred-Drexel-Straße,wikidata,M,Q99674298,way
 Alpenveilchenstraße,wikidata,M,Q60808,way
@@ -164,6 +165,7 @@ Brunnerstraße,wikidata,M,Q15549957,way
 Bruno-Hofer-Platz,wikidata,M,Q87463,way
 Buhlstraße,wikidata,M,Q5589685,way
 Burgkmairstraße,wikidata,M,Q313163,way
+Camerloherstraße,config+wikidata,M,Q2487,way
 Candidplatz,wikidata,M,Q315803,relation
 Candidstraße,wikidata,M,Q315803,way
 Candidtunnel,wikidata,M,Q315803,way
@@ -215,6 +217,7 @@ Eduard-Schmid-Straße,wikidata,M,Q1289813,way
 Effnerstraße,wikidata,M,Q68157,way
 Einsteinstraße,wikidata,M,Q937,way
 Emanuelstraße,wikidata,M,Q62280,way
+Emil-Muhler-Torweg,wikidata,M,Q1336569,way
 Enhuberstraße,wikidata,M,Q878141,way
 Enzenspergerstraße,wikidata,M,Q102242,way
 Erich-Kaiser-Weg,wikidata,M,Q5897404,way
@@ -325,7 +328,7 @@ Herbert-Bayer-Straße,wikidata,M,Q213637,way
 Herzog-Heinrich-Brücke,wikidata,M,Q105378;Q1615207,way
 Herzog-Heinrich-Straße,wikidata,M,Q105378,way
 Herzogstraße,wikidata,M,Q62280,way
-Heßstraße,wikidata,M,Q76135,way
+Heßstraße,wikidata,M,Q388523;Q319140;Q76135,way
 Hildeboldstraße,wikidata,M,Q1618902,way
 Hilgerstraße,wikidata,M,Q1675562,way
 Hiltenspergerstraße,wikidata,M,Q316506,way
@@ -389,6 +392,7 @@ Konradinstraße,wikidata,M,Q158246,way
 Konradstraße,wikidata,M,Q66561,way
 Korbinianplatz,wikidata,M,Q560646,way
 Korbinianstraße,wikidata,M,Q560646,way
+Körnerstraße,wikidata,M,Q62344,way
 Kothieringerstraße,wikidata,M,Q99531899,way
 Kraepelinstraße,wikidata,M,Q76828,way
 Krumbacherstraße,wikidata,M,Q61463,way
@@ -409,6 +413,7 @@ Leonhard-Frank-Straße,wikidata,M,Q77069,way
 Leopoldstraße,wikidata,M,Q61015,way
 Leuchtenbergring,wikidata,M,Q155545,way
 Lieberweg,wikidata,M,Q77906,way
+Lindwurmstraße,wikidata,M,Q97776,way
 Linprunstraße,wikidata,M,Q1693803,way
 Lintnerweg,wikidata,M,Q1732170,way
 Linus-Pauling-Straße,wikidata,M,Q48983,way
@@ -502,6 +507,7 @@ Pembaurstraße,wikidata,M,Q1707804,way
 Perfallstraße,wikidata,M,Q1733655,way
 Permanederstraße,wikidata,M,Q105108,way
 Peslmüllerstraße,wikidata,M,Q1555346,way
+Pestalozzistraße,wikidata,M,Q105428,way
 Pettenkoferstraße,wikidata,M,Q44993,way
 Pfeuferstraße,wikidata,M,Q2285039,way
 Pfistermeisterstraße,wikidata,M,Q112968,way
@@ -526,6 +532,7 @@ Rambergstraße,wikidata,M,Q712240,way
 Rankestraße,wikidata,M,Q77184,way
 Rathenaustraße,wikidata,M,Q135645,way
 Reichenbachbrücke,wikidata,M,Q69736,way
+Reichenbachstraße,wikidata,M,Q69736,way
 Reicherstorfferweg,wikidata,M,Q969637,way
 Reithmannstraße,wikidata,M,Q113086,way
 Rembrandtstraße,wikidata,M,Q5598,way
@@ -563,6 +570,7 @@ Schedelstraße,wikidata,M,Q58768,way
 Scheidplatz,wikidata,M,Q25918130,way
 Schellingstraße,wikidata,M,Q60070,way
 Schenkendorfstraße,wikidata,M,Q71616,way
+Scheurlinstraße,wikidata,M,Q1505858,way
 Schikanederstraße,wikidata,M,Q213547,way
 Schillerstraße,wikidata,M,Q22670,way
 Schiltbergerstraße,wikidata,M,Q1698343,way
@@ -726,7 +734,6 @@ Berchemstraße,config,M,,way
 Bertholdstraße,config,M,,way
 Bummstraße,config,M,,way
 Byecherstraße,config,M,,way
-Camerloherstraße,config,M,,way
 Chorherrstraße,config,M,,way
 Dolleschelstraße,config,M,,way
 Egetterstraße,config,M,,way

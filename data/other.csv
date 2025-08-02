@@ -7,6 +7,7 @@ Aidenbachstraße,wikidata,,Q254501,way
 "Allgäuer Straße",wikidata,,Q169276,way
 "Am Bavariapark",wikidata,,Q707669,relation+way
 "Am Birkicht",wikidata,,Q4421,way
+"Am Einlaß",wikidata,,Q1308304,way
 "Am Hochstand",wikidata,,Q26897148,way
 Amalienburgstraße,wikidata,,Q2413504,way
 Ammerlandstraße,wikidata,,Q19834503,way
@@ -82,6 +83,7 @@ Ernastraße,wikidata,,Q599668,way
 Eulenspiegelstraße,wikidata,,Q164083,way
 Fallmerayerstraße,wikidata,,Q88663044,way
 "Feldafinger Platz",wikidata,,Q507424,way
+Flauchersteg,wikidata,,Q1427439,way
 "Flintsbacher Straße",wikidata,,Q532824,way
 Florastraße,wikidata,,Q7904948,way
 "Föhringer Ring",wikidata,,Q267408,way
@@ -161,6 +163,7 @@ Königsseestraße,wikidata,,Q156715,way
 Kopenhagenstraße,wikidata,,Q1748,way
 Kormoranweg,wikidata,,Q25440,way
 "Kössener Straße",wikidata,,Q665534,way
+"Kraillinger Weg",wikidata,,Q530780,way
 Kranichweg,wikidata,,Q4764,way
 Kreittmayrstraße,wikidata,,Q27583996,way
 Kyivstraße,wikidata,,Q1899,way
@@ -240,6 +243,7 @@ Rundfunkplatz,wikidata,,Q278637,way
 Saarstraße,wikidata,,Q153972,way
 Saint-Privat-Straße,wikidata,,Q155247,way
 Samoastraße,wikidata,,Q701025,way
+Sankt-Anna-Platz,wikidata,,Q318804,way
 Sankt-Emmeram-Brücke,wikidata,,Q2318117,way
 Sankt-Ulrich-Straße,wikidata,,Q63826392,way
 Sansibarstraße,wikidata,,Q706541,way
@@ -314,6 +318,7 @@ Wimbachtalstraße,wikidata,,Q1695316,way
 "Wimpfener Straße",wikidata,,Q491535,way
 "Windhuker Straße",wikidata,,Q3935,way
 Wittelsbacherplatz,wikidata,,Q131621,way
+Wittelsbacherstraße,wikidata,,Q131621,way
 "Wolfratshauser Straße",wikidata,,Q503160,way
 "Wormser Straße",wikidata,,Q3852,way
 Wörthstraße,wikidata,,Q528465,way
@@ -398,7 +403,6 @@ Albrechtstraße,,,,way
 Aldrianstraße,,,,way
 Aldringenstraße,,,,way
 Alemannenstraße,,,,way
-Alexander-Miklósy-Weg,,,,way
 Alexandrastraße,,,,way
 Alexisweg,,,,way
 Alfons-Goppel-Straße,,,,way
@@ -475,7 +479,6 @@ Alzstraße,,,,way
 "Am Brombeerschlag",,,,way
 "Am Durchblick",,,,way
 "Am Eicherhof",,,,way
-"Am Einlaß",,,,way
 "Am Eisbach",,,,way
 "Am Eisfeld",,,,way
 "Am Erdbeerschlag",,,,way
@@ -690,6 +693,7 @@ Asmarstraße,,,,way
 Asperstraße,,,,way
 Astallerstraße,,,,way
 Asternstraße,,,,way
+Asternweg,,,,way
 "Aßlinger Straße",,,,way
 Atelierstraße,,,,way
 "Athener Platz",,,,way
@@ -1170,6 +1174,7 @@ Dachsteinstraße,,,,way
 "Daglfinger Platz",,,,way
 "Daglfinger Straße",,,,way
 Dahlienstraße,,,,way
+Dahlienweg,,,,way
 Daiserstraße,,,,way
 Dalandstraße,,,,way
 Dall'Armistraße,,,,way
@@ -1413,7 +1418,6 @@ Emdenstraße,,,,way
 Emersonstraße,,,,way
 Emil-Dittler-Straße,,,,way
 Emil-Geis-Straße,,,,way
-Emil-Muhler-Torweg,,,,way
 Emil-Neuburger-Straße,,,,way
 Emil-Nolde-Straße,,,,way
 Emil-Riedel-Straße,,,,way
@@ -1596,7 +1600,6 @@ Fischbachwiesenweg,,,,way
 Fischerweg,,,,way
 Fischlstraße,,,,way
 Flaschenträgerstraße,,,,way
-Flauchersteg,,,,way
 Flecklanger,,,,way
 Fleischerstraße,,,,way
 Fleischmannstraße,,,,way
@@ -1637,7 +1640,6 @@ Frankenwaldstraße,,,,way
 Frankplatz,,,,way
 Frans-Hals-Straße,,,,way
 Franz-Albert-Straße,,,,way
-Franz-Beckenbauer-Platz,,,,way
 Franz-Behringer-Weg,,,,way
 Franz-Eigl-Weg,,,,way
 Franz-Fackler-Straße,,,,way
@@ -1895,6 +1897,7 @@ Gleichmannstraße,,,,way
 Gleichplatz,,,,way
 Gleichweg,,,,way
 Gleimstraße,,,,way
+Gleisbett,,,,way
 Gleisweg,,,,way
 Gleißenbachstraße,,,,way
 Gleißmüllerstraße,,,,way
@@ -2743,6 +2746,7 @@ Karl-Arnold-Weg,,,,way
 Karl-Beck-Weg,,,,way
 Karl-Böhm-Weg,,,,way
 Karl-Breu-Weg,,,,way
+Karl-Bucher-Weg,,,,way
 Karl-Caspar-Weg,,,,way
 Karl-Dressel-Straße,,,,way
 Karl-Erb-Weg,,,,way
@@ -2944,14 +2948,12 @@ Korfiz-Holm-Straße,,,,way
 Korianderweg,,,,way
 Kornbergerweg,,,,way
 Kornblumenweg,,,,way
-Körnerstraße,,,,way
 Kornwegerstraße,,,,way
 Kosegartenplatz,,,,way
 Kraelerstraße,,,,way
 Kräheneckstraße,,,,way
 Krähenweg,,,,way
 "Kraiburger Straße",,,,way
-"Kraillinger Weg",,,,way
 Kramergaßl,,,,way
 Kranzhornstraße,,,,way
 Kratzerstraße,,,,way
@@ -3219,7 +3221,6 @@ Lindenstraße,,,,way
 Lindenweg,,,,way
 Linderhofstraße,,,,way
 Lindpaintnerstraße,,,,way
-Lindwurmstraße,,,,way
 Linkstraße,,,,way
 Linnenbrüggerstraße,,,,way
 Linus-Funke-Weg,,,,way
@@ -3945,7 +3946,6 @@ Perusahof,,,,way
 Perusapassage,,,,way
 Perusastraße,,,,way
 Peschelanger,,,,way
-Pestalozzistraße,,,,way
 Peter-Anders-Straße,,,,way
 Peter-Auzinger-Straße,,,,way
 Peter-Dörfler-Straße,,,,way
@@ -4101,6 +4101,7 @@ Preußenstraße,,,,way
 Preziosastraße,,,,way
 Prießnitzstraße,,,,way
 Primelstraße,,,,way
+Primelweg,,,,way
 Pringsheimstraße,,,,way
 Prinz-Carl-Brücke,,,,way
 Prinz-Konstantin-Straße,,,,way
@@ -4205,7 +4206,6 @@ Reichardtweg,,,,way
 Reiche-Weg,,,,way
 Reichenaustraße,,,,way
 Reichenbachplatz,,,,way
-Reichenbachstraße,,,,way
 Reichenbergstraße,,,,way
 "Reichenhaller Straße",,,,way
 "Reichersbeurer Straße",,,,way
@@ -4453,7 +4453,6 @@ Sandgrubenweg,,,,way
 Sandstraße,,,,way
 Sanierungsweg,,,,way
 "Sankt Emmeram",,,,way
-Sankt-Anna-Platz,,,,way
 Sankt-Anna-Straße,,,,way
 Sankt-Augustinus-Straße,,,,way
 Sankt-Bonifatius-Straße,,,,way
@@ -4531,7 +4530,6 @@ Schermannsweg,,,,way
 Scherrstraße,,,,way
 Schertlinstraße,,,,way
 Scherzerstraße,,,,way
-Scheurlinstraße,,,,way
 "Scheyerner Weg",,,,way
 Schichtlstraße,,,,way
 Schieggstraße,,,,way
@@ -5262,6 +5260,7 @@ Valleystraße,,,,way
 Van-Eyck-Straße,,,,way
 Van-Gogh-Straße,,,,way
 Vandalenstraße,,,,way
+Veilchenweg,,,,way
 Veit-Pogner-Straße,,,,way
 "Veitshöchheimer Weg",,,,way
 "Veldener Straße",,,,way
@@ -5570,7 +5569,6 @@ Wirtschaftshof,,,,way
 Wirtstraße,,,,way
 Wißmannstraße,,,,way
 Wittelsbacherbrücke,,,,way
-Wittelsbacherstraße,,,,way
 "Wittenberger Straße",,,,way
 Witzlebenstraße,,,,way
 Woferlstraße,,,,way
