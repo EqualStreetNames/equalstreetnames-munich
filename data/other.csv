@@ -208,7 +208,7 @@ Nixenweg,wikidata,,Q830493,way
 Oberseestraße,wikidata,,Q2010974,way
 "Oberstdorfer Straße",wikidata,,Q266230,way
 "Ödenstockacher Weg",wikidata,,Q1315253,way
-Odeonsplatz,wikidata,,Q587157,way
+Odeonsplatz,wikidata,,Q587157,relation+way
 "Oetztaler Straße",wikidata,,Q307456,way
 "Ofener Straße",wikidata,,Q193478,way
 Ortlerstraße,wikidata,,Q650695,way
@@ -939,6 +939,7 @@ Bichlhofweg,,,,way
 Bienenheimbrücke,,,,way
 Bienenheimstraße,,,,way
 Bienenweg,,,,way
+Bierführerweg,,,,way
 Bifangweg,,,,way
 Billrothstraße,,,,way
 "Bingener Straße",,,,way
@@ -988,6 +989,7 @@ Bocksdornstraße,,,,way
 Bodelschwinghstraße,,,,way
 Bodenehrstraße,,,,way
 Bodenschneidstraße,,,,way
+Bogenbrücke,,,,way
 Bogenstraße,,,,way
 Böglstraße,,,,way
 Bognerhofweg,,,,way
@@ -1131,6 +1133,7 @@ Cerebotanistraße,,,,way
 Chamissostraße,,,,way
 Charles-de-Gaulle-Straße,,,,way
 "Chemnitzer Platz",,,,way
+"Chevauleger Brücke",,,,way
 Chopinstraße,,,,way
 Christel-Küpper-Platz,,,,way
 Christel-Sembach-Krone-Straße,,,,way
@@ -1373,7 +1376,6 @@ Eifelstraße,,,,way
 Eigenhausstraße,,,,way
 Eigerstraße,,,,way
 "Eilles Passage",,,,way
-"Eingang Aussichtsturm",,,,way
 "Eingang Pädiatrie",,,,way
 Einhornallee,,,,way
 "Eininger Straße",,,,way
@@ -1453,7 +1455,6 @@ Erhard-Auer-Straße,,,,way
 Erhardtstraße,,,,way
 Eric-Voegelin-Weg,,,,way
 Erich-Giese-Straße,,,,way
-Erich-Mühsam-Platz,,,,way
 Erika-Fuchs-Weg,,,,way
 Erika-Köth-Straße,,,,way
 Erikastraße,,,,way
@@ -1487,7 +1488,6 @@ Eschenbachstraße,,,,way
 "Eschenloher Straße",,,,way
 "Eschenrieder Straße",,,,way
 Eschenstraße,,,,way
-Esebeckstraße,,,,way
 "Eslarner Straße",,,,way
 Esmarchstraße,,,,way
 Espenstraße,,,,way
@@ -2928,6 +2928,7 @@ Königsbauhof,,,,way
 "Königsdorfer Straße",,,,way
 Königsteinstraße,,,,way
 Königswarterstraße,,,,way
+Königswegerl,,,,way
 "Königswieser Straße",,,,way
 "Konitzer Straße",,,,way
 Konrad-Beyerle-Straße,,,,way
@@ -3716,6 +3717,7 @@ Nonnenhornstraße,,,,way
 "Norderneyer Straße",,,,way
 Nordhaideplatz,,,,relation
 "Nördliche Auffahrtsallee",,,,way
+"Nördliche Hochallee",,,,way
 "Nördliche Münchner Straße",,,,way
 "Nördliches Schloßrondell",,,,way
 Nordseestraße,,,,way
@@ -3733,6 +3735,7 @@ Nusselstraße,,,,way
 Nußbaumstraße,,,,way
 Nußhäherstraße,,,,way
 Nußstraße,,,,way
+Nymphenbrücke,,,,way
 O,,,,way
 Oberanger,,,,way
 Oberascherstraße,,,,way
@@ -3765,6 +3768,7 @@ Oberottl-Passage,,,,way
 Oberstjägermeisterweg,,,,way
 "Oberviechtacher Straße",,,,way
 "Obinger Straße",,,,way
+Ochsenweg,,,,way
 Öcklweg,,,,way
 Oderstraße,,,,way
 Odinstraße,,,,way
@@ -4042,7 +4046,6 @@ Platenstraße,,,,way
 Plattnerstraße,,,,way
 "Platz der Menschenrechte",,,,relation+way
 "Platz der Opfer des Nationalsozialismus",,,,way
-"Platz vor der Feldherrnhalle",,,,relation
 Platzl,,,,way
 Platzlgassen,,,,way
 Platzlpassagen,,,,way
@@ -4224,6 +4227,7 @@ Reisingerstraße,,,,way
 Reismühlenstraße,,,,way
 Reitknechtstraße,,,,way
 Reitmorstraße,,,,way
+Reitweg,,,,way
 Renatastraße,,,,way
 Renkenweg,,,,way
 Rennbahnstraße,,,,way
@@ -4875,6 +4879,7 @@ Sponeckstraße,,,,way
 Sporerstraße,,,,way
 Sportlerweg,,,,way
 Spreestraße,,,,way
+Sprengbrücke,,,,way
 Spretistraße,,,,way
 Springerstraße,,,,way
 Sprunerstraße,,,,way
@@ -5020,6 +5025,7 @@ Sudermann-Zentrum,,,,relation
 Sudermannallee,,,,way
 Sudetendeutschestraße,,,,way
 "Südliche Auffahrtsallee",,,,way
+"Südliche Hochallee",,,,way
 "Südliches Schloßrondell",,,,way
 Südparkallee,,,,way
 Suessenguth-Weg,,,,way
@@ -5104,6 +5110,7 @@ Theodorparkstraße,,,,way
 Therese-Wagner-Straße,,,,way
 Therese-Weg,,,,way
 Theresienweg,,,,way
+Theresienwiese,,,,way
 Thiereckstraße,,,,way
 "Thierlsteiner Straße",,,,way
 Thierschplatz,,,,relation+way
@@ -5288,6 +5295,7 @@ Viscardihof,,,,way
 Vogelanger,,,,way
 Vogelhartstraße,,,,way
 Vogelloh,,,,way
+Vogelweg,,,,way
 Vogelweideplatz,,,,way
 Vogelweidestraße,,,,way
 Voglerstraße,,,,way
@@ -5694,3 +5702,9 @@ Zwillingstraße,,,,way
 "Zwingenberger Straße",,,,way
 Zwingerstraße,,,,way
 Zypressenweg,,,,way
+"nördliche Schwanenbrücke",,,,way
+"oberer Parallelweg",,,,way
+"östlicher Pagodenburger Talweg",,,,way
+"südliche Schwanenbrücke",,,,way
+"unterer Parallelweg",,,,way
+"westlicher Pagodenburger Talweg",,,,way
