@@ -1,6 +1,373 @@
 name,source,gender,wikidata,type
+"Aachener Straße",wikidata,-,Q1017,way
+Adlerstraße,wikidata,-,Q2092297,way
+"Admonter Straße",wikidata,-,Q359324,way
+Agathenstraße,wikidata,-,Q18638496,way
+Aidenbachstraße,wikidata,-,Q254501,way
+"Allgäuer Straße",wikidata,-,Q169276,way
+"Am Ährenfeld",wikidata,-,Q1735182,way
+"Am Bavariapark",wikidata,-,Q707669,relation+way
+"Am Birkicht",wikidata,-,Q4421,way
+"Am Einlaß",wikidata,-,Q1308304,way
+"Am Hedernfeld",wikidata,-,Q1434232,way
+"Am Heidebruch",wikidata,-,Q1434232,way
+"Am Hochstand",wikidata,-,Q26897148,way
+"Am Kornacker",wikidata,-,Q1434232,way
+"Am Sommerfeld",wikidata,-,Q1434232,way
+"Am Stoppelfeld",wikidata,-,Q1434232,way
+"Am Waldspitz",wikidata,-,Q1434232,way
+"Am Wiesenbach",wikidata,-,Q1434232,way
+Amalienburgstraße,wikidata,-,Q2413504,way
+Ammerlandstraße,wikidata,-,Q19834503,way
+"An der Rehwiese",wikidata,-,Q1434232,way
+Anechostraße,wikidata,-,Q1018574,way
+"Ansbacher Straße",wikidata,-,Q14859,way
+"Appenzeller Straße",wikidata,-,Q67125,way
+"Argelsrieder Straße",wikidata,-,Q105838436,way
+Arnulfsteg,wikidata,-,Q697813,way
+Asamstraße,wikidata,-,Q778568,way
+Aschenbrödelstraße,wikidata,-,Q11841,way
+Askaripfad,wikidata,-,Q643745,way
+"Auf der Vogelwiese",wikidata,-,Q1434232,way
+"Bamberger Straße",wikidata,-,Q3936,way
+"Barmer Straße",wikidata,-,Q153974,way
+"Bartholomäer Straße",wikidata,-,Q176502,way
+"Basler Straße",wikidata,-,Q78,way
+Batschkastraße,wikidata,-,Q210300,way
+Bavariaring,wikidata,-,Q707669,way
+Bavariastraße,wikidata,-,Q707669,way
+Bayernplatz,wikidata,-,Q980,way
+Belfaststraße,wikidata,-,Q10686,way
+Belfortstraße,wikidata,-,Q171545,way
+Bellinzonastraße,wikidata,-,Q64044,way
+Berg-am-Laim-Straße,wikidata,-,Q533054,way
+"Berner Straße",wikidata,-,Q70,way
+Birkhahnweg,wikidata,-,Q865638,way
+Biterolfstraße,wikidata,-,Q54997275,way
+Bleßhuhnweg,wikidata,-,Q25376,way
+Blutenburgstraße,wikidata,-,Q702533,way
+"Böcksteiner Straße",wikidata,-,Q973185,way
+Bodenseestraße,wikidata,-,Q4127,way
+"Bonner Platz",wikidata,-,Q586,way
+"Bonner Straße",wikidata,-,Q586,way
+"Boschetsrieder Straße",wikidata,-,Q51915939,way
+"Bozener Straße",wikidata,-,Q6526,way
+"Bregenzer Straße",wikidata,-,Q1737,way
+Brennereistraße,wikidata,-,Q1251750,way
+"Brienner Straße",wikidata,-,Q498869,way
+Brudermühlbrücke,wikidata,-,Q992204,way
+Brudermühltunnel,wikidata,-,Q992204,way
+"Brunnthaler Weg",wikidata,-,Q251101,way
+"Buchendorfer Straße",wikidata,-,Q998274,way
+"Buchloer Straße",wikidata,-,Q265110,way
+Bussardweg,wikidata,-,Q235152,way
+Chammünsterstraße,wikidata,-,Q1775122,way
+Chiemgaustraße,wikidata,-,Q255289,way
+"Dachauer Straße",wikidata,-,Q573699,way
+Dar-es-Salaam-Straße,wikidata,-,Q1960,way
+Däumlingstraße,wikidata,-,Q20825873,way
+"Deidesheimer Straße",wikidata,-,Q22951,way
+Den-Haag-Straße,wikidata,-,Q36600,way
+Dietleibstraße,wikidata,-,Q1223285,way
+Dolomitenstraße,wikidata,-,Q1283,way
+Dompfaffweg,wikidata,-,Q25382,way
+Dornröschenstraße,wikidata,-,Q11824,way
+Dorotheenstraße,wikidata,-,Q909253,way
+Drosselbartstraße,wikidata,-,Q11856,way
+Drosselweg,wikidata,-,Q115661,way
+Drozzaweg,wikidata,-,Q12297005,way
+Dualastraße,wikidata,-,Q132830,way
+Dublinstraße,wikidata,-,Q1761,way
+"Düsseldorfer Straße",wikidata,-,Q1718,way
+Edeltraudstraße,wikidata,-,Q15106707,way
+Edinburghplatz,wikidata,-,Q23436,way
+Effnertunnel,wikidata,-,Q1296291,way
+Eichenstraße,wikidata,-,Q12004,way
+"Eichstätter Straße",wikidata,-,Q252772,way
+"Eisenacher Straße",wikidata,-,Q7070,way
+Eisvogelweg,wikidata,-,Q79915,way
+Elfenstraße,wikidata,-,Q174396,way
+Elfriedenstraße,wikidata,-,Q18327552,way
+"Elsässer Straße",wikidata,-,Q1142,way
+Emmastraße,wikidata,-,Q541194,way
+"Engadiner Straße",wikidata,-,Q22883,way
+"Englschalkinger Straße",wikidata,-,Q1342875,way
+Erlkönigstraße,wikidata,-,Q3056704,way
+Ernastraße,wikidata,-,Q599668,way
+Eulenspiegelstraße,wikidata,-,Q164083,way
+Fallmerayerstraße,wikidata,-,Q88663044,way
+"Feldafinger Platz",wikidata,-,Q507424,way
+Flauchersteg,wikidata,-,Q1427439,way
+"Flintsbacher Straße",wikidata,-,Q532824,way
+Florastraße,wikidata,-,Q7904948,way
+"Föhringer Ring",wikidata,-,Q267408,way
+Forst-Kasten-Allee,wikidata,-,Q32012250,way
+"Forstenrieder Allee",wikidata,-,Q51922314,way
+"Frankfurter Ring",wikidata,-,Q1794,way
+Frau-Holle-Straße,wikidata,-,Q115928055,way
+Frauenalplweg,wikidata,-,Q120248741,way
+"Freiburger Platz",wikidata,-,Q2833,way
+"Freisinger Landstraße",wikidata,-,Q6998,way
+"Friedberger Straße",wikidata,-,Q507194,way
+"Friedenheimer Straße",wikidata,-,Q1456665,way
+Friedenspromenade,wikidata,-,Q8736,way
+Funtenseestraße,wikidata,-,Q314939,way
+"Fürstenrieder Straße",wikidata,-,Q567568,way
+Gänselieselstraße,wikidata,-,Q1323636,way
+"Garmischer Straße",wikidata,-,Q127043,way
+Gatterburgstraße,wikidata,-,Q1527640,way
+"Gautinger Straße",wikidata,-,Q74057,way
+"Geisenbrunner Straße",wikidata,-,Q1498883,way
+"Geisenfelder Straße",wikidata,-,Q259795,way
+Gelbhofstraße,wikidata,-,Q131596,way
+"Gerner Brücke",wikidata,-,Q1514339,way
+Gertraudenstraße,wikidata,-,Q113624738,way
+Geschwister-Scholl-Platz,wikidata,-,Q566212,way
+"Gräfelfinger Straße",wikidata,-,Q504854,way
+"Graubündener Straße",wikidata,-,Q11925,way
+"Großfriedrichsburger Straße",wikidata,-,Q896065,way
+"Großhaderner Straße",wikidata,-,Q267576,way
+"Grünwalder Straße",wikidata,-,Q220090,way
+Habichtstraße,wikidata,-,Q25353,way
+Habsburgerstraße,wikidata,-,Q65968,way
+"Haderner Weg",wikidata,-,Q267364,way
+Haderunstraße,wikidata,-,Q267364,way
+"Hadorfer Straße",wikidata,-,Q30232481,way
+Häherweg,wikidata,-,Q10968813,way
+"Hanfelder Straße",wikidata,-,Q30239653,way
+Hararestraße,wikidata,-,Q3921,way
+Haslangstraße,wikidata,-,Q15814439,way
+"Hauzenberger Straße",wikidata,-,Q255888,way
+"Hechenwanger Weg",wikidata,-,Q1592893,way
+Heiglhofstraße,wikidata,-,Q41182487,way
+Heilwigstraße,wikidata,-,Q60777353,way
+Heinzelmännchenstraße,wikidata,-,Q537513,way
+Helenenstraße,wikidata,-,Q971710,way
+Helgastraße,wikidata,-,Q1035107,way
+Helsinkistraße,wikidata,-,Q1757,way
+Hererostraße,wikidata,-,Q170088,way
+Hirschgarten,wikidata,-,Q23390,way
+"Hofer Straße",wikidata,-,Q6938,way
+Hohenstaufenstraße,wikidata,-,Q130875,way
+"Hohenwarter Straße",wikidata,-,Q489217,way
+Hohenzollernplatz,wikidata,-,Q83969,relation+way
+Hohenzollernstraße,wikidata,-,Q83969,way
+Hosigaustraße,wikidata,-,Q536923,way
+Ilmmünsterstraße,wikidata,-,Q489250,way
+Iltisstraße,wikidata,-,Q30097,way
+Implerstraße,wikidata,-,Q1539843,way
+Ingeborgstraße,wikidata,-,Q656590,way
+"Ingolstädter Straße",wikidata,-,Q3004,way
+"Innsbrucker Ring",wikidata,-,Q1735,way
+Innsbrucker-Ring-Tunnel,wikidata,-,Q1664239,way
+Irmelastraße,wikidata,-,Q113240,way
+Isarring,wikidata,-,Q106588,way
+Isegrimstraße,wikidata,-,Q26271672,way
+Jagdhornstraße,wikidata,-,Q1678302,way
+"Kameruner Straße",wikidata,-,Q668294,way
+Karmeliterstraße,wikidata,-,Q1734046,way
+"Kärntner Platz",wikidata,-,Q37985,way
+Kathreinweg,wikidata,-,Q16277712,way
+"Kemptener Straße",wikidata,-,Q3994,way
+Kernbeißerweg,wikidata,-,Q174088,way
+Kibostraße,wikidata,-,Q1394606,way
+Kiebitzweg,wikidata,-,Q25392,way
+"Kiefersfeldener Straße",wikidata,-,Q509310,way
+Kirchwaldstraße,wikidata,-,Q1649279,way
+Kloster-Innichen-Straße,wikidata,-,Q956981,way
+Kloster-Seeon-Straße,wikidata,-,Q895731,way
+Klothildenstraße,wikidata,-,Q42423785,way
+"Kölner Platz",wikidata,-,Q365,way
+Königsplatz,wikidata,-,Q4389210,relation+way
+Königsseestraße,wikidata,-,Q156715,way
+Kopenhagenstraße,wikidata,-,Q1748,way
+Korianderweg,wikidata,-,Q41611,way
+Kormoranweg,wikidata,-,Q25440,way
+"Kössener Straße",wikidata,-,Q665534,way
+"Kraillinger Weg",wikidata,-,Q530780,way
+Kranichweg,wikidata,-,Q4764,way
+Kreittmayrstraße,wikidata,-,Q27583996,way
+Kyivstraße,wikidata,-,Q1899,way
+"Laimer Platz",wikidata,-,Q259879,way
+"Landsberger Straße",wikidata,-,Q494299,way
+Landschaftstraße,wikidata,-,Q28034096,way
+"Landshuter Allee",wikidata,-,Q3974,way
+Lechfeldstraße,wikidata,-,Q897240,way
+Leonistraße,wikidata,-,Q19825961,way
+"Leutstettener Straße",wikidata,-,Q1821672,way
+Lomeweg,wikidata,-,Q3792,way
+Londonstraße,wikidata,-,Q84,way
+Luganoweg,wikidata,-,Q7024,way
+"Machtlfinger Straße",wikidata,-,Q1551038,way
+"Mainzer Straße",wikidata,-,Q1720,way
+"Maisinger Platz",wikidata,-,Q1885870,way
+Mangfallplatz,wikidata,-,Q451263,relation+way
+Maria-Birnbaum-Straße,wikidata,-,Q19963757,way
+Marienklausensteg,wikidata,-,Q1659088,way
+Mattseestraße,wikidata,-,Q1600414,way
+Mauerseglerstraße,wikidata,-,Q25377,way
+Maxhofstraße,wikidata,-,Q51924419,way
+Meisenstraße,wikidata,-,Q168473,way
+"Mergentheimer Straße",wikidata,-,Q61942,way
+Merlinweg,wikidata,-,Q131918,way
+Mona-Lisa-Straße,wikidata,-,Q12418,way
+Mondseestraße,wikidata,-,Q378012,way
+"Moosacher Sankt-Martins-Platz",wikidata,-,Q436091;Q263163,way
+"Moosacher Straße",wikidata,-,Q263163,way
+Möwestraße,wikidata,-,Q3112866,way
+"Münsinger Straße",wikidata,-,Q532939,way
+Murtalstraße,wikidata,-,Q1684573,way
+"Nabburger Straße",wikidata,-,Q32171923,way
+Nailastraße,wikidata,-,Q503450,way
+"Neubeuerner Straße",wikidata,-,Q536363,way
+"Neurieder Straße",wikidata,-,Q259597,way
+"Neusatzer Straße",wikidata,-,Q55630,way
+Niederhedernstraße,wikidata,-,Q57799502,way
+Niobestraße,wikidata,-,Q213621,way
+Nixenweg,wikidata,-,Q830493,way
+"Nördlinger Straße",wikidata,-,Q489902,way
+"Nymphenburger Straße",wikidata,-,Q131631,way
+"Oberbrunner Straße",wikidata,-,Q2009235,way
+"Oberföhringer Straße",wikidata,-,Q1616865,way
+Oberseestraße,wikidata,-,Q2010974,way
+"Oberstdorfer Straße",wikidata,-,Q266230,way
+"Ödenstockacher Weg",wikidata,-,Q1315253,way
+Odeonsplatz,wikidata,-,Q587157,relation+way
+"Oetztaler Straße",wikidata,-,Q307456,way
+"Ofener Straße",wikidata,-,Q193478,way
+Ortlerstraße,wikidata,-,Q650695,way
+Oslostraße,wikidata,-,Q585,way
+Partnachplatz,wikidata,-,Q261895,way
+Pelkovenstraße,wikidata,-,Q59295049,way
+Petuelring,wikidata,-,Q2081296,way
+"Pfaffenhofener Platz",wikidata,-,Q490319,way
+Pfingstrosenstraße,wikidata,-,Q147105,way
+"Pippinger Straße",wikidata,-,Q18621194,way
+"Planegger Straße",wikidata,-,Q255796,way
+"Platz der Freiheit",wikidata,-,Q2979,way
+"Pöckinger Straße",wikidata,-,Q514747,way
+"Pörtschacher Straße",wikidata,-,Q875805,way
+"Possenhofener Straße",wikidata,-,Q559986,way
+Quendelweg,wikidata,-,Q131224,way
+"Radstädter Straße",wikidata,-,Q260950,way
+"Raublinger Straße",wikidata,-,Q538080,way
+Reginastraße,wikidata,-,Q656698,way
+Reiherweg,wikidata,-,Q3060012,way
+Rheinstraße,wikidata,-,Q584,way
+Ridlerstraße,wikidata,-,Q2151869,way
+Rosamundenstraße,wikidata,-,Q104290684,way
+"Rosenheimer Straße",wikidata,-,Q4007,way
+Rotfuchsweg,wikidata,-,Q8332,way
+Rotkäppchenplatz,wikidata,-,Q51029839,way
+Rotkäppchenstraße,wikidata,-,Q11838,way
+Rotkehlchenweg,wikidata,-,Q25334,way
+Rotkreuzplatz,wikidata,-,Q1805959;Q7178,relation+way
+Rottstraße,wikidata,-,Q558735,way
+Rübezahlstraße,wikidata,-,Q1778735,way
+Rumpelstilzchenstraße,wikidata,-,Q322188,way
+Rundfunkplatz,wikidata,-,Q278637,way
+Saarstraße,wikidata,-,Q153972,way
+Saint-Privat-Straße,wikidata,-,Q155247,way
+Samoastraße,wikidata,-,Q701025,way
+Sankt-Anna-Platz,wikidata,-,Q318804,way
+Sankt-Emmeram-Brücke,wikidata,-,Q2318117,way
+Sankt-Ulrich-Straße,wikidata,-,Q63826392,way
+Sansibarstraße,wikidata,-,Q706541,way
+"Schaffhauser Straße",wikidata,-,Q9009,way
+Schneefinkenweg,wikidata,-,Q499290,way
+Schneewittchenstraße,wikidata,-,Q14153484,way
+"Schönauer Weg",wikidata,-,Q503682,way
+"Schrobenhausener Straße",wikidata,-,Q504746,way
+Schwammerlweg,wikidata,-,Q764,way
+Schwanenweg,wikidata,-,Q34384,way
+Schwarzdornweg,wikidata,-,Q129018,way
+Schwarzenkopfstraße,wikidata,-,Q31521471,way
+Schwarzspechtstraße,wikidata,-,Q143284,way
+"Schweizer Platz",wikidata,-,Q39,relation
+Schwere-Reiter-Straße,wikidata,-,Q1660893,way
+"Seeshaupter Straße",wikidata,-,Q518061,way
+"Sendlinger Straße",wikidata,-,Q262879,way
+Sendlinger-Tor-Platz,wikidata,-,Q254394,relation+way
+Silberhornstraße,wikidata,-,Q82662,way
+Silvrettaweg,wikidata,-,Q123180,way
+Simmernstraße,wikidata,-,Q275636,way
+Sinti-Roma-Platz,wikidata,-,Q840648;Q8060,way
+Sofiastraße,wikidata,-,Q472,way
+Solalindenstraße,wikidata,-,Q77346,way
+"Sollner Straße",wikidata,-,Q2299008,way
+"Solothurner Straße",wikidata,-,Q11929,way
+Sperberstraße,wikidata,-,Q25380,way
+Spertentalstraße,wikidata,-,Q2309322,way
+"Speyerer Straße",wikidata,-,Q6829,way
+"Stadtlohner Straße",wikidata,-,Q200567,way
+"Starnberger Straße",wikidata,-,Q61936,way
+Stieglitzweg,wikidata,-,Q25418,way
+"Stockdorfer Straße",wikidata,-,Q1225691,way
+Stockholmstraße,wikidata,-,Q1754,way
+"Straubinger Straße",wikidata,-,Q7027,way
+"Südtiroler Straße",wikidata,-,Q15124,way
+"Swakopmunder Straße",wikidata,-,Q59698,way
+Taku-Fort-Straße,wikidata,-,Q548289,way
+Tangastraße,wikidata,-,Q152902,way
+Tannenwaldstraße,wikidata,-,Q1119242,way
+"Tegernseer Landstraße",wikidata,-,Q260130,way
+"Tessiner Straße",wikidata,-,Q12724,way
+"Thalkirchner Brücke",wikidata,-,Q51912577;Q264691,way
+Theatinerstraße,wikidata,-,Q1414924,way
+Thurgaustraße,wikidata,-,Q12713,way
+Thymianweg,wikidata,-,Q131224,way
+"Todtnauer Weg",wikidata,-,Q61665,way
+Togostraße,wikidata,-,Q161062,way
+Trappentreutunnel,wikidata,-,Q1742062,way
+"Traubinger Straße",wikidata,-,Q1558397,way
+"Tsingtauer Straße",wikidata,-,Q170322,way
+Türkenstraße,wikidata,-,Q2464483,way
+"Tuttlinger Straße",wikidata,-,Q15987,way
+"Unterbiberger Straße",wikidata,-,Q117191704,way
+"Unterbrunner Straße",wikidata,-,Q337387,way
+"Unterhachinger Straße",wikidata,-,Q264899,way
+Uriweg,wikidata,-,Q12404,way
+Vallettastraße,wikidata,-,Q23800,way
+Veilchenstraße,wikidata,-,Q146095,way
+Veronastraße,wikidata,-,Q2028,way
+Veronikastraße,wikidata,-,Q18218258,way
+Viktualienmarkt,wikidata,-,Q2524596,relation+way
+Vogesenstraße,wikidata,-,Q187843,way
+"Vohburger Straße",wikidata,-,Q251778,way
+Wachtelweg,wikidata,-,Q28358,way
+Waldhüterstraße,wikidata,-,Q16632551,way
+"Waldtruderinger Straße",wikidata,-,Q28380978,way
+Waldwiesenstraße,wikidata,-,Q4421;Q7777019,way
+"Walliser Straße",wikidata,-,Q834,way
+"Wasserburger Landstraße",wikidata,-,Q259617,way
+Waterbergstraße,wikidata,-,Q3613322,way
+"Weidener Straße",wikidata,-,Q14803,way
+Westendstraße,wikidata,-,Q166011,way
+"Weßlinger Straße",wikidata,-,Q536419,way
+Wildtaubenweg,wikidata,-,Q10856,way
+Wilhelm-Tell-Straße,wikidata,-,Q30908,way
+Wimbachtalstraße,wikidata,-,Q1695316,way
+"Wimpfener Straße",wikidata,-,Q491535,way
+"Windhuker Straße",wikidata,-,Q3935,way
+Wittelsbacherplatz,wikidata,-,Q131621,way
+Wittelsbacherstraße,wikidata,-,Q131621,way
+"Wolfratshauser Straße",wikidata,-,Q503160,way
+"Wormser Straße",wikidata,-,Q3852,way
+Wörthstraße,wikidata,-,Q528465,way
+Wotanstraße,wikidata,-,Q43610,way
+Würmseeplatz,wikidata,-,Q131615,way
+Würmseestraße,wikidata,-,Q131615,way
+Würmtalstraße,wikidata,-,Q59643641,way
+Zauberwaldstraße,wikidata,-,Q148494,way
+Zaunkönigweg,wikidata,-,Q25740,way
+Zeisigweg,wikidata,-,Q5261336,way
+Zillertalstraße,wikidata,-,Q203139,way
+"Zuger Straße",wikidata,-,Q11933,way
+"Züricher Straße",wikidata,-,Q72,way
 Agnes-Bernauer-Straße,config+wikidata,?,Q76443,way
+Camerloherstraße,config+wikidata,?,Q2487,way
 Donnersbergerbrücke,wikidata,?,Q27885336;Q61450,way
+Herzog-Heinrich-Brücke,wikidata,?,Q105378;Q1615207,way
 Rupprechtstraße,wikidata,?,Q44893;Q64140351,way
 Adams-Lehmann-Straße,wikidata,F,Q448583,way
 Adelgundenstraße,wikidata,F,Q61234,way
@@ -28,6 +395,7 @@ Elisabeth-Castonier-Platz,wikidata,F,Q96343,way
 Elisabeth-Dane-Straße,wikidata,F,Q30093205,way
 Elisabeth-Kohn-Straße,wikidata,F,Q1330061,way
 Elisabeth-Mann-Borgese-Straße,wikidata,F,Q71819,way
+Elisabeth-Stoeber-Straße,wikidata,F,Q127958125,way
 Elisabethplatz,wikidata,F,Q150782,way
 Elisabethstraße,wikidata,F,Q150782,way
 Ellis-Kaut-Straße,wikidata,F,Q106391,way
@@ -42,6 +410,7 @@ Giselastraße,wikidata,F,Q231871,way
 Grete-Mosheim-Straße,wikidata,F,Q91872,way
 Günderodestraße,wikidata,F,Q62053,way
 Gunta-Stölzl-Straße,wikidata,F,Q73085,way
+Hanna-Kirchner-Weg,wikidata,F,Q87358,way
 Heimburgstraße,wikidata,F,Q75922,way
 Helene-Mayer-Ring,wikidata,F,Q61006,way
 Helene-Weber-Allee,wikidata,F,Q95851,way
@@ -49,6 +418,7 @@ Hildegard-von-Bingen-Anger,wikidata,F,Q70991,way
 Ida-Schumacher-Weg,wikidata,F,Q125887,way
 Ilse-Weber-Straße,wikidata,F,Q435131,way
 Imma-Mack-Weg,wikidata,F,Q1895982,way
+Immastraße,wikidata,F,Q136167879,way
 Ingeborg-Bachmann-Straße,wikidata,F,Q78506,way
 Isabellastraße,wikidata,F,Q62994,way
 Karolinenplatz,wikidata,F,Q170195,way
@@ -100,6 +470,7 @@ Therese-Giehse-Allee,wikidata,F,Q69638,way
 Therese-von-Bayern-Straße,wikidata,F,Q68918,way
 Theresienhöhe,wikidata,F,Q233198,way
 Theresienstraße,wikidata,F,Q233198,way
+Thusnelda-Lang-Brumann-Straße,wikidata,F,Q1389038,way
 Thusneldastraße,wikidata,F,Q242382,way
 Viebigplatz,wikidata,F,Q71465,way
 Viktoriaplatz,wikidata,F,Q116728,way
@@ -134,6 +505,7 @@ Balticusstraße,wikidata,M,Q1585429,way
 Barlachstraße,wikidata,M,Q156890,way
 Barnabasstraße,wikidata,M,Q2508483,way
 Bastianweg,wikidata,M,Q58793,way
+Batzerstraße,wikidata,M,Q136297369,way
 Bauerstraße,wikidata,M,Q1670917,way
 Baumgartnerstraße,wikidata,M,Q94763422,way
 Becherstraße,wikidata,M,Q60808,way
@@ -165,7 +537,7 @@ Brunnerstraße,wikidata,M,Q15549957,way
 Bruno-Hofer-Platz,wikidata,M,Q87463,way
 Buhlstraße,wikidata,M,Q5589685,way
 Burgkmairstraße,wikidata,M,Q313163,way
-Camerloherstraße,config+wikidata,M,Q2487,way
+Butenandtstraße,wikidata,M,Q5327,way
 Candidplatz,wikidata,M,Q315803,relation
 Candidstraße,wikidata,M,Q315803,way
 Candidtunnel,wikidata,M,Q315803,way
@@ -230,6 +602,7 @@ Ernst-Schneider-Weg,wikidata,M,Q1360125,way
 Erwin-Schleich-Straße,wikidata,M,Q1363416,way
 Erwin-von-Steinbach-Weg,wikidata,M,Q68243,way
 Esebeckstraße,wikidata,M,Q1693620,way
+Ettenhoferstraße,wikidata,M,Q1693814,way
 Ettenhueberstraße,wikidata,M,Q1661201,way
 Ettstraße,wikidata,M,Q74632,way
 Eulerstraße,wikidata,M,Q7604,way
@@ -238,6 +611,7 @@ Farinellistraße,wikidata,M,Q223744,way
 Fauststraße,wikidata,M,Q76918,way
 Feilitzschstraße,wikidata,M,Q1914135,way
 Felix-Fechenbach-Bogen,wikidata,M,Q96743,way
+Feodor-Lynen-Straße,wikidata,M,Q44597,way
 Ferdinand-Miller-Platz,wikidata,M,Q95737,way
 Feserstraße,wikidata,M,Q1693434,way
 Fischartstraße,wikidata,M,Q69303,way
@@ -247,6 +621,7 @@ Fouquéstraße,wikidata,M,Q77371,way
 Franz-Heubl-Straße,wikidata,M,Q1447216,way
 Franz-Josef-Strauß-Ring,wikidata,M,Q44620,way
 Franz-Joseph-Straße,wikidata,M,Q51056,way
+Franz-Kendler-Straße,wikidata,M,Q136171121,way
 Franz-Metzner-Straße,wikidata,M,Q1448270,way
 Franz-Xaver-Schweyer-Straße,wikidata,M,Q1246557,way
 Frauenstädtstraße,wikidata,M,Q87866,way
@@ -313,6 +688,7 @@ Hans-Klein-Straße,wikidata,M,Q90844,way
 Hans-Mielich-Platz,wikidata,M,Q553186,way
 Hans-Mielich-Straße,wikidata,M,Q553186,way
 Hans-Thonauer-Straße,wikidata,M,Q630831,way
+Haseneystraße,wikidata,M,Q78171,way
 Haunerstraße,wikidata,M,Q105134,way
 Hauttmannweg,wikidata,M,Q55842855,way
 Heckenstallerstraße,wikidata,M,Q1726544,way
@@ -324,10 +700,10 @@ Heinrich-Heine-Straße,wikidata,M,Q44403,way
 Heinz-Goerke-Straße,wikidata,M,Q5762480,way
 Heisenbergstraße,wikidata,M,Q72885,way
 Helmholtzstraße,wikidata,M,Q109501,way
+Helmstädtstraße,wikidata,M,Q136297875,way
 Helmut-Fischer-Platz,wikidata,M,Q45542,way
 Helmut-Schmidt-Allee,wikidata,M,Q2516,way
 Herbert-Bayer-Straße,wikidata,M,Q213637,way
-Herzog-Heinrich-Brücke,wikidata,M,Q105378;Q1615207,way
 Herzog-Heinrich-Straße,wikidata,M,Q105378,way
 Herzogstraße,wikidata,M,Q62280,way
 Heßstraße,wikidata,M,Q388523;Q319140;Q76135,way
@@ -427,7 +803,9 @@ Ludlstraße,wikidata,M,Q24451184,way
 Ludwig-Erhard-Allee,wikidata,M,Q2496,way
 Ludwig-Ferdinand-Brücke,wikidata,M,Q62263,way
 Ludwig-Hilberseimer-Straße,wikidata,M,Q62598,way
+Ludwig-Hunger-Straße,wikidata,M,Q136289343,way
 Ludwig-Richter-Straße,wikidata,M,Q551896,way
+Ludwig-Wörl-Weg,wikidata,M,Q1875208,way
 Ludwigsbrücke,wikidata,M,Q44361,way
 Ludwigstraße,wikidata,M,Q44361,way
 Luitpoldstraße,wikidata,M,Q44785,way
@@ -450,6 +828,7 @@ Max-Diamand-Straße,wikidata,M,Q1751053,way
 Max-Hirschberg-Weg,wikidata,M,Q74757,way
 Max-Joseph-Platz,wikidata,M,Q44319,way
 Max-Joseph-Straße,wikidata,M,Q44319,way
+Max-Lebsche-Platz,wikidata,M,Q1780967,way
 Max-Liebermann-Straße,wikidata,M,Q158062,way
 Max-Mannheimer-Platz,wikidata,M,Q872108,way
 Max-Planck-Straße,wikidata,M,Q9021,way
@@ -496,6 +875,7 @@ Oskar-von-Miller-Ring,wikidata,M,Q76456,way
 Ossietzkystraße,wikidata,M,Q76358,way
 Ostendorferweg,wikidata,M,Q1928779,way
 Otto-Hahn-Ring,wikidata,M,Q57065,way
+Otto-Kohlhofer-Weg,wikidata,M,Q1742445,way
 Ottostraße,wikidata,M,Q77067,way
 Pappenheimstraße,wikidata,M,Q61869,way
 Paracelsusstraße,wikidata,M,Q83428,way
@@ -518,6 +898,7 @@ Piccoloministraße,wikidata,M,Q697963,way
 Plinganserstraße,wikidata,M,Q1255554,way
 Poccistraße,wikidata,M,Q94757738,way
 Pöhlmannstraße,wikidata,M,Q90661,way
+Prälat-Wellenhofer-Straße,wikidata,M,Q2343969,way
 Pranckhstraße,wikidata,M,Q123479,way
 Preysingplatz,wikidata,M,Q1642217,relation+way
 Preysingstraße,wikidata,M,Q1642217,way
@@ -561,6 +942,7 @@ Sammy-Drechsel-Straße,wikidata,M,Q100247,way
 Sandrartstraße,wikidata,M,Q551624,way
 Sandtnerstraße,wikidata,M,Q1526486,way
 Sankt-Pauls-Platz,wikidata,M,Q9200,way
+Sauerbruchstraße,wikidata,M,Q62330,way
 Scapinellistraße,wikidata,M,Q1041417,way
 Schackstraße,wikidata,M,Q63876,way
 Schafhäutlstraße,wikidata,M,Q73167,way
@@ -676,6 +1058,7 @@ Zeppelinstraße,wikidata,M,Q75780,way
 Zickweg,wikidata,M,Q463372,way
 Zieblandstraße,wikidata,M,Q84473,way
 Zietenstraße,wikidata,M,Q63053,way
+Zinckgrafstraße,wikidata,M,Q536607,way
 Zittelstraße,wikidata,M,Q61904,way
 Zschokkestraße,wikidata,M,Q66207,way
 Zumbuschweg,wikidata,M,Q268977,way
